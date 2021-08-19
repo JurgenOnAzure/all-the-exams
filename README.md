@@ -8,9 +8,9 @@ I'll update this list regularly to keep it fresh, but if you see an error, don't
 Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
-<br/>
-This list was last updated on @ 8/19/2021
-<br/>
+
+<i>This list was last updated on @ 8/19/2021</i>
+
 ## Upcoming changes
 
 <ul>
