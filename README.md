@@ -9,6 +9,59 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 <br/>
+## Upcoming changes
+
+<ul>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310">Exam MB-310: Microsoft Dynamics 365 Finance</a> will be updated on 8/27/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200">Exam DP-200: Implementing an Azure Data Solution</a> will be retired on 8/31/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201">Exam DP-201: Designing an Azure Data Solution</a> will be retired on 8/31/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200">Exam PL-200: Microsoft Power Platform Functional Consultant</a> will be updated on 9/9/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-349">Exam 98-349: Windows Operating System Fundamentals</a> will be retired on 6/30/2022
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-361">Exam 98-361: Software Development Fundamentals</a> will be retired on 6/30/2022
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-364">Exam 98-364: Database Fundamentals</a> will be retired on 6/30/2022
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-365">Exam 98-365: Windows Server Administration Fundamentals</a> will be retired on 6/30/2022
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-366">Exam 98-366: Networking Fundamentals</a> will be retired on 6/30/2022
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-367">Exam 98-367: Security Fundamentals</a> will be retired on 6/30/2022
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-368">Exam 98-368: Mobility and Devices Fundamentals</a> will be retired on 6/30/2022
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-375">Exam 98-375: HTML5 Application Development Fundamentals</a> will be retired on 6/30/2022
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-381">Exam 98-381: Introduction to Programming Using Python</a> will be retired on 6/30/2022
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-382">Exam 98-382: Introduction to Programming Using JavaScript</a> will be retired on 6/30/2022
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-383">Exam 98-383: Introduction to Programming Using HTML and CSS</a> will be retired on 6/30/2022
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-388">Exam 98-388: Introduction to Programming Using Java</a> will be retired on 6/30/2022
+</li>
+</ul>
+
 ## Sections
 
 <ul>
