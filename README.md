@@ -11,6 +11,74 @@ Thanks!
 
 <i>This list was last updated on 8/19/2021</i>
 
+## Recent changes
+
+<ul>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-300">Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations</a> was updated on 8/9/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100">Exam MD-100: Windows 10</a> was updated on 8/5/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100">Exam MS-100: Microsoft 365 Identity and Services</a> was updated on 8/5/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500">Exam AZ-500: Microsoft Azure Security Technologies</a> was updated on 8/2/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a> was updated on 7/29/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/da-100">Exam DA-100: Analyzing Data with Microsoft Power BI</a> was updated on 7/29/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300">Exam DP-300: Administering Relational Databases on Microsoft Azure</a> was updated on 7/29/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101">Exam MD-101: Managing Modern Desktops</a> was updated on 7/29/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101">Exam MS-101: Microsoft 365 Mobility and Security</a> was updated on 7/29/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220">Exam AZ-220: Microsoft Azure IoT Developer</a> was updated on 7/26/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303">Exam AZ-303: Microsoft Azure Architect Technologies</a> was updated on 7/26/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-304">Exam AZ-304: Microsoft Azure Architect Design</a> was updated on 7/26/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​</a> was updated on 7/26/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500">Exam MS-500: Microsoft 365 Security Administration</a> was updated on 7/26/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a> was updated on 7/26/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700">Exam MS-700: Managing Microsoft Teams</a> was updated on 7/26/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a> was updated on 7/26/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210">Exam MB-210: Microsoft Dynamics 365 Sales</a> was updated on 7/23/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-100">Exam PL-100: Microsoft Power Platform App Maker</a> was updated on 7/23/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200">Exam SC-200: Microsoft Security Operations Analyst</a> was updated on 7/23/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400">Exam SC-400: Microsoft Information Protection Administrator</a> was updated on 7/23/2021
+</li>
+</ul>
+
 ## Upcoming changes
 
 <ul>
@@ -61,74 +129,6 @@ Thanks!
 </li>
 <li>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-388">Exam 98-388: Introduction to Programming Using Java</a> will be retired on 6/30/2022
-</li>
-</ul>
-
-## Recent changes
-
-<ul>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210">Exam MB-210: Microsoft Dynamics 365 Sales</a> was updated on 7/23/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-100">Exam PL-100: Microsoft Power Platform App Maker</a> was updated on 7/23/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200">Exam SC-200: Microsoft Security Operations Analyst</a> was updated on 7/23/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400">Exam SC-400: Microsoft Information Protection Administrator</a> was updated on 7/23/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220">Exam AZ-220: Microsoft Azure IoT Developer</a> was updated on 7/26/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303">Exam AZ-303: Microsoft Azure Architect Technologies</a> was updated on 7/26/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-304">Exam AZ-304: Microsoft Azure Architect Design</a> was updated on 7/26/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​</a> was updated on 7/26/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500">Exam MS-500: Microsoft 365 Security Administration</a> was updated on 7/26/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a> was updated on 7/26/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700">Exam MS-700: Managing Microsoft Teams</a> was updated on 7/26/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a> was updated on 7/26/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a> was updated on 7/29/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/da-100">Exam DA-100: Analyzing Data with Microsoft Power BI</a> was updated on 7/29/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300">Exam DP-300: Administering Relational Databases on Microsoft Azure</a> was updated on 7/29/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101">Exam MD-101: Managing Modern Desktops</a> was updated on 7/29/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101">Exam MS-101: Microsoft 365 Mobility and Security</a> was updated on 7/29/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500">Exam AZ-500: Microsoft Azure Security Technologies</a> was updated on 8/2/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100">Exam MD-100: Windows 10</a> was updated on 8/5/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100">Exam MS-100: Microsoft 365 Identity and Services</a> was updated on 8/5/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-300">Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations</a> was updated on 8/9/2021
 </li>
 </ul>
 
