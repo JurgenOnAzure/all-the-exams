@@ -619,19 +619,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-881">Exam 77-881: Word 2010</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-881">Exam 77-881: Word 2010</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-882">Exam 77-882: Excel 2010</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-882">Exam 77-882: Excel 2010</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-883">Exam 77-883: MOS: PowerPoint 2010</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-883">Exam 77-883: MOS: PowerPoint 2010</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
