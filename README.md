@@ -896,13 +896,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-300">Exam AZ-300: Microsoft Azure Architect Technologies</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-300">Exam AZ-300: Microsoft Azure Architect Technologies</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-301">Exam AZ-301: Microsoft Azure Architect Design</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-301">Exam AZ-301: Microsoft Azure Architect Design</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
