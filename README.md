@@ -31,10 +31,8 @@ Thanks!
   <li><a href="#grouppl">PL exams</a></li>
   <li><a href="#groupsc">SC exams</a></li>
 </ul>
-<br/>
 
 ## <span id="group62">62 exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/microsoft-certified-educator/" data-linktype="relative-path">Microsoft Certified Educator</a>:
 
@@ -44,10 +42,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="group70">70 exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcsa-bi-reporting/" data-linktype="relative-path">MCSA: BI Reporting</a>:
 
@@ -63,7 +59,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcsa-microsoft-dynamics-365-for-operations/" data-linktype="relative-path">MCSA: Microsoft Dynamics 365 for Operations</a>:
 
@@ -79,7 +74,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcsa-sql2016-business-intelligence-certification/" data-linktype="relative-path">MCSA: SQL 2016 BI Development</a>:
 
@@ -95,7 +89,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcsa-sql2016-database-development-certification/" data-linktype="relative-path">MCSA: SQL 2016 Database Development</a>:
 
@@ -105,7 +98,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcsa-sql-certification/" data-linktype="relative-path">MCSA: SQL Server 2012/2014</a>:
 
@@ -127,7 +119,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcsa-universal-windows-platform/" data-linktype="relative-path">MCSA: Universal Windows Platform</a>:
 
@@ -143,7 +134,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcsa-web-applications-certification/" data-linktype="relative-path">MCSA: Web Applications</a>:
 
@@ -159,7 +149,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcsa-windows-server-2016-certification/" data-linktype="relative-path">MCSA: Windows Server 2016</a>:
 
@@ -181,7 +170,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcsa-windows-server-certification/" data-linktype="relative-path">MCSA: Windows Server 2012</a>:
 
@@ -203,7 +191,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcsd-app-builder-certification/" data-linktype="relative-path">MCSD: App Builder</a>:
 
@@ -213,7 +200,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcse-core-infrastructure/" data-linktype="relative-path">MCSE: Core Infrastructure</a>:
 
@@ -247,7 +233,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcse-data-management-analytics/" data-linktype="relative-path">MCSE: Data Management and Analytics</a>:
 
@@ -287,7 +272,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcse-productivity-certification/" data-linktype="relative-path">MCSE: Productivity Solutions Expert</a>:
 
@@ -315,7 +299,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### No associated certificate:
 
@@ -343,10 +326,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="group77">77 exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-access-2013/" data-linktype="relative-path">Microsoft Office Specialist: Access 2013</a>:
 
@@ -356,7 +337,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-access-2016/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Access 2016</a>:
 
@@ -366,7 +346,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-excel-2013/" data-linktype="relative-path">Microsoft Office Specialist: Excel 2013</a>:
 
@@ -376,7 +355,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-excel-2013-expert/" data-linktype="relative-path">Microsoft Office Specialist: Excel 2013 Expert</a>:
 
@@ -392,7 +370,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-excel-2016/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Excel 2016</a>:
 
@@ -402,7 +379,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-excel-2016-expert/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Excel 2016 Expert</a>:
 
@@ -412,7 +388,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-onenote-2013/" data-linktype="relative-path">Microsoft Office Specialist: OneNote 2013</a>:
 
@@ -422,7 +397,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-outlook-2013/" data-linktype="relative-path">Microsoft Office Specialist: Outlook 2013</a>:
 
@@ -432,7 +406,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-outlook-2016/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Outlook 2016</a>:
 
@@ -442,7 +415,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-powerpoint-2013/" data-linktype="relative-path">Microsoft Office Specialist: PowerPoint 2013</a>:
 
@@ -452,7 +424,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-powerpoint-2016/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft PowerPoint 2016</a>:
 
@@ -462,7 +433,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-word-2013/" data-linktype="relative-path">Microsoft Office Specialist: Word 2013</a>:
 
@@ -472,7 +442,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-word-2013-expert/" data-linktype="relative-path">Microsoft Office Specialist: Word 2013 Expert</a>:
 
@@ -488,7 +457,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-word-2016/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Word 2016</a>:
 
@@ -498,7 +466,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-word-2016-expert/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Word 2016 Expert</a>:
 
@@ -508,7 +475,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### No associated certificate:
 
@@ -572,10 +538,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="group98">98 exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-database-fundamentals/" data-linktype="relative-path">MTA: Database Fundamentals</a>:
 
@@ -585,7 +549,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-html5-application-development-fundamentals/" data-linktype="relative-path">MTA: HTML5 Application Development Fundamentals</a>:
 
@@ -595,7 +558,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-html-and-css/" data-linktype="relative-path">MTA: Introduction to Programming Using HTML and CSS</a>:
 
@@ -605,7 +567,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-java/" data-linktype="relative-path">MTA: Introduction to Programming Using Java</a>:
 
@@ -615,7 +576,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-javascript/" data-linktype="relative-path">MTA: Introduction to Programming Using JavaScript</a>:
 
@@ -625,7 +585,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python/" data-linktype="relative-path">MTA: Introduction to Programming Using Python</a>:
 
@@ -635,7 +594,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-mobility-and-device-fundamentals/" data-linktype="relative-path">MTA: Mobility and Device Fundamentals</a>:
 
@@ -645,7 +603,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-networking-fundamentals/" data-linktype="relative-path">MTA: Networking Fundamentals</a>:
 
@@ -655,7 +612,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-security-fundamentals/" data-linktype="relative-path">MTA: Security Fundamentals</a>:
 
@@ -665,7 +621,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-software-development-fundamentals/" data-linktype="relative-path">MTA: Software Development Fundamentals</a>:
 
@@ -675,7 +630,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-windows-operating-system-fundamentals/" data-linktype="relative-path">MTA: Windows Operating System Fundamentals</a>:
 
@@ -685,7 +639,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-windows-server-administration-fundamentals/" data-linktype="relative-path">MTA: Windows Server Administration Fundamentals</a>:
 
@@ -695,10 +648,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="groupai">AI exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer/" data-linktype="relative-path">Microsoft Certified: Azure AI Engineer Associate</a>:
 
@@ -708,7 +659,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/" data-linktype="relative-path">Microsoft Certified: Azure AI Fundamentals</a>:
 
@@ -718,7 +668,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### No associated certificate:
 
@@ -728,10 +677,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="groupaz">AZ exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/" data-linktype="relative-path">Microsoft Certified: Azure Administrator Associate</a>:
 
@@ -759,7 +706,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-developer/" data-linktype="relative-path">Microsoft Certified: Azure Developer Associate</a>:
 
@@ -775,7 +721,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-for-sap-workloads-specialty/" data-linktype="relative-path">Microsoft Certified: Azure for SAP Workloads Specialty</a>:
 
@@ -785,7 +730,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/" data-linktype="relative-path">Microsoft Certified: Azure Fundamentals</a>:
 
@@ -807,7 +751,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-iot-developer-specialty/" data-linktype="relative-path">Microsoft Certified: Azure IoT Developer Specialty</a>:
 
@@ -817,7 +760,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-network-engineer-associate/" data-linktype="relative-path">Microsoft Certified: Azure Network Engineer Associate</a>:
 
@@ -827,7 +769,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer/" data-linktype="relative-path">Microsoft Certified: Azure Security Engineer Associate</a>:
 
@@ -837,7 +778,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/" data-linktype="relative-path">Microsoft Certified: Azure Solutions Architect Expert</a>:
 
@@ -859,7 +799,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-stack-hub-operator/" data-linktype="relative-path">Microsoft Certified: Azure Stack Hub Operator Associate</a>:
 
@@ -869,7 +808,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-virtual-desktop-specialty/" data-linktype="relative-path">Microsoft Certified: Azure Virtual Desktop Specialty</a>:
 
@@ -879,7 +817,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/" data-linktype="relative-path">Microsoft Certified: DevOps Engineer Expert</a>:
 
@@ -889,7 +826,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### No associated certificate:
 
@@ -917,10 +853,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="groupda">DA exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/" data-linktype="relative-path">Microsoft Certified: Data Analyst Associate</a>:
 
@@ -930,10 +864,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="groupdp">DP exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-database-administrator-associate/" data-linktype="relative-path">Microsoft Certified: Azure Database Administrator Associate</a>:
 
@@ -943,7 +875,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/" data-linktype="relative-path">Microsoft Certified: Azure Data Engineer Associate</a>:
 
@@ -965,7 +896,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/" data-linktype="relative-path">Microsoft Certified: Azure Data Fundamentals</a>:
 
@@ -975,7 +905,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/" data-linktype="relative-path">Microsoft Certified: Azure Data Scientist Associate</a>:
 
@@ -985,10 +914,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="groupmb">MB exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-business-central-functional-consultant-associate/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate</a>:
 
@@ -998,7 +925,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-finance-and-operations-apps-developer-associate/" data-linktype="relative-path">Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate</a>:
 
@@ -1008,7 +934,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert/" data-linktype="relative-path">Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert</a>:
 
@@ -1018,7 +943,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-functional-consultant-commerce/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate</a>:
 
@@ -1028,7 +952,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-functional-consultant-customer-service/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate</a>:
 
@@ -1038,7 +961,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-functional-consultant-field-service/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate</a>:
 
@@ -1048,7 +970,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-functional-consultant-financials/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate</a>:
 
@@ -1058,7 +979,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-functional-consultant-manufacturing/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate</a>:
 
@@ -1074,7 +994,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-functional-consultant-marketing/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate</a>:
 
@@ -1084,7 +1003,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-functional-consultant-sales/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate</a>:
 
@@ -1094,7 +1012,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-functional-consultant-supply-chain-management/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate</a>:
 
@@ -1104,7 +1021,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-fundamentals/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Fundamentals</a>:
 
@@ -1120,7 +1036,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-fundamentals-customer-engagement-apps-crm/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Fundamentals (CRM)</a>:
 
@@ -1130,7 +1045,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-fundamentals-finance-and-operations-apps-erp/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Fundamentals (ERP)</a>:
 
@@ -1140,7 +1054,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/power-apps-and-d365-developer-associate/" data-linktype="relative-path">Microsoft Certified: Power Apps + Dynamics 365 Developer Associate</a>:
 
@@ -1156,7 +1069,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/power-apps-and-d365-solution-architect-expert/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert</a>:
 
@@ -1166,10 +1078,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="groupmb2">MB2 exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcse-business-applications/" data-linktype="relative-path">MCSE: Business Applications</a>:
 
@@ -1179,10 +1089,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="groupmb6">MB6 exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mcsa-microsoft-dynamics-365-for-operations/" data-linktype="relative-path">MCSA: Microsoft Dynamics 365 for Operations</a>:
 
@@ -1192,7 +1100,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### No associated certificate:
 
@@ -1208,10 +1115,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="groupmd">MD exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/modern-desktop/" data-linktype="relative-path">Microsoft 365 Certified: Modern Desktop Administrator Associate</a>:
 
@@ -1227,10 +1132,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="groupmo">MO exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-access-expert-2019/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Access Expert (Access and Access 2019)</a>:
 
@@ -1240,7 +1143,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-excel-2019/" data-linktype="relative-path">Microsoft Office Specialist: Excel Associate (Excel and Excel 2019)</a>:
 
@@ -1250,7 +1152,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-excel-expert-2019/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Excel Expert (Excel and Excel 2019)</a>:
 
@@ -1260,7 +1161,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-outlook-2019/" data-linktype="relative-path">Microsoft Office Specialist: Outlook Associate (Outlook and Outlook 2019)</a>:
 
@@ -1270,7 +1170,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-powerpoint-2019/" data-linktype="relative-path">Microsoft Office Specialist: PowerPoint Associate (PowerPoint and PowerPoint 2019)</a>:
 
@@ -1280,7 +1179,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-word-2019/" data-linktype="relative-path">Microsoft Office Specialist: Word Associate (Word and Word 2019)</a>:
 
@@ -1290,7 +1188,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-word-expert-2019/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Word Expert (Word and Word 2019)</a>:
 
@@ -1300,10 +1197,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="groupms">MS exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/m365-developer-associate/" data-linktype="relative-path">Microsoft 365 Certified: Developer Associate</a>:
 
@@ -1313,7 +1208,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/m365-enterprise-administrator/" data-linktype="relative-path">Microsoft 365 Certified: Enterprise Administrator Expert</a>:
 
@@ -1329,7 +1223,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/m365-messaging-administrator/" data-linktype="relative-path">Microsoft 365 Certified: Messaging Administrator Associate</a>:
 
@@ -1345,7 +1238,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/m365-security-administrator/" data-linktype="relative-path">Microsoft 365 Certified: Security Administrator Associate</a>:
 
@@ -1355,7 +1247,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/m365-teams-administrator-associate/" data-linktype="relative-path">Microsoft 365 Certified: Teams Administrator Associate</a>:
 
@@ -1365,7 +1256,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/m365-teams-support-engineer-associate/" data-linktype="relative-path">Microsoft 365 Certified: Teams Support Engineer Associate</a>:
 
@@ -1375,7 +1265,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/m365-teamwork-administrator/" data-linktype="relative-path">Microsoft 365 Certified: Teamwork Administrator Associate</a>:
 
@@ -1397,7 +1286,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/microsoft-365-fundamentals/" data-linktype="relative-path">Microsoft 365 Certified: Fundamentals</a>:
 
@@ -1407,7 +1295,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### No associated certificate:
 
@@ -1423,10 +1310,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="grouppl">PL exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/power-platform-app-maker/" data-linktype="relative-path">Microsoft Certified: Power Platform App Maker Associate</a>:
 
@@ -1436,7 +1321,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/power-platform-developer-associate/" data-linktype="relative-path">Microsoft Certified: Power Platform Developer Associate</a>:
 
@@ -1446,7 +1330,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/power-platform-functional-consultant-associate/" data-linktype="relative-path">Microsoft Certified: Power Platform Functional Consultant Associate</a>:
 
@@ -1456,7 +1339,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/power-platform-fundamentals/" data-linktype="relative-path">Microsoft Certified: Power Platform Fundamentals</a>:
 
@@ -1466,7 +1348,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/power-platform-solution-architect-expert/" data-linktype="relative-path">Microsoft Certified: Power Platform Solution Architect Expert</a>:
 
@@ -1476,10 +1357,8 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ## <span id="groupsc">SC exams</span>
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/identity-and-access-administrator/" data-linktype="relative-path">Microsoft Certified: Identity and Access Administrator Associate</a>:
 
@@ -1489,7 +1368,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/information-protection-administrator/" data-linktype="relative-path">Microsoft Certified: Information Protection Administrator Associate</a>:
 
@@ -1499,7 +1377,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/security-compliance-and-identity-fundamentals/" data-linktype="relative-path">Microsoft Certified: Security, Compliance, and Identity Fundamentals</a>:
 
@@ -1509,7 +1386,6 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/security-operations-analyst/" data-linktype="relative-path">Microsoft Certified: Security Operations Analyst Associate</a>:
 
@@ -1519,5 +1395,4 @@ Thanks!
   </li>
 </ul>
 
-<br/>
 
