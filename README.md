@@ -9,8 +9,6 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 <br/>
-<br/>
-
 ## Sections
 
 <ul>
