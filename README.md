@@ -9,6 +9,8 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 <br/>
+This list was last updated on @ 8/19/2021
+<br/>
 ## Upcoming changes
 
 <ul>
