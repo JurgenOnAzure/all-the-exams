@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i>This list was last updated on @ 8/19/2021</i>
+<i>This list was last updated on 8/19/2021</i>
 
 ## Upcoming changes
 
