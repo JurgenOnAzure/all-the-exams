@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i>This list was last updated on 8/19/2021</i>
+<i>This list was last updated on 8/20/2021</i>
 
 ## Recent changes
 
@@ -805,19 +805,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-100">Exam AZ-100: Microsoft Azure Infrastructure and Deployment</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-100">Exam AZ-100: Microsoft Azure Infrastructure and Deployment</a><span  style="color: red;"> (was retired on 5/1/2019)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-101">Exam AZ-101: Microsoft Azure Integration and Security</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-101">Exam AZ-101: Microsoft Azure Integration and Security</a><span  style="color: red;"> (was retired on 5/1/2019)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-102">Exam AZ-102: Microsoft Azure Administrator Certification Transition</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-102">Exam AZ-102: Microsoft Azure Administrator Certification Transition</a><span  style="color: red;"> (was retired on 6/30/2019)</span>
   </li>
 </ul>
 
@@ -832,7 +832,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-202">Exam AZ-202: Microsoft Azure Developer Certification Transition</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-202">Exam AZ-202: Microsoft Azure Developer Certification Transition</a><span  style="color: red;"> (was retired on 3/31/2019)</span>
   </li>
 </ul>
 
@@ -856,13 +856,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-200">Exam AZ-200: Microsoft Azure Developer Core Solutions</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-200">Exam AZ-200: Microsoft Azure Developer Core Solutions</a><span  style="color: red;"> (was retired on 1/3/2019)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-201">Exam AZ-201: Microsoft Azure Developer Advanced Solutions</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-201">Exam AZ-201: Microsoft Azure Developer Advanced Solutions</a><span  style="color: red;"> (was retired on 1/3/2019)</span>
   </li>
 </ul>
 
@@ -904,7 +904,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-302">Exam AZ-302: Microsoft Azure Solutions Architect Certification Transition</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-302">Exam AZ-302: Microsoft Azure Solutions Architect Certification Transition</a><span  style="color: red;"> (was retired on 6/30/2019)</span>
   </li>
 </ul>
 
@@ -1349,7 +1349,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-202">Exam MS-202: Microsoft 365 Messaging Administrator Certification Transition</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-202">Exam MS-202: Microsoft 365 Messaging Administrator Certification Transition</a><span  style="color: red;"> (was retired on 9/30/2019)</span>
   </li>
 </ul>
 
@@ -1403,7 +1403,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-302">Exam MS-302: Microsoft 365 Teamwork Administrator Certification Transition</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-302">Exam MS-302: Microsoft 365 Teamwork Administrator Certification Transition</a><span  style="color: red;"> (was retired on 9/30/2019)</span>
   </li>
 </ul>
 
