@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i>This list was last updated on 8/29/2021</i>
+<i>This list was last updated on 9/5/2021</i>
 
 ## Recent changes
 
@@ -51,31 +51,22 @@ Thanks!
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-388">Exam 98-388: Introduction to Programming Using Java</a> was retired on 6/30/2022
 </li>
 <li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200">Exam DP-200: Implementing an Azure Data Solution</a> was retired on 8/31/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201">Exam DP-201: Designing an Azure Data Solution</a> was retired on 8/31/2021
+</li>
+<li>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310">Exam MB-310: Microsoft Dynamics 365 Finance</a> was updated on 8/27/2021
 </li>
 <li>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-300">Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations</a> was updated on 8/9/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100">Exam MD-100: Windows 10</a> was updated on 8/5/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100">Exam MS-100: Microsoft 365 Identity and Services</a> was updated on 8/5/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500">Exam AZ-500: Microsoft Azure Security Technologies</a> was updated on 8/2/2021
 </li>
 </ul>
 
 ## Upcoming changes
 
 <ul>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200">Exam DP-200: Implementing an Azure Data Solution</a> will be retired on 8/31/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201">Exam DP-201: Designing an Azure Data Solution</a> will be retired on 8/31/2021
-</li>
 <li>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a> will be updated on 9/24/2021
 </li>
@@ -126,6 +117,15 @@ Thanks!
 </li>
 <li>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300">Exam SC-300: Microsoft Identity and Access Administrator</a> will be updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a> will be updated on 9/29/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500">Exam AZ-500: Microsoft Azure Security Technologies</a> will be updated on 9/29/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100">Exam MS-100: Microsoft 365 Identity and Services</a> will be updated on 9/29/2021
 </li>
 <li>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200">Exam PL-200: Microsoft Power Platform Functional Consultant</a> will be updated on 10/1/2021
@@ -895,7 +895,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500">Exam AZ-500: Microsoft Azure Security Technologies</a><span  style="color: green;"> (was updated on 8/2/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500">Exam AZ-500: Microsoft Azure Security Technologies</a><span  style="color: green;"> (will be updated on 9/29/2021)</span>
   </li>
 </ul>
 
@@ -943,7 +943,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a><span  style="color: green;"> (was updated on 5/25/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a><span  style="color: green;"> (will be updated on 9/29/2021)</span>
   </li>
 </ul>
 
@@ -1001,18 +1001,6 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200">Exam DP-200: Implementing an Azure Data Solution</a><span  style="color: red;"> (will be retired on 8/31/2021)</span>
-  </li>
-</ul>
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201">Exam DP-201: Designing an Azure Data Solution</a><span  style="color: red;"> (will be retired on 8/31/2021)</span>
-  </li>
-</ul>
-
-<ul>
-  <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203">Exam DP-203: Data Engineering on Microsoft Azure</a>
   </li>
 </ul>
@@ -1032,6 +1020,21 @@ Thanks!
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100">Exam DP-100: Designing and Implementing a Data Science Solution on Azure</a><span  style="color: green;"> (was updated on 5/20/2021)</span>
+  </li>
+</ul>
+
+
+### No associated certificate:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200">Exam DP-200: Implementing an Azure Data Solution</a><span  style="color: red;"> (was retired on 8/31/2021)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201">Exam DP-201: Designing an Azure Data Solution</a><span  style="color: red;"> (was retired on 8/31/2021)</span>
   </li>
 </ul>
 
@@ -1334,7 +1337,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100">Exam MS-100: Microsoft 365 Identity and Services</a><span  style="color: green;"> (was updated on 8/5/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100">Exam MS-100: Microsoft 365 Identity and Services</a><span  style="color: green;"> (will be updated on 9/29/2021)</span>
   </li>
 </ul>
 
