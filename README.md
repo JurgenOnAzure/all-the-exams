@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i>This list was last updated on 9/5/2021</i>
+<i>This list was last updated on 9/12/2021</i>
 
 ## Recent changes
 
@@ -58,9 +58,6 @@ Thanks!
 </li>
 <li>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310">Exam MB-310: Microsoft Dynamics 365 Finance</a> was updated on 8/27/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-300">Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations</a> was updated on 8/9/2021
 </li>
 </ul>
 
