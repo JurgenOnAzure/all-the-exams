@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i>This list was last updated on 9/12/2021</i>
+<i>This list was last updated on 9/19/2021</i>
 
 ## Recent changes
 
@@ -126,6 +126,9 @@ Thanks!
 </li>
 <li>
 <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200">Exam PL-200: Microsoft Power Platform Functional Consultant</a> will be updated on 10/1/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230">Exam MB-230: Microsoft Dynamics 365 Customer Service</a> will be updated on 10/15/2021
 </li>
 </ul>
 
@@ -634,25 +637,25 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-884">Exam 77-884: Outlook 2010</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-884">Exam 77-884: Outlook 2010</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-885">Exam 77-885: Access 2010</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-885">Exam 77-885: Access 2010</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-887">Exam 77-887: Word 2010 Expert</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-887">Exam 77-887: Word 2010 Expert</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-888">Exam 77-888: Excel 2010 Expert</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-888">Exam 77-888: Excel 2010 Expert</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
@@ -1069,7 +1072,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-340">Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant (beta)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-340">Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant</a>
   </li>
 </ul>
 
@@ -1078,7 +1081,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230">Exam MB-230: Microsoft Dynamics 365 Customer Service</a><span  style="color: green;"> (was updated on 10/2/2020)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230">Exam MB-230: Microsoft Dynamics 365 Customer Service</a><span  style="color: green;"> (will be updated on 10/15/2021)</span>
   </li>
 </ul>
 
