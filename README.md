@@ -9,55 +9,106 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i>This list was last updated on 9/19/2021</i>
+<i id="updatenotice">This list was last updated on 9/26/2021, with 2 changes, indicated by (*).</i>
 
 ## Recent changes
 
 <ul>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-349">Exam 98-349: Windows Operating System Fundamentals</a> was retired on 6/30/2022
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-349" title="Exam 98-349: Windows Operating System Fundamentals">Exam 98-349: Windows Operating System Fundamentals</a> was retired on 6/30/2022
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-361">Exam 98-361: Software Development Fundamentals</a> was retired on 6/30/2022
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-361" title="Exam 98-361: Software Development Fundamentals">Exam 98-361: Software Development Fundamentals</a> was retired on 6/30/2022
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-364">Exam 98-364: Database Fundamentals</a> was retired on 6/30/2022
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-364" title="Exam 98-364: Database Fundamentals">Exam 98-364: Database Fundamentals</a> was retired on 6/30/2022
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-365">Exam 98-365: Windows Server Administration Fundamentals</a> was retired on 6/30/2022
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-365" title="Exam 98-365: Windows Server Administration Fundamentals">Exam 98-365: Windows Server Administration Fundamentals</a> was retired on 6/30/2022
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-366">Exam 98-366: Networking Fundamentals</a> was retired on 6/30/2022
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-366" title="Exam 98-366: Networking Fundamentals">Exam 98-366: Networking Fundamentals</a> was retired on 6/30/2022
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-367">Exam 98-367: Security Fundamentals</a> was retired on 6/30/2022
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-367" title="Exam 98-367: Security Fundamentals">Exam 98-367: Security Fundamentals</a> was retired on 6/30/2022
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-368">Exam 98-368: Mobility and Devices Fundamentals</a> was retired on 6/30/2022
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-368" title="Exam 98-368: Mobility and Devices Fundamentals">Exam 98-368: Mobility and Devices Fundamentals</a> was retired on 6/30/2022
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-375">Exam 98-375: HTML5 Application Development Fundamentals</a> was retired on 6/30/2022
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-375" title="Exam 98-375: HTML5 Application Development Fundamentals">Exam 98-375: HTML5 Application Development Fundamentals</a> was retired on 6/30/2022
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-381">Exam 98-381: Introduction to Programming Using Python</a> was retired on 6/30/2022
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-381" title="Exam 98-381: Introduction to Programming Using Python">Exam 98-381: Introduction to Programming Using Python</a> was retired on 6/30/2022
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-382">Exam 98-382: Introduction to Programming Using JavaScript</a> was retired on 6/30/2022
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-382" title="Exam 98-382: Introduction to Programming Using JavaScript">Exam 98-382: Introduction to Programming Using JavaScript</a> was retired on 6/30/2022
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-383">Exam 98-383: Introduction to Programming Using HTML and CSS</a> was retired on 6/30/2022
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-383" title="Exam 98-383: Introduction to Programming Using HTML and CSS">Exam 98-383: Introduction to Programming Using HTML and CSS</a> was retired on 6/30/2022
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-388">Exam 98-388: Introduction to Programming Using Java</a> was retired on 6/30/2022
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-388" title="Exam 98-388: Introduction to Programming Using Java">Exam 98-388: Introduction to Programming Using Java</a> was retired on 6/30/2022
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200">Exam DP-200: Implementing an Azure Data Solution</a> was retired on 8/31/2021
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102" title="Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a> was updated on 9/24/2021
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201">Exam DP-201: Designing an Azure Data Solution</a> was retired on 8/31/2021
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" title="Exam AZ-104: Microsoft Azure Administrator">Exam AZ-104: Microsoft Azure Administrator</a> was updated on 9/24/2021
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310">Exam MB-310: Microsoft Dynamics 365 Finance</a> was updated on 8/27/2021
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-140" title="Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop">Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303" title="Exam AZ-303: Microsoft Azure Architect Technologies">Exam AZ-303: Microsoft Azure Architect Technologies</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-304" title="Exam AZ-304: Microsoft Azure Architect Design">Exam AZ-304: Microsoft Azure Architect Design</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-600" title="Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub">Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/da-100" title="Exam DA-100: Analyzing Data with Microsoft Power BI">Exam DA-100: Analyzing Data with Microsoft Power BI</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300" title="Exam DP-300: Administering Relational Databases on Microsoft Azure">Exam DP-300: Administering Relational Databases on Microsoft Azure</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101" title="Exam MD-101: Managing Modern Desktops">Exam MD-101: Managing Modern Desktops</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101" title="Exam MS-101: Microsoft 365 Mobility and Security">Exam MS-101: Microsoft 365 Mobility and Security</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500" title="Exam MS-500: Microsoft 365 Security Administration">Exam MS-500: Microsoft 365 Security Administration</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600" title="Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700" title="Exam MS-700: Managing Microsoft Teams">Exam MS-700: Managing Microsoft Teams</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300" title="Exam SC-300: Microsoft Identity and Access Administrator">Exam SC-300: Microsoft Identity and Access Administrator</a> was updated on 9/24/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200" title="Exam DP-200: Implementing an Azure Data Solution">Exam DP-200: Implementing an Azure Data Solution</a> was retired on 8/31/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201" title="Exam DP-201: Designing an Azure Data Solution">Exam DP-201: Designing an Azure Data Solution</a> was retired on 8/31/2021
+</li>
+<li>
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310" title="Exam MB-310: Microsoft Dynamics 365 Finance">Exam MB-310: Microsoft Dynamics 365 Finance</a> was updated on 8/27/2021
 </li>
 </ul>
 
@@ -65,92 +116,47 @@ Thanks!
 
 <ul>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a> will be updated on 9/24/2021
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a> will be updated on 9/29/2021
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104">Exam AZ-104: Microsoft Azure Administrator</a> will be updated on 9/24/2021
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a> will be updated on 9/29/2021
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a> will be updated on 9/24/2021
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100" title="Exam MS-100: Microsoft 365 Identity and Services">Exam MS-100: Microsoft 365 Identity and Services</a> will be updated on 9/29/2021
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-140">Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop</a> will be updated on 9/24/2021
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a> will be updated on 10/1/2021
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220">Exam AZ-220: Microsoft Azure IoT Developer</a> will be updated on 9/24/2021
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service">Exam MB-230: Microsoft Dynamics 365 Customer Service</a> will be updated on 10/15/2021
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303">Exam AZ-303: Microsoft Azure Architect Technologies</a> will be updated on 9/24/2021
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900" title="Exam AZ-900: Microsoft Azure Fundamentals">Exam AZ-900: Microsoft Azure Fundamentals</a> will be updated on 10/25/2021 <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
 </li>
 <li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-304">Exam AZ-304: Microsoft Azure Architect Design</a> will be updated on 9/24/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-600">Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a> will be updated on 9/24/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/da-100">Exam DA-100: Analyzing Data with Microsoft Power BI</a> will be updated on 9/24/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300">Exam DP-300: Administering Relational Databases on Microsoft Azure</a> will be updated on 9/24/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101">Exam MD-101: Managing Modern Desktops</a> will be updated on 9/24/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101">Exam MS-101: Microsoft 365 Mobility and Security</a> will be updated on 9/24/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500">Exam MS-500: Microsoft 365 Security Administration</a> will be updated on 9/24/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a> will be updated on 9/24/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700">Exam MS-700: Managing Microsoft Teams</a> will be updated on 9/24/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200">Exam SC-200: Microsoft Security Operations Analyst</a> will be updated on 9/24/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300">Exam SC-300: Microsoft Identity and Access Administrator</a> will be updated on 9/24/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a> will be updated on 9/29/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500">Exam AZ-500: Microsoft Azure Security Technologies</a> will be updated on 9/29/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100">Exam MS-100: Microsoft 365 Identity and Services</a> will be updated on 9/29/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200">Exam PL-200: Microsoft Power Platform Functional Consultant</a> will be updated on 10/1/2021
-</li>
-<li>
-<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230">Exam MB-230: Microsoft Dynamics 365 Customer Service</a> will be updated on 10/15/2021
+<a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a> will be updated on 10/25/2021 <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
 </li>
 </ul>
 
 ## Sections
 
 <ul>
-  <li><a href="#group62">62 exams</a></li>
-  <li><a href="#group70">70 exams</a></li>
-  <li><a href="#group77">77 exams</a></li>
-  <li><a href="#group98">98 exams</a></li>
-  <li><a href="#groupai">AI exams</a></li>
-  <li><a href="#groupaz">AZ exams</a></li>
-  <li><a href="#groupda">DA exams</a></li>
-  <li><a href="#groupdp">DP exams</a></li>
-  <li><a href="#groupmb">MB exams</a></li>
-  <li><a href="#groupmb2">MB2 exams</a></li>
-  <li><a href="#groupmb6">MB6 exams</a></li>
-  <li><a href="#groupmd">MD exams</a></li>
-  <li><a href="#groupmo">MO exams</a></li>
-  <li><a href="#groupms">MS exams</a></li>
-  <li><a href="#grouppl">PL exams</a></li>
-  <li><a href="#groupsc">SC exams</a></li>
+  <li><a href="#group62" title="62 exams">62 exams</a></li>
+  <li><a href="#group70" title="70 exams">70 exams</a></li>
+  <li><a href="#group77" title="77 exams">77 exams</a></li>
+  <li><a href="#group98" title="98 exams">98 exams</a></li>
+  <li><a href="#groupai" title="AI exams">AI exams</a></li>
+  <li><a href="#groupaz" title="AZ exams">AZ exams</a></li>
+  <li><a href="#groupda" title="DA exams">DA exams</a></li>
+  <li><a href="#groupdp" title="DP exams">DP exams</a></li>
+  <li><a href="#groupmb" title="MB exams">MB exams</a></li>
+  <li><a href="#groupmb2" title="MB2 exams">MB2 exams</a></li>
+  <li><a href="#groupmb6" title="MB6 exams">MB6 exams</a></li>
+  <li><a href="#groupmd" title="MD exams">MD exams</a></li>
+  <li><a href="#groupmo" title="MO exams">MO exams</a></li>
+  <li><a href="#groupms" title="MS exams">MS exams</a></li>
+  <li><a href="#grouppl" title="PL exams">PL exams</a></li>
+  <li><a href="#groupsc" title="SC exams">SC exams</a></li>
 </ul>
 
 ## <span id="group62">62 exams</span>
@@ -159,7 +165,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/62-193">Exam 62-193: Technology Literacy for Educators</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/62-193" title="Exam 62-193: Technology Literacy for Educators">Exam 62-193: Technology Literacy for Educators</a>
   </li>
 </ul>
 
@@ -170,13 +176,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-778">Exam 70-778: Analyzing and Visualizing Data with Microsoft Power BI</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-778" title="Exam 70-778: Analyzing and Visualizing Data with Microsoft Power BI">Exam 70-778: Analyzing and Visualizing Data with Microsoft Power BI</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-779">Exam 70-779: Analyzing and Visualizing Data with Microsoft Excel</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-779" title="Exam 70-779: Analyzing and Visualizing Data with Microsoft Excel">Exam 70-779: Analyzing and Visualizing Data with Microsoft Excel</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -185,13 +191,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-764">Exam 70-764: Administering a SQL Database Infrastructure</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-764" title="Exam 70-764: Administering a SQL Database Infrastructure">Exam 70-764: Administering a SQL Database Infrastructure</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-765">Exam 70-765: Provisioning SQL Databases</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-765" title="Exam 70-765: Provisioning SQL Databases">Exam 70-765: Provisioning SQL Databases</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -200,13 +206,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-767">Exam 70-767: Implementing a Data Warehouse using SQL</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-767" title="Exam 70-767: Implementing a Data Warehouse using SQL">Exam 70-767: Implementing a Data Warehouse using SQL</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-768">Exam 70-768: Developing SQL Data Models</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-768" title="Exam 70-768: Developing SQL Data Models">Exam 70-768: Developing SQL Data Models</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -215,7 +221,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-761">Exam 70-761: Querying Data with Transact-SQL</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-761" title="Exam 70-761: Querying Data with Transact-SQL">Exam 70-761: Querying Data with Transact-SQL</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -224,19 +230,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-461">Exam 70-461: Querying Microsoft SQL Server 2012/2014</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-461" title="Exam 70-461: Querying Microsoft SQL Server 2012/2014">Exam 70-461: Querying Microsoft SQL Server 2012/2014</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-462">Exam 70-462: Administering Microsoft SQL Server 2012/2014 Databases</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-462" title="Exam 70-462: Administering Microsoft SQL Server 2012/2014 Databases">Exam 70-462: Administering Microsoft SQL Server 2012/2014 Databases</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-463">Exam 70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-463" title="Exam 70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014">Exam 70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -245,13 +251,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-357">Exam 70-357: Developing Mobile Apps</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-357" title="Exam 70-357: Developing Mobile Apps">Exam 70-357: Developing Mobile Apps</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-483">Exam 70-483: Programming in C#</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-483" title="Exam 70-483: Programming in C#">Exam 70-483: Programming in C#</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -260,13 +266,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-480">Exam 70-480: Programming in HTML5 with JavaScript and CSS3</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-480" title="Exam 70-480: Programming in HTML5 with JavaScript and CSS3">Exam 70-480: Programming in HTML5 with JavaScript and CSS3</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-486">Exam 70-486: Developing ASP.NET MVC Web Applications</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-486" title="Exam 70-486: Developing ASP.NET MVC Web Applications">Exam 70-486: Developing ASP.NET MVC Web Applications</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -275,19 +281,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-740">Exam 70-740: Installation, Storage, and Compute with Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-740" title="Exam 70-740: Installation, Storage, and Compute with Windows Server 2016">Exam 70-740: Installation, Storage, and Compute with Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-741">Exam 70-741: Networking with Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-741" title="Exam 70-741: Networking with Windows Server 2016">Exam 70-741: Networking with Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-742">Exam 70-742: Identity with Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-742" title="Exam 70-742: Identity with Windows Server 2016">Exam 70-742: Identity with Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -296,19 +302,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-410">Exam 70-410: Installing and Configuring Windows Server 2012</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-410" title="Exam 70-410: Installing and Configuring Windows Server 2012">Exam 70-410: Installing and Configuring Windows Server 2012</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-411">Exam 70-411: Administering Windows Server 2012</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-411" title="Exam 70-411: Administering Windows Server 2012">Exam 70-411: Administering Windows Server 2012</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-412">Exam 70-412: Configuring Advanced Windows Server 2012 Services</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-412" title="Exam 70-412: Configuring Advanced Windows Server 2012 Services">Exam 70-412: Configuring Advanced Windows Server 2012 Services</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -317,7 +323,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-487">Exam 70-487: Developing Microsoft Azure and Web Services</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-487" title="Exam 70-487: Developing Microsoft Azure and Web Services">Exam 70-487: Developing Microsoft Azure and Web Services</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -326,31 +332,31 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-413">Exam 70-413: Designing and Implementing a Server Infrastructure</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-413" title="Exam 70-413: Designing and Implementing a Server Infrastructure">Exam 70-413: Designing and Implementing a Server Infrastructure</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-414">Exam 70-414: Implementing an Advanced Server Infrastructure</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-414" title="Exam 70-414: Implementing an Advanced Server Infrastructure">Exam 70-414: Implementing an Advanced Server Infrastructure</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-537">Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-537" title="Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub">Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-744">Exam 70-744: Securing Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-744" title="Exam 70-744: Securing Windows Server 2016">Exam 70-744: Securing Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-745">Exam 70-745: Implementing a Software-Defined Datacenter</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-745" title="Exam 70-745: Implementing a Software-Defined Datacenter">Exam 70-745: Implementing a Software-Defined Datacenter</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -359,37 +365,37 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-464">Exam 70-464: Developing Microsoft SQL Server Databases</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-464" title="Exam 70-464: Developing Microsoft SQL Server Databases">Exam 70-464: Developing Microsoft SQL Server Databases</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-465">Exam 70-465: Designing Database Solutions for Microsoft SQL Server</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-465" title="Exam 70-465: Designing Database Solutions for Microsoft SQL Server">Exam 70-465: Designing Database Solutions for Microsoft SQL Server</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-466">Exam 70-466: Implementing Data Models and Reports with Microsoft SQL Server</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-466" title="Exam 70-466: Implementing Data Models and Reports with Microsoft SQL Server">Exam 70-466: Implementing Data Models and Reports with Microsoft SQL Server</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-467">Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-467" title="Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server">Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-762">Exam 70-762: Developing SQL Databases</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-762" title="Exam 70-762: Developing SQL Databases">Exam 70-762: Developing SQL Databases</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-777">Exam 70-777: Implementing Microsoft Azure Cosmos DB Solutions</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-777" title="Exam 70-777: Implementing Microsoft Azure Cosmos DB Solutions">Exam 70-777: Implementing Microsoft Azure Cosmos DB Solutions</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -398,25 +404,25 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-333">Exam 70-333: Deploying Enterprise Voice with Skype for Business 2015</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-333" title="Exam 70-333: Deploying Enterprise Voice with Skype for Business 2015">Exam 70-333: Deploying Enterprise Voice with Skype for Business 2015</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-334">Exam 70-334: Core Solutions of Microsoft Skype for Business 2015</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-334" title="Exam 70-334: Core Solutions of Microsoft Skype for Business 2015">Exam 70-334: Core Solutions of Microsoft Skype for Business 2015</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-339">Exam 70-339: Managing Microsoft SharePoint Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-339" title="Exam 70-339: Managing Microsoft SharePoint Server 2016">Exam 70-339: Managing Microsoft SharePoint Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-345">Exam 70-345: Designing and Deploying Microsoft Exchange Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-345" title="Exam 70-345: Designing and Deploying Microsoft Exchange Server 2016">Exam 70-345: Designing and Deploying Microsoft Exchange Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -425,25 +431,25 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-417">Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-417" title="Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012">Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-705">Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-705" title="Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations">Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-743">Exam 70-743: Upgrading Your Skills to MCSA: Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-743" title="Exam 70-743: Upgrading Your Skills to MCSA: Windows Server 2016">Exam 70-743: Upgrading Your Skills to MCSA: Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-797">Exam 70-797: Configuring Windows Devices (pilot)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-797" title="Exam 70-797: Configuring Windows Devices (pilot)">Exam 70-797: Configuring Windows Devices (pilot)</a>
   </li>
 </ul>
 
@@ -454,7 +460,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-424">Exam 77-424: Microsoft Access 2013</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-424" title="Exam 77-424: Microsoft Access 2013">Exam 77-424: Microsoft Access 2013</a>
   </li>
 </ul>
 
@@ -463,7 +469,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-730">Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-730" title="Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills">Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills</a>
   </li>
 </ul>
 
@@ -472,7 +478,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-420">Exam 77-420: Microsoft Excel 2013</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-420" title="Exam 77-420: Microsoft Excel 2013">Exam 77-420: Microsoft Excel 2013</a>
   </li>
 </ul>
 
@@ -481,13 +487,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-427">Exam 77-427: Microsoft Excel 2013 Expert Part One</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-427" title="Exam 77-427: Microsoft Excel 2013 Expert Part One">Exam 77-427: Microsoft Excel 2013 Expert Part One</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-428">Exam 77-428: Microsoft Excel 2013 Expert Part Two</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-428" title="Exam 77-428: Microsoft Excel 2013 Expert Part Two">Exam 77-428: Microsoft Excel 2013 Expert Part Two</a>
   </li>
 </ul>
 
@@ -496,7 +502,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-727">Exam 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-727" title="Exam 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation">Exam 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation</a>
   </li>
 </ul>
 
@@ -505,7 +511,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-728">Exam 77-728: Excel 2016 Expert: Interpreting Data for Insights</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-728" title="Exam 77-728: Excel 2016 Expert: Interpreting Data for Insights">Exam 77-728: Excel 2016 Expert: Interpreting Data for Insights</a>
   </li>
 </ul>
 
@@ -514,7 +520,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-421">Exam 77-421: Microsoft OneNote 2013</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-421" title="Exam 77-421: Microsoft OneNote 2013">Exam 77-421: Microsoft OneNote 2013</a>
   </li>
 </ul>
 
@@ -523,7 +529,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-423">Exam 77-423: Microsoft Outlook 2013</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-423" title="Exam 77-423: Microsoft Outlook 2013">Exam 77-423: Microsoft Outlook 2013</a>
   </li>
 </ul>
 
@@ -532,7 +538,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-731">Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-731" title="Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills">Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills</a>
   </li>
 </ul>
 
@@ -541,7 +547,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-422">Exam 77-422: Microsoft PowerPoint 2013</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-422" title="Exam 77-422: Microsoft PowerPoint 2013">Exam 77-422: Microsoft PowerPoint 2013</a>
   </li>
 </ul>
 
@@ -550,7 +556,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-729">Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-729" title="Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills">Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills</a>
   </li>
 </ul>
 
@@ -559,7 +565,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-418">Exam 77-418: Microsoft Word 2013</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-418" title="Exam 77-418: Microsoft Word 2013">Exam 77-418: Microsoft Word 2013</a>
   </li>
 </ul>
 
@@ -568,13 +574,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-425">Exam 77-425: Microsoft Word 2013 Expert Part One</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-425" title="Exam 77-425: Microsoft Word 2013 Expert Part One">Exam 77-425: Microsoft Word 2013 Expert Part One</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-426">Exam 77-426: Microsoft Word 2013 Expert Part Two</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-426" title="Exam 77-426: Microsoft Word 2013 Expert Part Two">Exam 77-426: Microsoft Word 2013 Expert Part Two</a>
   </li>
 </ul>
 
@@ -583,7 +589,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-725">Exam 77-725: Word 2016: Core Document Creation, Collaboration, and Communication</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-725" title="Exam 77-725: Word 2016: Core Document Creation, Collaboration, and Communication">Exam 77-725: Word 2016: Core Document Creation, Collaboration, and Communication</a>
   </li>
 </ul>
 
@@ -592,7 +598,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-726">Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-726" title="Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication">Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication</a>
   </li>
 </ul>
 
@@ -601,61 +607,61 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-419">Exam 77-419: Microsoft SharePoint 2013</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-419" title="Exam 77-419: Microsoft SharePoint 2013">Exam 77-419: Microsoft SharePoint 2013</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-601">Exam 77-601: MOS: Using Microsoft Office Word 2007</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-601" title="Exam 77-601: MOS: Using Microsoft Office Word 2007">Exam 77-601: MOS: Using Microsoft Office Word 2007</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-602">Exam 77-602: MOS: Using Microsoft Office Excel 2007</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-602" title="Exam 77-602: MOS: Using Microsoft Office Excel 2007">Exam 77-602: MOS: Using Microsoft Office Excel 2007</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-881">Exam 77-881: Word 2010</a><span  style="color: red;"> (is retired)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-881" title="Exam 77-881: Word 2010">Exam 77-881: Word 2010</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-882">Exam 77-882: Excel 2010</a><span  style="color: red;"> (is retired)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-882" title="Exam 77-882: Excel 2010">Exam 77-882: Excel 2010</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-883">Exam 77-883: MOS: PowerPoint 2010</a><span  style="color: red;"> (is retired)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-883" title="Exam 77-883: MOS: PowerPoint 2010">Exam 77-883: MOS: PowerPoint 2010</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-884">Exam 77-884: Outlook 2010</a><span  style="color: red;"> (is retired)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-884" title="Exam 77-884: Outlook 2010">Exam 77-884: Outlook 2010</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-885">Exam 77-885: Access 2010</a><span  style="color: red;"> (is retired)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-885" title="Exam 77-885: Access 2010">Exam 77-885: Access 2010</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-887">Exam 77-887: Word 2010 Expert</a><span  style="color: red;"> (is retired)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-887" title="Exam 77-887: Word 2010 Expert">Exam 77-887: Word 2010 Expert</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-888">Exam 77-888: Excel 2010 Expert</a><span  style="color: red;"> (is retired)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-888" title="Exam 77-888: Excel 2010 Expert">Exam 77-888: Excel 2010 Expert</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
@@ -666,7 +672,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-364">Exam 98-364: Database Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-364" title="Exam 98-364: Database Fundamentals">Exam 98-364: Database Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
   </li>
 </ul>
 
@@ -675,7 +681,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-375">Exam 98-375: HTML5 Application Development Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-375" title="Exam 98-375: HTML5 Application Development Fundamentals">Exam 98-375: HTML5 Application Development Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
   </li>
 </ul>
 
@@ -684,7 +690,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-383">Exam 98-383: Introduction to Programming Using HTML and CSS</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-383" title="Exam 98-383: Introduction to Programming Using HTML and CSS">Exam 98-383: Introduction to Programming Using HTML and CSS</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
   </li>
 </ul>
 
@@ -693,7 +699,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-388">Exam 98-388: Introduction to Programming Using Java</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-388" title="Exam 98-388: Introduction to Programming Using Java">Exam 98-388: Introduction to Programming Using Java</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
   </li>
 </ul>
 
@@ -702,7 +708,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-382">Exam 98-382: Introduction to Programming Using JavaScript</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-382" title="Exam 98-382: Introduction to Programming Using JavaScript">Exam 98-382: Introduction to Programming Using JavaScript</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
   </li>
 </ul>
 
@@ -711,7 +717,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-381">Exam 98-381: Introduction to Programming Using Python</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-381" title="Exam 98-381: Introduction to Programming Using Python">Exam 98-381: Introduction to Programming Using Python</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
   </li>
 </ul>
 
@@ -720,7 +726,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-368">Exam 98-368: Mobility and Devices Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-368" title="Exam 98-368: Mobility and Devices Fundamentals">Exam 98-368: Mobility and Devices Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
   </li>
 </ul>
 
@@ -729,7 +735,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-366">Exam 98-366: Networking Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-366" title="Exam 98-366: Networking Fundamentals">Exam 98-366: Networking Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
   </li>
 </ul>
 
@@ -738,7 +744,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-367">Exam 98-367: Security Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-367" title="Exam 98-367: Security Fundamentals">Exam 98-367: Security Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
   </li>
 </ul>
 
@@ -747,7 +753,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-361">Exam 98-361: Software Development Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-361" title="Exam 98-361: Software Development Fundamentals">Exam 98-361: Software Development Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
   </li>
 </ul>
 
@@ -756,7 +762,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-349">Exam 98-349: Windows Operating System Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-349" title="Exam 98-349: Windows Operating System Fundamentals">Exam 98-349: Windows Operating System Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
   </li>
 </ul>
 
@@ -765,7 +771,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-365">Exam 98-365: Windows Server Administration Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-365" title="Exam 98-365: Windows Server Administration Fundamentals">Exam 98-365: Windows Server Administration Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span>
   </li>
 </ul>
 
@@ -776,7 +782,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102" title="Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -785,7 +791,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900">Exam AI-900: Microsoft Azure AI Fundamentals</a><span  style="color: green;"> (was updated on 4/23/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a><span  style="color: green;"> (was updated on 4/23/2021)</span>
   </li>
 </ul>
 
@@ -794,7 +800,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-100">Exam AI-100: Designing and Implementing an Azure AI Solution</a><span  style="color: red;"> (was retired on 6/30/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-100" title="Exam AI-100: Designing and Implementing an Azure AI Solution">Exam AI-100: Designing and Implementing an Azure AI Solution</a><span  style="color: red;"> (was retired on 6/30/2021)</span>
   </li>
 </ul>
 
@@ -805,25 +811,25 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-100">Exam AZ-100: Microsoft Azure Infrastructure and Deployment</a><span  style="color: red;"> (was retired on 5/1/2019)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-100" title="Exam AZ-100: Microsoft Azure Infrastructure and Deployment">Exam AZ-100: Microsoft Azure Infrastructure and Deployment</a><span  style="color: red;"> (was retired on 5/1/2019)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-101">Exam AZ-101: Microsoft Azure Integration and Security</a><span  style="color: red;"> (was retired on 5/1/2019)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-101" title="Exam AZ-101: Microsoft Azure Integration and Security">Exam AZ-101: Microsoft Azure Integration and Security</a><span  style="color: red;"> (was retired on 5/1/2019)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-102">Exam AZ-102: Microsoft Azure Administrator Certification Transition</a><span  style="color: red;"> (was retired on 6/30/2019)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-102" title="Exam AZ-102: Microsoft Azure Administrator Certification Transition">Exam AZ-102: Microsoft Azure Administrator Certification Transition</a><span  style="color: red;"> (was retired on 6/30/2019)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104">Exam AZ-104: Microsoft Azure Administrator</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" title="Exam AZ-104: Microsoft Azure Administrator">Exam AZ-104: Microsoft Azure Administrator</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -832,13 +838,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-202">Exam AZ-202: Microsoft Azure Developer Certification Transition</a><span  style="color: red;"> (was retired on 3/31/2019)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-202" title="Exam AZ-202: Microsoft Azure Developer Certification Transition">Exam AZ-202: Microsoft Azure Developer Certification Transition</a><span  style="color: red;"> (was retired on 3/31/2019)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204">Exam AZ-204: Developing Solutions for Microsoft Azure</a><span  style="color: green;"> (was updated on 3/26/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204" title="Exam AZ-204: Developing Solutions for Microsoft Azure">Exam AZ-204: Developing Solutions for Microsoft Azure</a><span  style="color: green;"> (was updated on 3/26/2021)</span>
   </li>
 </ul>
 
@@ -847,7 +853,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -856,19 +862,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-200">Exam AZ-200: Microsoft Azure Developer Core Solutions</a><span  style="color: red;"> (was retired on 1/3/2019)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-200" title="Exam AZ-200: Microsoft Azure Developer Core Solutions">Exam AZ-200: Microsoft Azure Developer Core Solutions</a><span  style="color: red;"> (was retired on 1/3/2019)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-201">Exam AZ-201: Microsoft Azure Developer Advanced Solutions</a><span  style="color: red;"> (was retired on 1/3/2019)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-201" title="Exam AZ-201: Microsoft Azure Developer Advanced Solutions">Exam AZ-201: Microsoft Azure Developer Advanced Solutions</a><span  style="color: red;"> (was retired on 1/3/2019)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900">Exam AZ-900: Microsoft Azure Fundamentals</a><span  style="color: green;"> (was updated on 11/9/2020)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900" title="Exam AZ-900: Microsoft Azure Fundamentals">Exam AZ-900: Microsoft Azure Fundamentals</a><span  style="color: green;"> (will be updated on 10/25/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -877,7 +883,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220">Exam AZ-220: Microsoft Azure IoT Developer</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -886,7 +892,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-700">Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-700" title="Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta)">Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions (beta)</a>
   </li>
 </ul>
 
@@ -895,7 +901,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500">Exam AZ-500: Microsoft Azure Security Technologies</a><span  style="color: green;"> (will be updated on 9/29/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a><span  style="color: green;"> (will be updated on 9/29/2021)</span>
   </li>
 </ul>
 
@@ -904,19 +910,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-302">Exam AZ-302: Microsoft Azure Solutions Architect Certification Transition</a><span  style="color: red;"> (was retired on 6/30/2019)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-302" title="Exam AZ-302: Microsoft Azure Solutions Architect Certification Transition">Exam AZ-302: Microsoft Azure Solutions Architect Certification Transition</a><span  style="color: red;"> (was retired on 6/30/2019)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303">Exam AZ-303: Microsoft Azure Architect Technologies</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303" title="Exam AZ-303: Microsoft Azure Architect Technologies">Exam AZ-303: Microsoft Azure Architect Technologies</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-304">Exam AZ-304: Microsoft Azure Architect Design</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-304" title="Exam AZ-304: Microsoft Azure Architect Design">Exam AZ-304: Microsoft Azure Architect Design</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -925,7 +931,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-600">Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-600" title="Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub">Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -934,7 +940,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-140">Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-140" title="Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop">Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -943,7 +949,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a><span  style="color: green;"> (will be updated on 9/29/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a><span  style="color: green;"> (will be updated on 9/29/2021)</span>
   </li>
 </ul>
 
@@ -952,25 +958,25 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-103">Exam AZ-103: Microsoft Azure Administrator</a><span  style="color: red;"> (was retired on 8/31/2020)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-103" title="Exam AZ-103: Microsoft Azure Administrator">Exam AZ-103: Microsoft Azure Administrator</a><span  style="color: red;"> (was retired on 8/31/2020)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-203">Exam AZ-203: Developing Solutions for Microsoft Azure</a><span  style="color: red;"> (was retired on 8/31/2020)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-203" title="Exam AZ-203: Developing Solutions for Microsoft Azure">Exam AZ-203: Developing Solutions for Microsoft Azure</a><span  style="color: red;"> (was retired on 8/31/2020)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-300">Exam AZ-300: Microsoft Azure Architect Technologies</a><span  style="color: red;"> (is retired)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-300" title="Exam AZ-300: Microsoft Azure Architect Technologies">Exam AZ-300: Microsoft Azure Architect Technologies</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-301">Exam AZ-301: Microsoft Azure Architect Design</a><span  style="color: red;"> (is retired)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-301" title="Exam AZ-301: Microsoft Azure Architect Design">Exam AZ-301: Microsoft Azure Architect Design</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
@@ -981,7 +987,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/da-100">Exam DA-100: Analyzing Data with Microsoft Power BI</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/da-100" title="Exam DA-100: Analyzing Data with Microsoft Power BI">Exam DA-100: Analyzing Data with Microsoft Power BI</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -992,7 +998,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300">Exam DP-300: Administering Relational Databases on Microsoft Azure</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300" title="Exam DP-300: Administering Relational Databases on Microsoft Azure">Exam DP-300: Administering Relational Databases on Microsoft Azure</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -1001,7 +1007,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203">Exam DP-203: Data Engineering on Microsoft Azure</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203" title="Exam DP-203: Data Engineering on Microsoft Azure">Exam DP-203: Data Engineering on Microsoft Azure</a>
   </li>
 </ul>
 
@@ -1010,7 +1016,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900">Exam DP-900: Microsoft Azure Data Fundamentals</a><span  style="color: green;"> (was updated on 4/23/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a><span  style="color: green;"> (will be updated on 10/25/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1019,7 +1025,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100">Exam DP-100: Designing and Implementing a Data Science Solution on Azure</a><span  style="color: green;"> (was updated on 5/20/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100" title="Exam DP-100: Designing and Implementing a Data Science Solution on Azure">Exam DP-100: Designing and Implementing a Data Science Solution on Azure</a><span  style="color: green;"> (was updated on 5/20/2021)</span>
   </li>
 </ul>
 
@@ -1028,13 +1034,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200">Exam DP-200: Implementing an Azure Data Solution</a><span  style="color: red;"> (was retired on 8/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200" title="Exam DP-200: Implementing an Azure Data Solution">Exam DP-200: Implementing an Azure Data Solution</a><span  style="color: red;"> (was retired on 8/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201">Exam DP-201: Designing an Azure Data Solution</a><span  style="color: red;"> (was retired on 8/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201" title="Exam DP-201: Designing an Azure Data Solution">Exam DP-201: Designing an Azure Data Solution</a><span  style="color: red;"> (was retired on 8/31/2021)</span>
   </li>
 </ul>
 
@@ -1045,7 +1051,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800">Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800" title="Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant">Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant</a>
   </li>
 </ul>
 
@@ -1054,7 +1060,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-500">Exam MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer</a><span  style="color: green;"> (was updated on 4/2/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-500" title="Exam MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer">Exam MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer</a><span  style="color: green;"> (was updated on 4/2/2021)</span>
   </li>
 </ul>
 
@@ -1063,7 +1069,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a><span  style="color: green;"> (was updated on 3/17/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a><span  style="color: green;"> (was updated on 3/17/2021)</span>
   </li>
 </ul>
 
@@ -1072,7 +1078,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-340">Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-340" title="Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant">Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant</a>
   </li>
 </ul>
 
@@ -1081,7 +1087,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230">Exam MB-230: Microsoft Dynamics 365 Customer Service</a><span  style="color: green;"> (will be updated on 10/15/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service">Exam MB-230: Microsoft Dynamics 365 Customer Service</a><span  style="color: green;"> (will be updated on 10/15/2021)</span>
   </li>
 </ul>
 
@@ -1090,7 +1096,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240">Exam MB-240: Microsoft Dynamics 365 Field Service</a><span  style="color: green;"> (was updated on 4/26/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service">Exam MB-240: Microsoft Dynamics 365 Field Service</a><span  style="color: green;"> (was updated on 4/26/2021)</span>
   </li>
 </ul>
 
@@ -1099,7 +1105,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310">Exam MB-310: Microsoft Dynamics 365 Finance</a><span  style="color: green;"> (was updated on 8/27/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310" title="Exam MB-310: Microsoft Dynamics 365 Finance">Exam MB-310: Microsoft Dynamics 365 Finance</a><span  style="color: green;"> (was updated on 8/27/2021)</span>
   </li>
 </ul>
 
@@ -1108,13 +1114,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-300">Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations</a><span  style="color: green;"> (was updated on 8/9/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-300" title="Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations">Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations</a><span  style="color: green;"> (was updated on 8/9/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-320">Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing</a><span  style="color: green;"> (was updated on 10/16/2020)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-320" title="Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing">Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing</a><span  style="color: green;"> (was updated on 10/16/2020)</span>
   </li>
 </ul>
 
@@ -1123,7 +1129,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220">Exam MB-220: Microsoft Dynamics 365 Marketing</a><span  style="color: green;"> (was updated on 7/9/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing">Exam MB-220: Microsoft Dynamics 365 Marketing</a><span  style="color: green;"> (was updated on 7/9/2021)</span>
   </li>
 </ul>
 
@@ -1132,7 +1138,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210">Exam MB-210: Microsoft Dynamics 365 Sales</a><span  style="color: green;"> (was updated on 7/23/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" title="Exam MB-210: Microsoft Dynamics 365 Sales">Exam MB-210: Microsoft Dynamics 365 Sales</a><span  style="color: green;"> (was updated on 7/23/2021)</span>
   </li>
 </ul>
 
@@ -1141,7 +1147,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​</a><span  style="color: green;"> (was updated on 7/26/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​</a><span  style="color: green;"> (was updated on 7/26/2021)</span>
   </li>
 </ul>
 
@@ -1150,13 +1156,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-900">Exam MB-900: Microsoft Dynamics 365 Fundamentals</a><span  style="color: red;"> (was retired on 12/31/2019)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-900" title="Exam MB-900: Microsoft Dynamics 365 Fundamentals">Exam MB-900: Microsoft Dynamics 365 Fundamentals</a><span  style="color: red;"> (was retired on 12/31/2019)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-901">Exam MB-901: Microsoft Dynamics 365 Fundamentals</a><span  style="color: red;"> (was retired on 6/30/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-901" title="Exam MB-901: Microsoft Dynamics 365 Fundamentals">Exam MB-901: Microsoft Dynamics 365 Fundamentals</a><span  style="color: red;"> (was retired on 6/30/2021)</span>
   </li>
 </ul>
 
@@ -1165,7 +1171,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a>
   </li>
 </ul>
 
@@ -1174,7 +1180,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-920">Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-920" title="Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)">Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)</a>
   </li>
 </ul>
 
@@ -1183,13 +1189,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200">Exam MB-200: Microsoft Power Platform + Dynamics 365 Core</a><span  style="color: red;"> (was retired on 12/31/2020)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200" title="Exam MB-200: Microsoft Power Platform + Dynamics 365 Core">Exam MB-200: Microsoft Power Platform + Dynamics 365 Core</a><span  style="color: red;"> (was retired on 12/31/2020)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400">Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer</a><span  style="color: red;"> (was retired on 12/31/2020)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400" title="Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer">Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer</a><span  style="color: red;"> (was retired on 12/31/2020)</span>
   </li>
 </ul>
 
@@ -1198,7 +1204,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-600">Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect</a><span  style="color: red;"> (was retired on 6/30/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-600" title="Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect">Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect</a><span  style="color: red;"> (was retired on 6/30/2021)</span>
   </li>
 </ul>
 
@@ -1209,7 +1215,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb2-716">Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb2-716" title="Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration">Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -1220,7 +1226,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb6-894">Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb6-894" title="Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance">Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -1229,13 +1235,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb6-897">Exam MB6-897: Microsoft Dynamics 365 for Retail</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb6-897" title="Exam MB6-897: Microsoft Dynamics 365 for Retail">Exam MB6-897: Microsoft Dynamics 365 for Retail</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb6-898">Exam MB6-898: Microsoft Dynamics 365 for Talent</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb6-898" title="Exam MB6-898: Microsoft Dynamics 365 for Talent">Exam MB6-898: Microsoft Dynamics 365 for Talent</a><span  style="color: red;"> (was retired on 1/31/2021)</span>
   </li>
 </ul>
 
@@ -1246,13 +1252,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100">Exam MD-100: Windows 10</a><span  style="color: green;"> (was updated on 8/5/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100" title="Exam MD-100: Windows 10">Exam MD-100: Windows 10</a><span  style="color: green;"> (was updated on 8/5/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101">Exam MD-101: Managing Modern Desktops</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101" title="Exam MD-101: Managing Modern Desktops">Exam MD-101: Managing Modern Desktops</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -1263,7 +1269,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-500">Exam MO-500: Microsoft Access Expert (Access and Access 2019)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-500" title="Exam MO-500: Microsoft Access Expert (Access and Access 2019)">Exam MO-500: Microsoft Access Expert (Access and Access 2019)</a>
   </li>
 </ul>
 
@@ -1272,7 +1278,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-200">Exam MO-200: Microsoft Excel (Excel and Excel 2019)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-200" title="Exam MO-200: Microsoft Excel (Excel and Excel 2019)">Exam MO-200: Microsoft Excel (Excel and Excel 2019)</a>
   </li>
 </ul>
 
@@ -1281,7 +1287,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-201">Exam MO-201: Microsoft Excel Expert (Excel and Excel 2019)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-201" title="Exam MO-201: Microsoft Excel Expert (Excel and Excel 2019)">Exam MO-201: Microsoft Excel Expert (Excel and Excel 2019)</a>
   </li>
 </ul>
 
@@ -1290,7 +1296,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-400">Exam MO-400: Microsoft Outlook (Outlook and Outlook 2019)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-400" title="Exam MO-400: Microsoft Outlook (Outlook and Outlook 2019)">Exam MO-400: Microsoft Outlook (Outlook and Outlook 2019)</a>
   </li>
 </ul>
 
@@ -1299,7 +1305,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-300">Exam MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-300" title="Exam MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)">Exam MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)</a>
   </li>
 </ul>
 
@@ -1308,7 +1314,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-100">Exam MO-100: Microsoft Word (Word and Word 2019)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-100" title="Exam MO-100: Microsoft Word (Word and Word 2019)">Exam MO-100: Microsoft Word (Word and Word 2019)</a>
   </li>
 </ul>
 
@@ -1317,7 +1323,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-101">Exam MO-101: Microsoft Word Expert (Word and Word 2019)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-101" title="Exam MO-101: Microsoft Word Expert (Word and Word 2019)">Exam MO-101: Microsoft Word Expert (Word and Word 2019)</a>
   </li>
 </ul>
 
@@ -1328,7 +1334,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600" title="Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -1337,13 +1343,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100">Exam MS-100: Microsoft 365 Identity and Services</a><span  style="color: green;"> (will be updated on 9/29/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100" title="Exam MS-100: Microsoft 365 Identity and Services">Exam MS-100: Microsoft 365 Identity and Services</a><span  style="color: green;"> (will be updated on 9/29/2021)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101">Exam MS-101: Microsoft 365 Mobility and Security</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101" title="Exam MS-101: Microsoft 365 Mobility and Security">Exam MS-101: Microsoft 365 Mobility and Security</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -1352,13 +1358,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-202">Exam MS-202: Microsoft 365 Messaging Administrator Certification Transition</a><span  style="color: red;"> (was retired on 9/30/2019)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-202" title="Exam MS-202: Microsoft 365 Messaging Administrator Certification Transition">Exam MS-202: Microsoft 365 Messaging Administrator Certification Transition</a><span  style="color: red;"> (was retired on 9/30/2019)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-203">Exam MS-203: Microsoft 365 Messaging</a><span  style="color: green;"> (was updated on 3/23/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-203" title="Exam MS-203: Microsoft 365 Messaging">Exam MS-203: Microsoft 365 Messaging</a><span  style="color: green;"> (was updated on 3/23/2021)</span>
   </li>
 </ul>
 
@@ -1367,7 +1373,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500">Exam MS-500: Microsoft 365 Security Administration</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500" title="Exam MS-500: Microsoft 365 Security Administration">Exam MS-500: Microsoft 365 Security Administration</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -1376,7 +1382,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700">Exam MS-700: Managing Microsoft Teams</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700" title="Exam MS-700: Managing Microsoft Teams">Exam MS-700: Managing Microsoft Teams</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -1385,7 +1391,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-740">Exam MS-740: Troubleshooting Microsoft Teams (beta)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-740" title="Exam MS-740: Troubleshooting Microsoft Teams (beta)">Exam MS-740: Troubleshooting Microsoft Teams (beta)</a>
   </li>
 </ul>
 
@@ -1394,19 +1400,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-300">Exam MS-300: Deploying Microsoft 365 Teamwork</a><span  style="color: red;"> (was retired on 8/31/2020)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-300" title="Exam MS-300: Deploying Microsoft 365 Teamwork">Exam MS-300: Deploying Microsoft 365 Teamwork</a><span  style="color: red;"> (was retired on 8/31/2020)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-301">Exam MS-301: Deploying SharePoint Server Hybrid</a><span  style="color: red;"> (was retired on 8/31/2020)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-301" title="Exam MS-301: Deploying SharePoint Server Hybrid">Exam MS-301: Deploying SharePoint Server Hybrid</a><span  style="color: red;"> (was retired on 8/31/2020)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-302">Exam MS-302: Microsoft 365 Teamwork Administrator Certification Transition</a><span  style="color: red;"> (was retired on 9/30/2019)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-302" title="Exam MS-302: Microsoft 365 Teamwork Administrator Certification Transition">Exam MS-302: Microsoft 365 Teamwork Administrator Certification Transition</a><span  style="color: red;"> (was retired on 9/30/2019)</span>
   </li>
 </ul>
 
@@ -1415,7 +1421,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900">Exam MS-900: Microsoft 365 Fundamentals</a><span  style="color: green;"> (was updated on 4/23/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a><span  style="color: green;"> (was updated on 4/23/2021)</span>
   </li>
 </ul>
 
@@ -1424,13 +1430,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-200">Exam MS-200: Planning and Configuring a Messaging Platform</a><span  style="color: red;"> (was retired on 8/31/2020)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-200" title="Exam MS-200: Planning and Configuring a Messaging Platform">Exam MS-200: Planning and Configuring a Messaging Platform</a><span  style="color: red;"> (was retired on 8/31/2020)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-201">Exam MS-201: Implementing a Hybrid and Secure Messaging Platform</a><span  style="color: red;"> (was retired on 8/31/2020)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-201" title="Exam MS-201: Implementing a Hybrid and Secure Messaging Platform">Exam MS-201: Implementing a Hybrid and Secure Messaging Platform</a><span  style="color: red;"> (was retired on 8/31/2020)</span>
   </li>
 </ul>
 
@@ -1441,7 +1447,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-100">Exam PL-100: Microsoft Power Platform App Maker</a><span  style="color: green;"> (was updated on 7/23/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-100" title="Exam PL-100: Microsoft Power Platform App Maker">Exam PL-100: Microsoft Power Platform App Maker</a><span  style="color: green;"> (was updated on 7/23/2021)</span>
   </li>
 </ul>
 
@@ -1450,7 +1456,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400">Exam PL-400: Microsoft Power Platform Developer</a><span  style="color: green;"> (was updated on 6/23/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400" title="Exam PL-400: Microsoft Power Platform Developer">Exam PL-400: Microsoft Power Platform Developer</a><span  style="color: green;"> (was updated on 6/23/2021)</span>
   </li>
 </ul>
 
@@ -1459,7 +1465,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200">Exam PL-200: Microsoft Power Platform Functional Consultant</a><span  style="color: green;"> (will be updated on 10/1/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a><span  style="color: green;"> (will be updated on 10/1/2021)</span>
   </li>
 </ul>
 
@@ -1468,7 +1474,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900">Exam PL-900: Microsoft Power Platform Fundamentals</a><span  style="color: green;"> (was updated on 3/10/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a><span  style="color: green;"> (was updated on 3/10/2021)</span>
   </li>
 </ul>
 
@@ -1477,7 +1483,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600">Exam PL-600: Microsoft Power Platform Solution Architect</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600" title="Exam PL-600: Microsoft Power Platform Solution Architect">Exam PL-600: Microsoft Power Platform Solution Architect</a>
   </li>
 </ul>
 
@@ -1488,7 +1494,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300">Exam SC-300: Microsoft Identity and Access Administrator</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300" title="Exam SC-300: Microsoft Identity and Access Administrator">Exam SC-300: Microsoft Identity and Access Administrator</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
@@ -1497,7 +1503,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400">Exam SC-400: Microsoft Information Protection Administrator</a><span  style="color: green;"> (was updated on 7/23/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400" title="Exam SC-400: Microsoft Information Protection Administrator">Exam SC-400: Microsoft Information Protection Administrator</a><span  style="color: green;"> (was updated on 7/23/2021)</span>
   </li>
 </ul>
 
@@ -1506,7 +1512,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (was updated on 7/26/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (was updated on 7/26/2021)</span>
   </li>
 </ul>
 
@@ -1515,7 +1521,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200">Exam SC-200: Microsoft Security Operations Analyst</a><span  style="color: green;"> (will be updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
   </li>
 </ul>
 
