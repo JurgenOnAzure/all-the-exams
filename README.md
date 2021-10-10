@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 10/3/2021, with 1 change since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 10/10/2021, with 4 changes since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 9/24/2021:
@@ -19,7 +19,6 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-140" title="Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop">Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303" title="Exam AZ-303: Microsoft Azure Architect Technologies">Exam AZ-303: Microsoft Azure Architect Technologies</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-304" title="Exam AZ-304: Microsoft Azure Architect Design">Exam AZ-304: Microsoft Azure Architect Design</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-600" title="Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub">Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/da-100" title="Exam DA-100: Analyzing Data with Microsoft Power BI">Exam DA-100: Analyzing Data with Microsoft Power BI</a></li>
@@ -367,7 +366,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-797" title="Exam 70-797: Configuring Windows Devices (pilot)">Exam 70-797: Configuring Windows Devices (pilot)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-797" title="Exam 70-797: Configuring Windows Devices (pilot)">Exam 70-797: Configuring Windows Devices (pilot)</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -531,13 +530,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-601" title="Exam 77-601: MOS: Using Microsoft Office Word 2007">Exam 77-601: MOS: Using Microsoft Office Word 2007</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-601" title="Exam 77-601: MOS: Using Microsoft Office Word 2007">Exam 77-601: MOS: Using Microsoft Office Word 2007</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-602" title="Exam 77-602: MOS: Using Microsoft Office Excel 2007">Exam 77-602: MOS: Using Microsoft Office Excel 2007</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-602" title="Exam 77-602: MOS: Using Microsoft Office Excel 2007">Exam 77-602: MOS: Using Microsoft Office Excel 2007</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -834,7 +833,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303" title="Exam AZ-303: Microsoft Azure Architect Technologies">Exam AZ-303: Microsoft Azure Architect Technologies</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303" title="Exam AZ-303: Microsoft Azure Architect Technologies">Exam AZ-303: Microsoft Azure Architect Technologies</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1282,7 +1281,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-203" title="Exam MS-203: Microsoft 365 Messaging">Exam MS-203: Microsoft 365 Messaging</a><span  style="color: green;"> (was updated on 8/27/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-203" title="Exam MS-203: Microsoft 365 Messaging">Exam MS-203: Microsoft 365 Messaging</a><span  style="color: green;"> (was updated on 8/27/2021)</span>
   </li>
 </ul>
 
