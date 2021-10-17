@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 10/10/2021, with 4 changes since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 10/17/2021, with 1 change since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 9/24/2021:
@@ -44,7 +44,7 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a></li>
 </ul>
 
-### Will be updated on 10/15/2021:
+### Was updated on 10/15/2021:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service">Exam MB-230: Microsoft Dynamics 365 Customer Service</a></li>
 </ul>
@@ -53,6 +53,11 @@ Thanks!
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900" title="Exam AZ-900: Microsoft Azure Fundamentals">Exam AZ-900: Microsoft Azure Fundamentals</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a></li>
+</ul>
+
+### Will be updated on 11/12/2021:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service">Exam MB-240: Microsoft Dynamics 365 Field Service</a></li>
 </ul>
 
 ## Sections
@@ -366,7 +371,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-797" title="Exam 70-797: Configuring Windows Devices (pilot)">Exam 70-797: Configuring Windows Devices (pilot)</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-797" title="Exam 70-797: Configuring Windows Devices (pilot)">Exam 70-797: Configuring Windows Devices (pilot)</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
@@ -530,13 +535,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-601" title="Exam 77-601: MOS: Using Microsoft Office Word 2007">Exam 77-601: MOS: Using Microsoft Office Word 2007</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-601" title="Exam 77-601: MOS: Using Microsoft Office Word 2007">Exam 77-601: MOS: Using Microsoft Office Word 2007</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-602" title="Exam 77-602: MOS: Using Microsoft Office Excel 2007">Exam 77-602: MOS: Using Microsoft Office Excel 2007</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-602" title="Exam 77-602: MOS: Using Microsoft Office Excel 2007">Exam 77-602: MOS: Using Microsoft Office Excel 2007</a><span  style="color: red;"> (is retired)</span>
   </li>
 </ul>
 
@@ -833,7 +838,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303" title="Exam AZ-303: Microsoft Azure Architect Technologies">Exam AZ-303: Microsoft Azure Architect Technologies</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303" title="Exam AZ-303: Microsoft Azure Architect Technologies">Exam AZ-303: Microsoft Azure Architect Technologies</a>
   </li>
 </ul>
 
@@ -1004,7 +1009,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service">Exam MB-230: Microsoft Dynamics 365 Customer Service</a><span  style="color: green;"> (will be updated on 10/15/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service">Exam MB-230: Microsoft Dynamics 365 Customer Service</a><span  style="color: green;"> (was updated on 10/15/2021)</span>
   </li>
 </ul>
 
@@ -1013,7 +1018,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service">Exam MB-240: Microsoft Dynamics 365 Field Service</a><span  style="color: green;"> (was updated on 4/26/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service">Exam MB-240: Microsoft Dynamics 365 Field Service</a><span  style="color: green;"> (will be updated on 11/12/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
