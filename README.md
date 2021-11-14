@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 11/7/2021, with 1 change since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 11/14/2021, with 1 change since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 10/15/2021:
@@ -24,7 +24,7 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a></li>
 </ul>
 
-### Will be updated on 11/12/2021:
+### Was updated on 11/12/2021:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service">Exam MB-240: Microsoft Dynamics 365 Field Service</a></li>
 </ul>
@@ -68,6 +68,11 @@ Thanks!
 ### Will be updated on 12/3/2021:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100" title="Exam MD-100: Windows 10">Exam MD-100: Windows 10</a></li>
+</ul>
+
+### Will be updated on 12/10/2021:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​</a></li>
 </ul>
 
 ## Sections
@@ -1043,7 +1048,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service">Exam MB-240: Microsoft Dynamics 365 Field Service</a><span  style="color: green;"> (will be updated on 11/12/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service">Exam MB-240: Microsoft Dynamics 365 Field Service</a><span  style="color: green;"> (was updated on 11/12/2021)</span>
   </li>
 </ul>
 
@@ -1094,7 +1099,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​</a><span  style="color: green;"> (was updated on 7/26/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​</a><span  style="color: green;"> (will be updated on 12/10/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1199,7 +1204,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100" title="Exam MD-100: Windows 10">Exam MD-100: Windows 10</a><span  style="color: green;"> (will be updated on 12/3/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100" title="Exam MD-100: Windows 10">Exam MD-100: Windows 10</a><span  style="color: green;"> (will be updated on 12/3/2021)</span>
   </li>
 </ul>
 
