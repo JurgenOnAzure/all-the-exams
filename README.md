@@ -9,14 +9,9 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 11/14/2021, with 1 change since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last checked on 11/14/2021, and had no changes.</i>
 
 ## Recent and upcoming exam changes
-### Was updated on 10/15/2021:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service">Exam MB-230: Microsoft Dynamics 365 Customer Service</a></li>
-</ul>
-
 ### Was updated on 10/25/2021:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900" title="Exam AZ-900: Microsoft Azure Fundamentals">Exam AZ-900: Microsoft Azure Fundamentals</a></li>
@@ -1099,7 +1094,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​</a><span  style="color: green;"> (will be updated on 12/10/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​</a><span  style="color: green;"> (will be updated on 12/10/2021)</span>
   </li>
 </ul>
 
