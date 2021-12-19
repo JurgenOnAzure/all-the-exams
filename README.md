@@ -9,14 +9,9 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 12/12/2021, with 1 change since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last checked on 12/12/2021, and had no changes.</i>
 
 ## Recent and upcoming exam changes
-### Was updated on 11/12/2021:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service">Exam MB-240: Microsoft Dynamics 365 Field Service</a></li>
-</ul>
-
 ### Was updated on 11/22/2021:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a></li>
@@ -842,7 +837,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303" title="Exam AZ-303: Microsoft Azure Architect Technologies">Exam AZ-303: Microsoft Azure Architect Technologies</a><span  style="color: green;"> (was updated on 11/23/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303" title="Exam AZ-303: Microsoft Azure Architect Technologies">Exam AZ-303: Microsoft Azure Architect Technologies</a><span  style="color: green;"> (was updated on 11/23/2021)</span>
   </li>
 </ul>
 
