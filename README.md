@@ -9,13 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 1/9/2022, with 1 change since last time, indicated by (*).</i>
-
-## Recent and upcoming exam changes
-### Was updated on 12/10/2021:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management​</a></li>
-</ul>
+<i id="updatenotice">This list was last checked on 1/9/2022, and had no changes.</i>
 
 ## Sections
 
@@ -1243,7 +1237,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101" title="Exam MS-101: Microsoft 365 Mobility and Security">Exam MS-101: Microsoft 365 Mobility and Security</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101" title="Exam MS-101: Microsoft 365 Mobility and Security">Exam MS-101: Microsoft 365 Mobility and Security</a>
   </li>
 </ul>
 
