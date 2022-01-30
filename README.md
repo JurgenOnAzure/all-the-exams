@@ -9,7 +9,31 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 1/30/2022, with 127 changes since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 1/30/2022, with 133 changes since last time, indicated by (*).</i>
+
+## Recent and upcoming exam changes
+### Was updated on 1/24/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a></li>
+</ul>
+
+### Was updated on 1/25/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900" title="Exam AZ-900: Microsoft Azure Fundamentals">Exam AZ-900: Microsoft Azure Fundamentals</a></li>
+</ul>
+
+### Was updated on 1/27/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500" title="Exam MS-500: Microsoft 365 Security Administration">Exam MS-500: Microsoft 365 Security Administration</a></li>
+</ul>
+
+### Was updated on 1/28/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300" title="Exam SC-300: Microsoft Identity and Access Administrator">Exam SC-300: Microsoft Identity and Access Administrator</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400" title="Exam SC-400: Microsoft Information Protection Administrator">Exam SC-400: Microsoft Information Protection Administrator</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a></li>
+</ul>
 
 ## Sections
 
@@ -49,13 +73,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-778" title="Exam 70-778: Analyzing and Visualizing Data with Microsoft Power BI">Exam 70-778: Analyzing and Visualizing Data with Microsoft Power BI</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-778" title="Exam 70-778: Analyzing and Visualizing Data with Microsoft Power BI">Exam 70-778: Analyzing and Visualizing Data with Microsoft Power BI</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-779" title="Exam 70-779: Analyzing and Visualizing Data with Microsoft Excel">Exam 70-779: Analyzing and Visualizing Data with Microsoft Excel</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-779" title="Exam 70-779: Analyzing and Visualizing Data with Microsoft Excel">Exam 70-779: Analyzing and Visualizing Data with Microsoft Excel</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -64,13 +88,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-764" title="Exam 70-764: Administering a SQL Database Infrastructure">Exam 70-764: Administering a SQL Database Infrastructure</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-764" title="Exam 70-764: Administering a SQL Database Infrastructure">Exam 70-764: Administering a SQL Database Infrastructure</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-765" title="Exam 70-765: Provisioning SQL Databases">Exam 70-765: Provisioning SQL Databases</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-765" title="Exam 70-765: Provisioning SQL Databases">Exam 70-765: Provisioning SQL Databases</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -79,13 +103,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-767" title="Exam 70-767: Implementing a Data Warehouse using SQL">Exam 70-767: Implementing a Data Warehouse using SQL</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-767" title="Exam 70-767: Implementing a Data Warehouse using SQL">Exam 70-767: Implementing a Data Warehouse using SQL</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-768" title="Exam 70-768: Developing SQL Data Models">Exam 70-768: Developing SQL Data Models</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-768" title="Exam 70-768: Developing SQL Data Models">Exam 70-768: Developing SQL Data Models</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -94,7 +118,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-761" title="Exam 70-761: Querying Data with Transact-SQL">Exam 70-761: Querying Data with Transact-SQL</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-761" title="Exam 70-761: Querying Data with Transact-SQL">Exam 70-761: Querying Data with Transact-SQL</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -103,19 +127,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-461" title="Exam 70-461: Querying Microsoft SQL Server 2012/2014">Exam 70-461: Querying Microsoft SQL Server 2012/2014</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-461" title="Exam 70-461: Querying Microsoft SQL Server 2012/2014">Exam 70-461: Querying Microsoft SQL Server 2012/2014</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-462" title="Exam 70-462: Administering Microsoft SQL Server 2012/2014 Databases">Exam 70-462: Administering Microsoft SQL Server 2012/2014 Databases</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-462" title="Exam 70-462: Administering Microsoft SQL Server 2012/2014 Databases">Exam 70-462: Administering Microsoft SQL Server 2012/2014 Databases</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-463" title="Exam 70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014">Exam 70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-463" title="Exam 70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014">Exam 70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -124,13 +148,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-357" title="Exam 70-357: Developing Mobile Apps">Exam 70-357: Developing Mobile Apps</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-357" title="Exam 70-357: Developing Mobile Apps">Exam 70-357: Developing Mobile Apps</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-483" title="Exam 70-483: Programming in C#">Exam 70-483: Programming in C#</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-483" title="Exam 70-483: Programming in C#">Exam 70-483: Programming in C#</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -139,13 +163,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-480" title="Exam 70-480: Programming in HTML5 with JavaScript and CSS3">Exam 70-480: Programming in HTML5 with JavaScript and CSS3</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-480" title="Exam 70-480: Programming in HTML5 with JavaScript and CSS3">Exam 70-480: Programming in HTML5 with JavaScript and CSS3</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-486" title="Exam 70-486: Developing ASP.NET MVC Web Applications">Exam 70-486: Developing ASP.NET MVC Web Applications</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-486" title="Exam 70-486: Developing ASP.NET MVC Web Applications">Exam 70-486: Developing ASP.NET MVC Web Applications</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -154,19 +178,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-740" title="Exam 70-740: Installation, Storage, and Compute with Windows Server 2016">Exam 70-740: Installation, Storage, and Compute with Windows Server 2016</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-740" title="Exam 70-740: Installation, Storage, and Compute with Windows Server 2016">Exam 70-740: Installation, Storage, and Compute with Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-741" title="Exam 70-741: Networking with Windows Server 2016">Exam 70-741: Networking with Windows Server 2016</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-741" title="Exam 70-741: Networking with Windows Server 2016">Exam 70-741: Networking with Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-742" title="Exam 70-742: Identity with Windows Server 2016">Exam 70-742: Identity with Windows Server 2016</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-742" title="Exam 70-742: Identity with Windows Server 2016">Exam 70-742: Identity with Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -175,19 +199,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-410" title="Exam 70-410: Installing and Configuring Windows Server 2012">Exam 70-410: Installing and Configuring Windows Server 2012</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-410" title="Exam 70-410: Installing and Configuring Windows Server 2012">Exam 70-410: Installing and Configuring Windows Server 2012</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-411" title="Exam 70-411: Administering Windows Server 2012">Exam 70-411: Administering Windows Server 2012</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-411" title="Exam 70-411: Administering Windows Server 2012">Exam 70-411: Administering Windows Server 2012</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-412" title="Exam 70-412: Configuring Advanced Windows Server 2012 Services">Exam 70-412: Configuring Advanced Windows Server 2012 Services</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-412" title="Exam 70-412: Configuring Advanced Windows Server 2012 Services">Exam 70-412: Configuring Advanced Windows Server 2012 Services</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -196,7 +220,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-487" title="Exam 70-487: Developing Microsoft Azure and Web Services">Exam 70-487: Developing Microsoft Azure and Web Services</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-487" title="Exam 70-487: Developing Microsoft Azure and Web Services">Exam 70-487: Developing Microsoft Azure and Web Services</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -205,31 +229,31 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-413" title="Exam 70-413: Designing and Implementing a Server Infrastructure">Exam 70-413: Designing and Implementing a Server Infrastructure</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-413" title="Exam 70-413: Designing and Implementing a Server Infrastructure">Exam 70-413: Designing and Implementing a Server Infrastructure</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-414" title="Exam 70-414: Implementing an Advanced Server Infrastructure">Exam 70-414: Implementing an Advanced Server Infrastructure</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-414" title="Exam 70-414: Implementing an Advanced Server Infrastructure">Exam 70-414: Implementing an Advanced Server Infrastructure</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-537" title="Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub">Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-537" title="Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub">Exam 70-537: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-744" title="Exam 70-744: Securing Windows Server 2016">Exam 70-744: Securing Windows Server 2016</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-744" title="Exam 70-744: Securing Windows Server 2016">Exam 70-744: Securing Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-745" title="Exam 70-745: Implementing a Software-Defined Datacenter">Exam 70-745: Implementing a Software-Defined Datacenter</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-745" title="Exam 70-745: Implementing a Software-Defined Datacenter">Exam 70-745: Implementing a Software-Defined Datacenter</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -238,37 +262,37 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-464" title="Exam 70-464: Developing Microsoft SQL Server Databases">Exam 70-464: Developing Microsoft SQL Server Databases</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-464" title="Exam 70-464: Developing Microsoft SQL Server Databases">Exam 70-464: Developing Microsoft SQL Server Databases</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-465" title="Exam 70-465: Designing Database Solutions for Microsoft SQL Server">Exam 70-465: Designing Database Solutions for Microsoft SQL Server</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-465" title="Exam 70-465: Designing Database Solutions for Microsoft SQL Server">Exam 70-465: Designing Database Solutions for Microsoft SQL Server</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-466" title="Exam 70-466: Implementing Data Models and Reports with Microsoft SQL Server">Exam 70-466: Implementing Data Models and Reports with Microsoft SQL Server</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-466" title="Exam 70-466: Implementing Data Models and Reports with Microsoft SQL Server">Exam 70-466: Implementing Data Models and Reports with Microsoft SQL Server</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-467" title="Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server">Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-467" title="Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server">Exam 70-467: Designing Business Intelligence Solutions with Microsoft SQL Server</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-762" title="Exam 70-762: Developing SQL Databases">Exam 70-762: Developing SQL Databases</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-762" title="Exam 70-762: Developing SQL Databases">Exam 70-762: Developing SQL Databases</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-777" title="Exam 70-777: Implementing Microsoft Azure Cosmos DB Solutions">Exam 70-777: Implementing Microsoft Azure Cosmos DB Solutions</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-777" title="Exam 70-777: Implementing Microsoft Azure Cosmos DB Solutions">Exam 70-777: Implementing Microsoft Azure Cosmos DB Solutions</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -277,25 +301,25 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-333" title="Exam 70-333: Deploying Enterprise Voice with Skype for Business 2015">Exam 70-333: Deploying Enterprise Voice with Skype for Business 2015</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-333" title="Exam 70-333: Deploying Enterprise Voice with Skype for Business 2015">Exam 70-333: Deploying Enterprise Voice with Skype for Business 2015</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-334" title="Exam 70-334: Core Solutions of Microsoft Skype for Business 2015">Exam 70-334: Core Solutions of Microsoft Skype for Business 2015</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-334" title="Exam 70-334: Core Solutions of Microsoft Skype for Business 2015">Exam 70-334: Core Solutions of Microsoft Skype for Business 2015</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-339" title="Exam 70-339: Managing Microsoft SharePoint Server 2016">Exam 70-339: Managing Microsoft SharePoint Server 2016</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-339" title="Exam 70-339: Managing Microsoft SharePoint Server 2016">Exam 70-339: Managing Microsoft SharePoint Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-345" title="Exam 70-345: Designing and Deploying Microsoft Exchange Server 2016">Exam 70-345: Designing and Deploying Microsoft Exchange Server 2016</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-345" title="Exam 70-345: Designing and Deploying Microsoft Exchange Server 2016">Exam 70-345: Designing and Deploying Microsoft Exchange Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -304,25 +328,25 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-417" title="Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012">Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-417" title="Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012">Exam 70-417: Upgrading Your Skills to MCSA Windows Server 2012</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-705" title="Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations">Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-705" title="Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations">Exam 70-705: Designing and Providing Microsoft Licensing Solutions to Large Organizations</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-743" title="Exam 70-743: Upgrading Your Skills to MCSA: Windows Server 2016">Exam 70-743: Upgrading Your Skills to MCSA: Windows Server 2016</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-743" title="Exam 70-743: Upgrading Your Skills to MCSA: Windows Server 2016">Exam 70-743: Upgrading Your Skills to MCSA: Windows Server 2016</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-797" title="Exam 70-797: Configuring Windows Devices (pilot)">Exam 70-797: Configuring Windows Devices (pilot)</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-797" title="Exam 70-797: Configuring Windows Devices (pilot)">Exam 70-797: Configuring Windows Devices (pilot)</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -486,55 +510,55 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-601" title="Exam 77-601: MOS: Using Microsoft Office Word 2007">Exam 77-601: MOS: Using Microsoft Office Word 2007</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-601" title="Exam 77-601: MOS: Using Microsoft Office Word 2007">Exam 77-601: MOS: Using Microsoft Office Word 2007</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-602" title="Exam 77-602: MOS: Using Microsoft Office Excel 2007">Exam 77-602: MOS: Using Microsoft Office Excel 2007</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-602" title="Exam 77-602: MOS: Using Microsoft Office Excel 2007">Exam 77-602: MOS: Using Microsoft Office Excel 2007</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-881" title="Exam 77-881: Word 2010">Exam 77-881: Word 2010</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-881" title="Exam 77-881: Word 2010">Exam 77-881: Word 2010</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-882" title="Exam 77-882: Excel 2010">Exam 77-882: Excel 2010</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-882" title="Exam 77-882: Excel 2010">Exam 77-882: Excel 2010</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-883" title="Exam 77-883: MOS: PowerPoint 2010">Exam 77-883: MOS: PowerPoint 2010</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-883" title="Exam 77-883: MOS: PowerPoint 2010">Exam 77-883: MOS: PowerPoint 2010</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-884" title="Exam 77-884: Outlook 2010">Exam 77-884: Outlook 2010</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-884" title="Exam 77-884: Outlook 2010">Exam 77-884: Outlook 2010</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-885" title="Exam 77-885: Access 2010">Exam 77-885: Access 2010</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-885" title="Exam 77-885: Access 2010">Exam 77-885: Access 2010</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-887" title="Exam 77-887: Word 2010 Expert">Exam 77-887: Word 2010 Expert</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-887" title="Exam 77-887: Word 2010 Expert">Exam 77-887: Word 2010 Expert</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-888" title="Exam 77-888: Excel 2010 Expert">Exam 77-888: Excel 2010 Expert</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-888" title="Exam 77-888: Excel 2010 Expert">Exam 77-888: Excel 2010 Expert</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -545,7 +569,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-364" title="Exam 98-364: Database Fundamentals">Exam 98-364: Database Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-364" title="Exam 98-364: Database Fundamentals">Exam 98-364: Database Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -554,7 +578,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-375" title="Exam 98-375: HTML5 Application Development Fundamentals">Exam 98-375: HTML5 Application Development Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-375" title="Exam 98-375: HTML5 Application Development Fundamentals">Exam 98-375: HTML5 Application Development Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -563,7 +587,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-383" title="Exam 98-383: Introduction to Programming Using HTML and CSS">Exam 98-383: Introduction to Programming Using HTML and CSS</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-383" title="Exam 98-383: Introduction to Programming Using HTML and CSS">Exam 98-383: Introduction to Programming Using HTML and CSS</a><span  style="color: red;"> (will be retired on 6/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -572,7 +596,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-388" title="Exam 98-388: Introduction to Programming Using Java">Exam 98-388: Introduction to Programming Using Java</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-388" title="Exam 98-388: Introduction to Programming Using Java">Exam 98-388: Introduction to Programming Using Java</a><span  style="color: red;"> (will be retired on 6/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -581,7 +605,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-382" title="Exam 98-382: Introduction to Programming Using JavaScript">Exam 98-382: Introduction to Programming Using JavaScript</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-382" title="Exam 98-382: Introduction to Programming Using JavaScript">Exam 98-382: Introduction to Programming Using JavaScript</a><span  style="color: red;"> (will be retired on 6/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -590,7 +614,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-381" title="Exam 98-381: Introduction to Programming Using Python">Exam 98-381: Introduction to Programming Using Python</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-381" title="Exam 98-381: Introduction to Programming Using Python">Exam 98-381: Introduction to Programming Using Python</a><span  style="color: red;"> (will be retired on 6/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -599,7 +623,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-368" title="Exam 98-368: Mobility and Devices Fundamentals">Exam 98-368: Mobility and Devices Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-368" title="Exam 98-368: Mobility and Devices Fundamentals">Exam 98-368: Mobility and Devices Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -608,7 +632,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-366" title="Exam 98-366: Networking Fundamentals">Exam 98-366: Networking Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-366" title="Exam 98-366: Networking Fundamentals">Exam 98-366: Networking Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -617,7 +641,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-367" title="Exam 98-367: Security Fundamentals">Exam 98-367: Security Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-367" title="Exam 98-367: Security Fundamentals">Exam 98-367: Security Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -626,7 +650,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-361" title="Exam 98-361: Software Development Fundamentals">Exam 98-361: Software Development Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-361" title="Exam 98-361: Software Development Fundamentals">Exam 98-361: Software Development Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -635,7 +659,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-349" title="Exam 98-349: Windows Operating System Fundamentals">Exam 98-349: Windows Operating System Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-349" title="Exam 98-349: Windows Operating System Fundamentals">Exam 98-349: Windows Operating System Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -644,7 +668,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-365" title="Exam 98-365: Windows Server Administration Fundamentals">Exam 98-365: Windows Server Administration Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-365" title="Exam 98-365: Windows Server Administration Fundamentals">Exam 98-365: Windows Server Administration Fundamentals</a><span  style="color: red;"> (will be retired on 6/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -655,7 +679,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102" title="Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102" title="Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a><span  style="color: green;"> (was updated on 11/30/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -664,7 +688,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a><span  style="color: green;"> (was updated on 4/23/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -673,7 +697,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-100" title="Exam AI-100: Designing and Implementing an Azure AI Solution">Exam AI-100: Designing and Implementing an Azure AI Solution</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-100" title="Exam AI-100: Designing and Implementing an Azure AI Solution">Exam AI-100: Designing and Implementing an Azure AI Solution</a><span  style="color: red;"> (was retired on 6/30/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -684,25 +708,25 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-100" title="Exam AZ-100: Microsoft Azure Infrastructure and Deployment">Exam AZ-100: Microsoft Azure Infrastructure and Deployment</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-100" title="Exam AZ-100: Microsoft Azure Infrastructure and Deployment">Exam AZ-100: Microsoft Azure Infrastructure and Deployment</a><span  style="color: red;"> (was retired on 5/1/2019)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-101" title="Exam AZ-101: Microsoft Azure Integration and Security">Exam AZ-101: Microsoft Azure Integration and Security</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-101" title="Exam AZ-101: Microsoft Azure Integration and Security">Exam AZ-101: Microsoft Azure Integration and Security</a><span  style="color: red;"> (was retired on 5/1/2019)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-102" title="Exam AZ-102: Microsoft Azure Administrator Certification Transition">Exam AZ-102: Microsoft Azure Administrator Certification Transition</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-102" title="Exam AZ-102: Microsoft Azure Administrator Certification Transition">Exam AZ-102: Microsoft Azure Administrator Certification Transition</a><span  style="color: red;"> (was retired on 6/30/2019)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" title="Exam AZ-104: Microsoft Azure Administrator">Exam AZ-104: Microsoft Azure Administrator</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" title="Exam AZ-104: Microsoft Azure Administrator">Exam AZ-104: Microsoft Azure Administrator</a><span  style="color: green;"> (was updated on 9/24/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -711,13 +735,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-202" title="Exam AZ-202: Microsoft Azure Developer Certification Transition">Exam AZ-202: Microsoft Azure Developer Certification Transition</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-202" title="Exam AZ-202: Microsoft Azure Developer Certification Transition">Exam AZ-202: Microsoft Azure Developer Certification Transition</a><span  style="color: red;"> (was retired on 3/31/2019)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204" title="Exam AZ-204: Developing Solutions for Microsoft Azure">Exam AZ-204: Developing Solutions for Microsoft Azure</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204" title="Exam AZ-204: Developing Solutions for Microsoft Azure">Exam AZ-204: Developing Solutions for Microsoft Azure</a><span  style="color: green;"> (was updated on 3/26/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -726,7 +750,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a><span  style="color: green;"> (was updated on 1/24/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -735,19 +759,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-200" title="Exam AZ-200: Microsoft Azure Developer Core Solutions">Exam AZ-200: Microsoft Azure Developer Core Solutions</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-200" title="Exam AZ-200: Microsoft Azure Developer Core Solutions">Exam AZ-200: Microsoft Azure Developer Core Solutions</a><span  style="color: red;"> (was retired on 1/3/2019)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-201" title="Exam AZ-201: Microsoft Azure Developer Advanced Solutions">Exam AZ-201: Microsoft Azure Developer Advanced Solutions</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-201" title="Exam AZ-201: Microsoft Azure Developer Advanced Solutions">Exam AZ-201: Microsoft Azure Developer Advanced Solutions</a><span  style="color: red;"> (was retired on 1/3/2019)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900" title="Exam AZ-900: Microsoft Azure Fundamentals">Exam AZ-900: Microsoft Azure Fundamentals</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900" title="Exam AZ-900: Microsoft Azure Fundamentals">Exam AZ-900: Microsoft Azure Fundamentals</a><span  style="color: green;"> (was updated on 1/25/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -756,7 +780,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a><span  style="color: green;"> (was updated on 9/24/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -765,7 +789,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-700" title="Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions">Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-700" title="Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions">Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions</a><span  style="color: green;"> (was updated on 11/23/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -774,7 +798,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a><span  style="color: green;"> (was updated on 9/29/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -783,19 +807,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-302" title="Exam AZ-302: Microsoft Azure Solutions Architect Certification Transition">Exam AZ-302: Microsoft Azure Solutions Architect Certification Transition</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-302" title="Exam AZ-302: Microsoft Azure Solutions Architect Certification Transition">Exam AZ-302: Microsoft Azure Solutions Architect Certification Transition</a><span  style="color: red;"> (was retired on 6/30/2019)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303" title="Exam AZ-303: Microsoft Azure Architect Technologies">Exam AZ-303: Microsoft Azure Architect Technologies</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-303" title="Exam AZ-303: Microsoft Azure Architect Technologies">Exam AZ-303: Microsoft Azure Architect Technologies</a><span  style="color: green;"> (was updated on 11/23/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-304" title="Exam AZ-304: Microsoft Azure Architect Design">Exam AZ-304: Microsoft Azure Architect Design</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-304" title="Exam AZ-304: Microsoft Azure Architect Design">Exam AZ-304: Microsoft Azure Architect Design</a><span  style="color: green;"> (was updated on 11/23/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -804,7 +828,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-600" title="Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub">Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-600" title="Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub">Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a><span  style="color: green;"> (was updated on 11/23/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -813,7 +837,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-140" title="Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop">Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-140" title="Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop">Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop</a><span  style="color: green;"> (was updated on 11/22/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -822,7 +846,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a><span  style="color: green;"> (was updated on 11/30/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -846,25 +870,25 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-103" title="Exam AZ-103: Microsoft Azure Administrator">Exam AZ-103: Microsoft Azure Administrator</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-103" title="Exam AZ-103: Microsoft Azure Administrator">Exam AZ-103: Microsoft Azure Administrator</a><span  style="color: red;"> (was retired on 8/31/2020)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-203" title="Exam AZ-203: Developing Solutions for Microsoft Azure">Exam AZ-203: Developing Solutions for Microsoft Azure</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-203" title="Exam AZ-203: Developing Solutions for Microsoft Azure">Exam AZ-203: Developing Solutions for Microsoft Azure</a><span  style="color: red;"> (was retired on 8/31/2020)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-300" title="Exam AZ-300: Microsoft Azure Architect Technologies">Exam AZ-300: Microsoft Azure Architect Technologies</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-300" title="Exam AZ-300: Microsoft Azure Architect Technologies">Exam AZ-300: Microsoft Azure Architect Technologies</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-301" title="Exam AZ-301: Microsoft Azure Architect Design">Exam AZ-301: Microsoft Azure Architect Design</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-301" title="Exam AZ-301: Microsoft Azure Architect Design">Exam AZ-301: Microsoft Azure Architect Design</a><span  style="color: red;"> (is retired)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -875,7 +899,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/da-100" title="Exam DA-100: Analyzing Data with Microsoft Power BI">Exam DA-100: Analyzing Data with Microsoft Power BI</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/da-100" title="Exam DA-100: Analyzing Data with Microsoft Power BI">Exam DA-100: Analyzing Data with Microsoft Power BI</a><span  style="color: green;"> (was updated on 11/23/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -886,7 +910,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300" title="Exam DP-300: Administering Relational Databases on Microsoft Azure">Exam DP-300: Administering Relational Databases on Microsoft Azure</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300" title="Exam DP-300: Administering Relational Databases on Microsoft Azure">Exam DP-300: Administering Relational Databases on Microsoft Azure</a><span  style="color: green;"> (was updated on 11/24/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -904,7 +928,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a><span  style="color: green;"> (was updated on 10/25/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -913,7 +937,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100" title="Exam DP-100: Designing and Implementing a Data Science Solution on Azure">Exam DP-100: Designing and Implementing a Data Science Solution on Azure</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100" title="Exam DP-100: Designing and Implementing a Data Science Solution on Azure">Exam DP-100: Designing and Implementing a Data Science Solution on Azure</a><span  style="color: green;"> (was updated on 5/20/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -922,13 +946,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200" title="Exam DP-200: Implementing an Azure Data Solution">Exam DP-200: Implementing an Azure Data Solution</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200" title="Exam DP-200: Implementing an Azure Data Solution">Exam DP-200: Implementing an Azure Data Solution</a><span  style="color: red;"> (was retired on 8/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201" title="Exam DP-201: Designing an Azure Data Solution">Exam DP-201: Designing an Azure Data Solution</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-201" title="Exam DP-201: Designing an Azure Data Solution">Exam DP-201: Designing an Azure Data Solution</a><span  style="color: red;"> (was retired on 8/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -948,7 +972,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-500" title="Exam MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer">Exam MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-500" title="Exam MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer">Exam MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer</a><span  style="color: green;"> (was updated on 4/2/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -957,7 +981,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a><span  style="color: green;"> (was updated on 3/17/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -975,7 +999,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant">Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant">Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant</a><span  style="color: green;"> (was updated on 10/15/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -984,7 +1008,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant">Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant">Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant</a><span  style="color: green;"> (was updated on 11/12/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -993,7 +1017,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310" title="Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant">Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310" title="Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant">Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant</a><span  style="color: green;"> (was updated on 8/27/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1002,13 +1026,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-300" title="Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations">Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-300" title="Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations">Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations</a><span  style="color: green;"> (was updated on 8/9/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-320" title="Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing">Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-320" title="Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing">Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing</a><span  style="color: green;"> (was updated on 10/16/2020)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1017,7 +1041,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing">Exam MB-220: Microsoft Dynamics 365 Marketing</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing">Exam MB-220: Microsoft Dynamics 365 Marketing</a>
   </li>
 </ul>
 
@@ -1026,7 +1050,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" title="Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" title="Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant</a><span  style="color: green;"> (was updated on 7/23/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1035,7 +1059,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant</a><span  style="color: green;"> (was updated on 12/10/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1044,13 +1068,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-900" title="Exam MB-900: Microsoft Dynamics 365 Fundamentals">Exam MB-900: Microsoft Dynamics 365 Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-900" title="Exam MB-900: Microsoft Dynamics 365 Fundamentals">Exam MB-900: Microsoft Dynamics 365 Fundamentals</a><span  style="color: red;"> (was retired on 12/31/2019)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-901" title="Exam MB-901: Microsoft Dynamics 365 Fundamentals">Exam MB-901: Microsoft Dynamics 365 Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-901" title="Exam MB-901: Microsoft Dynamics 365 Fundamentals">Exam MB-901: Microsoft Dynamics 365 Fundamentals</a><span  style="color: red;"> (was retired on 6/30/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1077,13 +1101,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200" title="Exam MB-200: Microsoft Power Platform + Dynamics 365 Core">Exam MB-200: Microsoft Power Platform + Dynamics 365 Core</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200" title="Exam MB-200: Microsoft Power Platform + Dynamics 365 Core">Exam MB-200: Microsoft Power Platform + Dynamics 365 Core</a><span  style="color: red;"> (was retired on 12/31/2020)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400" title="Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer">Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400" title="Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer">Exam MB-400: Microsoft Power Apps + Dynamics 365 Developer</a><span  style="color: red;"> (was retired on 12/31/2020)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1092,7 +1116,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-600" title="Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect">Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-600" title="Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect">Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect</a><span  style="color: red;"> (was retired on 6/30/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1103,7 +1127,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb2-716" title="Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration">Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb2-716" title="Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration">Exam MB2-716: Microsoft Dynamics 365 Customization and Configuration</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1114,7 +1138,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb6-894" title="Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance">Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb6-894" title="Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance">Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1123,13 +1147,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb6-897" title="Exam MB6-897: Microsoft Dynamics 365 for Retail">Exam MB6-897: Microsoft Dynamics 365 for Retail</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb6-897" title="Exam MB6-897: Microsoft Dynamics 365 for Retail">Exam MB6-897: Microsoft Dynamics 365 for Retail</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb6-898" title="Exam MB6-898: Microsoft Dynamics 365 for Talent">Exam MB6-898: Microsoft Dynamics 365 for Talent</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb6-898" title="Exam MB6-898: Microsoft Dynamics 365 for Talent">Exam MB6-898: Microsoft Dynamics 365 for Talent</a><span  style="color: red;"> (was retired on 1/31/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1140,13 +1164,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100" title="Exam MD-100: Windows Client">Exam MD-100: Windows Client</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100" title="Exam MD-100: Windows Client">Exam MD-100: Windows Client</a><span  style="color: green;"> (was updated on 12/3/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101" title="Exam MD-101: Managing Modern Desktops">Exam MD-101: Managing Modern Desktops</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101" title="Exam MD-101: Managing Modern Desktops">Exam MD-101: Managing Modern Desktops</a><span  style="color: green;"> (was updated on 11/24/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1222,7 +1246,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600" title="Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600" title="Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a><span  style="color: green;"> (was updated on 11/29/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1231,7 +1255,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100" title="Exam MS-100: Microsoft 365 Identity and Services">Exam MS-100: Microsoft 365 Identity and Services</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100" title="Exam MS-100: Microsoft 365 Identity and Services">Exam MS-100: Microsoft 365 Identity and Services</a><span  style="color: green;"> (was updated on 11/30/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1246,13 +1270,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-202" title="Exam MS-202: Microsoft 365 Messaging Administrator Certification Transition">Exam MS-202: Microsoft 365 Messaging Administrator Certification Transition</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-202" title="Exam MS-202: Microsoft 365 Messaging Administrator Certification Transition">Exam MS-202: Microsoft 365 Messaging Administrator Certification Transition</a><span  style="color: red;"> (was retired on 9/30/2019)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-203" title="Exam MS-203: Microsoft 365 Messaging">Exam MS-203: Microsoft 365 Messaging</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-203" title="Exam MS-203: Microsoft 365 Messaging">Exam MS-203: Microsoft 365 Messaging</a><span  style="color: green;"> (was updated on 11/30/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1261,7 +1285,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500" title="Exam MS-500: Microsoft 365 Security Administration">Exam MS-500: Microsoft 365 Security Administration</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500" title="Exam MS-500: Microsoft 365 Security Administration">Exam MS-500: Microsoft 365 Security Administration</a><span  style="color: green;"> (was updated on 1/27/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1270,7 +1294,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700" title="Exam MS-700: Managing Microsoft Teams">Exam MS-700: Managing Microsoft Teams</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700" title="Exam MS-700: Managing Microsoft Teams">Exam MS-700: Managing Microsoft Teams</a><span  style="color: green;"> (was updated on 9/24/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1288,19 +1312,19 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-300" title="Exam MS-300: Deploying Microsoft 365 Teamwork">Exam MS-300: Deploying Microsoft 365 Teamwork</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-300" title="Exam MS-300: Deploying Microsoft 365 Teamwork">Exam MS-300: Deploying Microsoft 365 Teamwork</a><span  style="color: red;"> (was retired on 8/31/2020)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-301" title="Exam MS-301: Deploying SharePoint Server Hybrid">Exam MS-301: Deploying SharePoint Server Hybrid</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-301" title="Exam MS-301: Deploying SharePoint Server Hybrid">Exam MS-301: Deploying SharePoint Server Hybrid</a><span  style="color: red;"> (was retired on 8/31/2020)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-302" title="Exam MS-302: Microsoft 365 Teamwork Administrator Certification Transition">Exam MS-302: Microsoft 365 Teamwork Administrator Certification Transition</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-302" title="Exam MS-302: Microsoft 365 Teamwork Administrator Certification Transition">Exam MS-302: Microsoft 365 Teamwork Administrator Certification Transition</a><span  style="color: red;"> (was retired on 9/30/2019)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1309,7 +1333,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a><span  style="color: green;"> (was updated on 10/25/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1318,13 +1342,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-200" title="Exam MS-200: Planning and Configuring a Messaging Platform">Exam MS-200: Planning and Configuring a Messaging Platform</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-200" title="Exam MS-200: Planning and Configuring a Messaging Platform">Exam MS-200: Planning and Configuring a Messaging Platform</a><span  style="color: red;"> (was retired on 8/31/2020)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-201" title="Exam MS-201: Implementing a Hybrid and Secure Messaging Platform">Exam MS-201: Implementing a Hybrid and Secure Messaging Platform</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-201" title="Exam MS-201: Implementing a Hybrid and Secure Messaging Platform">Exam MS-201: Implementing a Hybrid and Secure Messaging Platform</a><span  style="color: red;"> (was retired on 8/31/2020)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1335,7 +1359,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-100" title="Exam PL-100: Microsoft Power Platform App Maker">Exam PL-100: Microsoft Power Platform App Maker</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-100" title="Exam PL-100: Microsoft Power Platform App Maker">Exam PL-100: Microsoft Power Platform App Maker</a><span  style="color: green;"> (was updated on 7/23/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1344,7 +1368,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400" title="Exam PL-400: Microsoft Power Platform Developer">Exam PL-400: Microsoft Power Platform Developer</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400" title="Exam PL-400: Microsoft Power Platform Developer">Exam PL-400: Microsoft Power Platform Developer</a><span  style="color: green;"> (was updated on 6/23/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1353,7 +1377,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a><span  style="color: green;"> (was updated on 10/1/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1362,7 +1386,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a><span  style="color: green;"> (was updated on 3/10/2021)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1382,7 +1406,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300" title="Exam SC-300: Microsoft Identity and Access Administrator">Exam SC-300: Microsoft Identity and Access Administrator</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300" title="Exam SC-300: Microsoft Identity and Access Administrator">Exam SC-300: Microsoft Identity and Access Administrator</a><span  style="color: green;"> (was updated on 1/28/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1391,7 +1415,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400" title="Exam SC-400: Microsoft Information Protection Administrator">Exam SC-400: Microsoft Information Protection Administrator</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400" title="Exam SC-400: Microsoft Information Protection Administrator">Exam SC-400: Microsoft Information Protection Administrator</a><span  style="color: green;"> (was updated on 1/28/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1400,7 +1424,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (was updated on 1/28/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1409,7 +1433,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a><span  style="color: green;"> (was updated on 1/28/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
