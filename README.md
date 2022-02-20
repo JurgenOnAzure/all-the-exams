@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last checked on 2/6/2022, and had no changes.</i>
+<i id="updatenotice">This list was last updated on 2/20/2022, with 3 changes since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 1/24/2022:
@@ -38,6 +38,11 @@ Thanks!
 ### Was updated on 2/2/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101" title="Exam MS-101: Microsoft 365 Mobility and Security">Exam MS-101: Microsoft 365 Mobility and Security</a></li>
+</ul>
+
+### Was updated on 2/14/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800" title="Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant">Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant</a></li>
 </ul>
 
 ## Sections
@@ -968,7 +973,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800" title="Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant">Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800" title="Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant">Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant</a><span  style="color: green;"> (was updated on 2/14/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1013,7 +1018,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant">Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant</a><span  style="color: green;"> (was updated on 11/12/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant">Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1373,7 +1378,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400" title="Exam PL-400: Microsoft Power Platform Developer">Exam PL-400: Microsoft Power Platform Developer</a><span  style="color: green;"> (was updated on 6/23/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400" title="Exam PL-400: Microsoft Power Platform Developer">Exam PL-400: Microsoft Power Platform Developer</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
