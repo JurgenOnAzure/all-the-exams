@@ -818,6 +818,11 @@ Thanks!
   </li>
 </ul>
 
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-305" title="Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions"> Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions </a>
+  </li>
+</ul>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-stack-hub-operator/" data-linktype="relative-path">Microsoft Certified: Azure Stack Hub Operator Associate</a>:
 
