@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 3/6/2022, with 3 changes since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 3/13/2022, with 1 change since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 2/14/2022:
@@ -21,6 +21,11 @@ Thanks!
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a></li>
+</ul>
+
+### Was updated on 3/11/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant">Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant</a></li>
 </ul>
 
 ## Sections
@@ -987,7 +992,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant">Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant">Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant</a>
   </li>
 </ul>
 
@@ -996,7 +1001,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant">Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant">Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant</a><span  style="color: green;"> (was updated on 3/11/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1029,7 +1034,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant</a><span  style="color: green;"> (was updated on 2/28/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant</a><span  style="color: green;"> (was updated on 2/28/2022)</span>
   </li>
 </ul>
 
@@ -1071,7 +1076,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a><span  style="color: green;"> (was updated on 2/28/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a><span  style="color: green;"> (was updated on 2/28/2022)</span>
   </li>
 </ul>
 
