@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 4/24/2022, with 2 changes since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last checked on 4/24/2022, and had no changes.</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 4/12/2022:
@@ -28,18 +28,18 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a></li>
 </ul>
 
-### Will be updated on 4/25/2022:
+### Was updated on 4/25/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a></li>
 </ul>
 
-### Will be updated on 4/27/2022:
+### Was updated on 4/27/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a></li>
 </ul>
 
-### Will be updated on 4/29/2022:
+### Was updated on 4/29/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a></li>
@@ -82,6 +82,22 @@ Thanks!
 ### Will be updated on 5/18/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a></li>
+</ul>
+
+### Will be retired on 6/30/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-349" title="Exam 98-349: Windows Operating System Fundamentals">Exam 98-349: Windows Operating System Fundamentals</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-361" title="Exam 98-361: Software Development Fundamentals">Exam 98-361: Software Development Fundamentals</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-364" title="Exam 98-364: Database Fundamentals">Exam 98-364: Database Fundamentals</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-365" title="Exam 98-365: Windows Server Administration Fundamentals">Exam 98-365: Windows Server Administration Fundamentals</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-366" title="Exam 98-366: Networking Fundamentals">Exam 98-366: Networking Fundamentals</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-367" title="Exam 98-367: Security Fundamentals">Exam 98-367: Security Fundamentals</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-368" title="Exam 98-368: Mobility and Devices Fundamentals">Exam 98-368: Mobility and Devices Fundamentals</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-375" title="Exam 98-375: HTML5 Application Development Fundamentals">Exam 98-375: HTML5 Application Development Fundamentals</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-381" title="Exam 98-381: Introduction to Programming Using Python">Exam 98-381: Introduction to Programming Using Python</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-382" title="Exam 98-382: Introduction to Programming Using JavaScript">Exam 98-382: Introduction to Programming Using JavaScript</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-383" title="Exam 98-383: Introduction to Programming Using HTML and CSS">Exam 98-383: Introduction to Programming Using HTML and CSS</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-388" title="Exam 98-388: Introduction to Programming Using Java">Exam 98-388: Introduction to Programming Using Java</a></li>
 </ul>
 
 ## Sections
@@ -396,7 +412,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a><span  style="color: green;"> (will be updated on 4/29/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a><span  style="color: green;"> (was updated on 4/29/2022)</span>
   </li>
 </ul>
 
@@ -425,7 +441,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a><span  style="color: green;"> (will be updated on 4/27/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a><span  style="color: green;"> (was updated on 4/27/2022)</span>
   </li>
 </ul>
 
@@ -443,7 +459,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a><span  style="color: green;"> (will be updated on 4/27/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a><span  style="color: green;"> (was updated on 4/27/2022)</span>
   </li>
 </ul>
 
@@ -559,7 +575,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a><span  style="color: green;"> (will be updated on 4/29/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a><span  style="color: green;"> (was updated on 4/29/2022)</span>
   </li>
 </ul>
 
@@ -882,7 +898,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a><span  style="color: green;"> (will be updated on 5/18/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a><span  style="color: green;"> (will be updated on 5/18/2022)</span>
   </li>
 </ul>
 
@@ -929,7 +945,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a><span  style="color: green;"> (will be updated on 5/10/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a><span  style="color: green;"> (will be updated on 5/10/2022)</span>
   </li>
 </ul>
 
@@ -938,7 +954,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a><span  style="color: green;"> (will be updated on 4/29/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a><span  style="color: green;"> (was updated on 4/29/2022)</span>
   </li>
 </ul>
 
@@ -985,7 +1001,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (will be updated on 4/25/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (was updated on 4/25/2022)</span>
   </li>
 </ul>
 
