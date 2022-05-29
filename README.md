@@ -9,26 +9,9 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 5/22/2022, with 2 changes since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last checked on 5/22/2022, and had no changes.</i>
 
 ## Recent and upcoming exam changes
-### Was updated on 4/22/2022:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-500" title="Exam MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer">Exam MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a></li>
-</ul>
-
-### Was updated on 4/25/2022:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a></li>
-</ul>
-
-### Was updated on 4/27/2022:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a></li>
-</ul>
-
 ### Was updated on 4/29/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a></li>
@@ -723,7 +706,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-920" title="Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)">Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)</a><span  style="color: green;"> (will be updated on 6/22/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-920" title="Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)">Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)</a><span  style="color: green;"> (will be updated on 6/22/2022)</span>
   </li>
 </ul>
 
@@ -932,7 +915,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400" title="Exam PL-400: Microsoft Power Platform Developer">Exam PL-400: Microsoft Power Platform Developer</a><span  style="color: green;"> (will be updated on 6/22/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400" title="Exam PL-400: Microsoft Power Platform Developer">Exam PL-400: Microsoft Power Platform Developer</a><span  style="color: green;"> (will be updated on 6/22/2022)</span>
   </li>
 </ul>
 
