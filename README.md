@@ -9,29 +9,13 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last checked on 6/19/2022, and had no changes.</i>
+<i id="updatenotice">This list was last updated on 7/3/2022, with 20 changes since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 6/22/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-920" title="Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)">Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400" title="Exam PL-400: Microsoft Power Platform Developer">Exam PL-400: Microsoft Power Platform Developer</a></li>
-</ul>
-
-### Will be retired on 6/30/2022:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-349" title="Exam 98-349: Windows Operating System Fundamentals">Exam 98-349: Windows Operating System Fundamentals</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-361" title="Exam 98-361: Software Development Fundamentals">Exam 98-361: Software Development Fundamentals</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-364" title="Exam 98-364: Database Fundamentals">Exam 98-364: Database Fundamentals</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-365" title="Exam 98-365: Windows Server Administration Fundamentals">Exam 98-365: Windows Server Administration Fundamentals</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-366" title="Exam 98-366: Networking Fundamentals">Exam 98-366: Networking Fundamentals</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-367" title="Exam 98-367: Security Fundamentals">Exam 98-367: Security Fundamentals</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-368" title="Exam 98-368: Mobility and Devices Fundamentals">Exam 98-368: Mobility and Devices Fundamentals</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-375" title="Exam 98-375: HTML5 Application Development Fundamentals">Exam 98-375: HTML5 Application Development Fundamentals</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-381" title="Exam 98-381: Introduction to Programming Using Python">Exam 98-381: Introduction to Programming Using Python</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-382" title="Exam 98-382: Introduction to Programming Using JavaScript">Exam 98-382: Introduction to Programming Using JavaScript</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-383" title="Exam 98-383: Introduction to Programming Using HTML and CSS">Exam 98-383: Introduction to Programming Using HTML and CSS</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-388" title="Exam 98-388: Introduction to Programming Using Java">Exam 98-388: Introduction to Programming Using Java</a></li>
 </ul>
 
 ### Will be updated on 7/11/2022:
@@ -47,12 +31,63 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a></li>
 </ul>
 
+### Will be updated on 7/26/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-260" title="Exam MB-260: Microsoft Customer Data Platform Specialist">Exam MB-260: Microsoft Customer Data Platform Specialist</a></li>
+</ul>
+
+### Will be updated on 7/28/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" title="Exam AZ-104: Microsoft Azure Administrator">Exam AZ-104: Microsoft Azure Administrator</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a></li>
+</ul>
+
+### Will be updated on 7/29/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-600" title="Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub">Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a></li>
+</ul>
+
+### Will be updated on 8/1/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-203" title="Exam MS-203: Microsoft 365 Messaging">Exam MS-203: Microsoft 365 Messaging</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700" title="Exam MS-700: Managing Microsoft Teams">Exam MS-700: Managing Microsoft Teams</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300" title="Exam SC-300: Microsoft Identity and Access Administrator">Exam SC-300: Microsoft Identity and Access Administrator</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400" title="Exam SC-400: Microsoft Information Protection Administrator">Exam SC-400: Microsoft Information Protection Administrator</a></li>
+</ul>
+
+### Will be updated on 8/2/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102" title="Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a></li>
+</ul>
+
+### Will be updated on 8/3/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100" title="Exam MS-100: Microsoft 365 Identity and Services">Exam MS-100: Microsoft 365 Identity and Services</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101" title="Exam MS-101: Microsoft 365 Mobility and Security">Exam MS-101: Microsoft 365 Mobility and Security</a></li>
+</ul>
+
+### Will be updated on 8/4/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300" title="Exam DP-300: Administering Relational Databases on Microsoft Azure">Exam DP-300: Administering Relational Databases on Microsoft Azure</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600" title="Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a></li>
+</ul>
+
+### Will be updated on 8/5/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a></li>
+</ul>
+
 ## Sections
 
 <ul>
   <li><a href="#group62" title="62 exams">62 exams</a></li>
   <li><a href="#group77" title="77 exams">77 exams</a></li>
-  <li><a href="#group98" title="98 exams">98 exams</a></li>
   <li><a href="#groupai" title="AI exams">AI exams</a></li>
   <li><a href="#groupaz" title="AZ exams">AZ exams</a></li>
   <li><a href="#groupdp" title="DP exams">DP exams</a></li>
@@ -234,123 +269,13 @@ Thanks!
 </ul>
 
 
-## <span id="group98">98 exams</span>
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-database-fundamentals/" data-linktype="relative-path">MTA: Database Fundamentals</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-364" title="Exam 98-364: Database Fundamentals">Exam 98-364: Database Fundamentals</a><span  style="color: red;"> (WILL BE RETIRED ON 6/30/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-html5-application-development-fundamentals/" data-linktype="relative-path">MTA: HTML5 Application Development Fundamentals</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-375" title="Exam 98-375: HTML5 Application Development Fundamentals">Exam 98-375: HTML5 Application Development Fundamentals</a><span  style="color: red;"> (WILL BE RETIRED ON 6/30/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-html-and-css/" data-linktype="relative-path">MTA: Introduction to Programming Using HTML and CSS</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-383" title="Exam 98-383: Introduction to Programming Using HTML and CSS">Exam 98-383: Introduction to Programming Using HTML and CSS</a><span  style="color: red;"> (WILL BE RETIRED ON 6/30/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-java/" data-linktype="relative-path">MTA: Introduction to Programming Using Java</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-388" title="Exam 98-388: Introduction to Programming Using Java">Exam 98-388: Introduction to Programming Using Java</a><span  style="color: red;"> (WILL BE RETIRED ON 6/30/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-javascript/" data-linktype="relative-path">MTA: Introduction to Programming Using JavaScript</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-382" title="Exam 98-382: Introduction to Programming Using JavaScript">Exam 98-382: Introduction to Programming Using JavaScript</a><span  style="color: red;"> (WILL BE RETIRED ON 6/30/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-introduction-to-programming-using-python/" data-linktype="relative-path">MTA: Introduction to Programming Using Python</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-381" title="Exam 98-381: Introduction to Programming Using Python">Exam 98-381: Introduction to Programming Using Python</a><span  style="color: red;"> (WILL BE RETIRED ON 6/30/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-mobility-and-device-fundamentals/" data-linktype="relative-path">MTA: Mobility and Device Fundamentals</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-368" title="Exam 98-368: Mobility and Devices Fundamentals">Exam 98-368: Mobility and Devices Fundamentals</a><span  style="color: red;"> (WILL BE RETIRED ON 6/30/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-networking-fundamentals/" data-linktype="relative-path">MTA: Networking Fundamentals</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-366" title="Exam 98-366: Networking Fundamentals">Exam 98-366: Networking Fundamentals</a><span  style="color: red;"> (WILL BE RETIRED ON 6/30/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-security-fundamentals/" data-linktype="relative-path">MTA: Security Fundamentals</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-367" title="Exam 98-367: Security Fundamentals">Exam 98-367: Security Fundamentals</a><span  style="color: red;"> (WILL BE RETIRED ON 6/30/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-software-development-fundamentals/" data-linktype="relative-path">MTA: Software Development Fundamentals</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-361" title="Exam 98-361: Software Development Fundamentals">Exam 98-361: Software Development Fundamentals</a><span  style="color: red;"> (WILL BE RETIRED ON 6/30/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-windows-operating-system-fundamentals/" data-linktype="relative-path">MTA: Windows Operating System Fundamentals</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-349" title="Exam 98-349: Windows Operating System Fundamentals">Exam 98-349: Windows Operating System Fundamentals</a><span  style="color: red;"> (WILL BE RETIRED ON 6/30/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mta-windows-server-administration-fundamentals/" data-linktype="relative-path">MTA: Windows Server Administration Fundamentals</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-365" title="Exam 98-365: Windows Server Administration Fundamentals">Exam 98-365: Windows Server Administration Fundamentals</a><span  style="color: red;"> (WILL BE RETIRED ON 6/30/2022)</span>
-  </li>
-</ul>
-
-
 ## <span id="groupai">AI exams</span>
 
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer/" data-linktype="relative-path">Microsoft Certified: Azure AI Engineer Associate</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102" title="Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a><span  style="color: green;"> (was updated on 5/2/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102" title="Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a><span  style="color: green;"> (will be updated on 8/2/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -370,7 +295,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" title="Exam AZ-104: Microsoft Azure Administrator">Exam AZ-104: Microsoft Azure Administrator</a><span  style="color: green;"> (was updated on 9/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" title="Exam AZ-104: Microsoft Azure Administrator">Exam AZ-104: Microsoft Azure Administrator</a><span  style="color: green;"> (will be updated on 7/28/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -388,7 +313,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a><span  style="color: green;"> (was updated on 4/27/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a><span  style="color: green;"> (will be updated on 7/28/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -406,7 +331,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a><span  style="color: green;"> (was updated on 4/27/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a><span  style="color: green;"> (will be updated on 7/28/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -424,7 +349,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a><span  style="color: green;"> (was updated on 5/2/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a><span  style="color: green;"> (will be updated on 8/2/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -442,7 +367,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-600" title="Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub">Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a><span  style="color: green;"> (was updated on 11/23/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-600" title="Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub">Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a><span  style="color: green;"> (will be updated on 7/29/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -478,13 +403,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure (beta)">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure (beta)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure</a><span  style="color: green;"> (will be updated on 8/3/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services (beta)">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services (beta)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services</a><span  style="color: green;"> (will be updated on 8/3/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -504,7 +429,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300" title="Exam DP-300: Administering Relational Databases on Microsoft Azure">Exam DP-300: Administering Relational Databases on Microsoft Azure</a><span  style="color: green;"> (was updated on 11/24/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300" title="Exam DP-300: Administering Relational Databases on Microsoft Azure">Exam DP-300: Administering Relational Databases on Microsoft Azure</a><span  style="color: green;"> (will be updated on 8/4/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -522,7 +447,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a><span  style="color: green;"> (was updated on 4/29/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a><span  style="color: green;"> (will be updated on 8/4/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -551,7 +476,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-260" title="Exam MB-260: Microsoft Customer Data Platform Specialist">Exam MB-260: Microsoft Customer Data Platform Specialist</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-260" title="Exam MB-260: Microsoft Customer Data Platform Specialist">Exam MB-260: Microsoft Customer Data Platform Specialist</a><span  style="color: green;"> (will be updated on 7/26/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -767,7 +692,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600" title="Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a><span  style="color: green;"> (was updated on 11/29/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600" title="Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a><span  style="color: green;"> (will be updated on 8/4/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -776,13 +701,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100" title="Exam MS-100: Microsoft 365 Identity and Services">Exam MS-100: Microsoft 365 Identity and Services</a><span  style="color: green;"> (was updated on 5/3/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100" title="Exam MS-100: Microsoft 365 Identity and Services">Exam MS-100: Microsoft 365 Identity and Services</a><span  style="color: green;"> (will be updated on 8/3/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101" title="Exam MS-101: Microsoft 365 Mobility and Security">Exam MS-101: Microsoft 365 Mobility and Security</a><span  style="color: green;"> (was updated on 2/2/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101" title="Exam MS-101: Microsoft 365 Mobility and Security">Exam MS-101: Microsoft 365 Mobility and Security</a><span  style="color: green;"> (will be updated on 8/3/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -800,7 +725,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-203" title="Exam MS-203: Microsoft 365 Messaging">Exam MS-203: Microsoft 365 Messaging</a><span  style="color: green;"> (was updated on 11/30/2021)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-203" title="Exam MS-203: Microsoft 365 Messaging">Exam MS-203: Microsoft 365 Messaging</a><span  style="color: green;"> (will be updated on 8/1/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -818,7 +743,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700" title="Exam MS-700: Managing Microsoft Teams">Exam MS-700: Managing Microsoft Teams</a><span  style="color: green;"> (was updated on 5/4/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700" title="Exam MS-700: Managing Microsoft Teams">Exam MS-700: Managing Microsoft Teams</a><span  style="color: green;"> (will be updated on 8/1/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -930,7 +855,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300" title="Exam SC-300: Microsoft Identity and Access Administrator">Exam SC-300: Microsoft Identity and Access Administrator</a><span  style="color: green;"> (was updated on 5/5/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300" title="Exam SC-300: Microsoft Identity and Access Administrator">Exam SC-300: Microsoft Identity and Access Administrator</a><span  style="color: green;"> (will be updated on 8/1/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -939,7 +864,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400" title="Exam SC-400: Microsoft Information Protection Administrator">Exam SC-400: Microsoft Information Protection Administrator</a><span  style="color: green;"> (was updated on 5/5/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400" title="Exam SC-400: Microsoft Information Protection Administrator">Exam SC-400: Microsoft Information Protection Administrator</a><span  style="color: green;"> (will be updated on 8/1/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -948,7 +873,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (was updated on 4/25/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (will be updated on 7/29/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -957,7 +882,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a><span  style="color: green;"> (was updated on 5/5/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a><span  style="color: green;"> (will be updated on 8/5/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1257,6 +1182,78 @@ Thanks!
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-888" title="Exam 77-888: Excel 2010 Expert">Exam 77-888: Excel 2010 Expert</a><span  style="color: red;"> (IS RETIRED)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-349" title="Exam 98-349: Windows Operating System Fundamentals">Exam 98-349: Windows Operating System Fundamentals</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2022)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-361" title="Exam 98-361: Software Development Fundamentals">Exam 98-361: Software Development Fundamentals</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2022)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-364" title="Exam 98-364: Database Fundamentals">Exam 98-364: Database Fundamentals</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2022)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-365" title="Exam 98-365: Windows Server Administration Fundamentals">Exam 98-365: Windows Server Administration Fundamentals</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2022)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-366" title="Exam 98-366: Networking Fundamentals">Exam 98-366: Networking Fundamentals</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2022)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-367" title="Exam 98-367: Security Fundamentals">Exam 98-367: Security Fundamentals</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2022)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-368" title="Exam 98-368: Mobility and Devices Fundamentals">Exam 98-368: Mobility and Devices Fundamentals</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2022)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-375" title="Exam 98-375: HTML5 Application Development Fundamentals">Exam 98-375: HTML5 Application Development Fundamentals</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2022)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-381" title="Exam 98-381: Introduction to Programming Using Python">Exam 98-381: Introduction to Programming Using Python</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2022)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-382" title="Exam 98-382: Introduction to Programming Using JavaScript">Exam 98-382: Introduction to Programming Using JavaScript</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2022)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-383" title="Exam 98-383: Introduction to Programming Using HTML and CSS">Exam 98-383: Introduction to Programming Using HTML and CSS</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2022)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/98-388" title="Exam 98-388: Introduction to Programming Using Java">Exam 98-388: Introduction to Programming Using Java</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2022)</span>
   </li>
 </ul>
 
