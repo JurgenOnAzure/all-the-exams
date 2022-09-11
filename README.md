@@ -9,19 +9,9 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 9/4/2022, with 3 changes since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last checked on 9/4/2022, and had no changes.</i>
 
 ## Recent and upcoming exam changes
-### Was updated on 8/5/2022:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a></li>
-</ul>
-
-### Was updated on 8/9/2022:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-300" title="Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations">Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations</a></li>
-</ul>
-
 ### Will be updated on 9/19/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-340" title="Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant">Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant</a></li>
@@ -502,7 +492,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" title="Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant</a><span  style="color: green;"> (will be updated on 9/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" title="Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant</a><span  style="color: green;"> (will be updated on 9/30/2022)</span>
   </li>
 </ul>
 
@@ -774,7 +764,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a><span  style="color: green;"> (will be updated on 9/30/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a><span  style="color: green;"> (will be updated on 9/30/2022)</span>
   </li>
 </ul>
 
@@ -783,7 +773,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a><span  style="color: green;"> (will be updated on 9/29/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a><span  style="color: green;"> (will be updated on 9/29/2022)</span>
   </li>
 </ul>
 
