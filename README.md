@@ -9,15 +9,9 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 10/30/2022, with 1 change since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 11/6/2022, with 1 change since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
-### Was updated on 9/30/2022:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" title="Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a></li>
-</ul>
-
 ### Was updated on 10/18/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-720" title="Exam AZ-720: Troubleshooting Microsoft Azure Connectivity">Exam AZ-720: Troubleshooting Microsoft Azure Connectivity</a></li>
@@ -53,23 +47,22 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900" title="Exam AZ-900: Microsoft Azure Fundamentals">Exam AZ-900: Microsoft Azure Fundamentals</a></li>
 </ul>
 
-### Will be updated on 10/31/2022:
+### Was updated on 10/31/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-203" title="Exam MS-203: Microsoft 365 Messaging">Exam MS-203: Microsoft 365 Messaging</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600" title="Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700" title="Exam MS-700: Managing Microsoft Teams">Exam MS-700: Managing Microsoft Teams</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300" title="Exam SC-300: Microsoft Identity and Access Administrator">Exam SC-300: Microsoft Identity and Access Administrator</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400" title="Exam SC-400: Microsoft Information Protection Administrator">Exam SC-400: Microsoft Information Protection Administrator</a></li>
 </ul>
 
-### Will be updated on 11/1/2022:
+### Was updated on 11/1/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-700" title="Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions">Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions</a></li>
 </ul>
 
-### Will be updated on 11/2/2022:
+### Was updated on 11/2/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services</a></li>
@@ -79,9 +72,10 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101" title="Exam MS-101: Microsoft 365 Mobility and Security">Exam MS-101: Microsoft 365 Mobility and Security</a></li>
 </ul>
 
-### Will be updated on 11/4/2022:
+### Was updated on 11/4/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500" title="Exam MS-500: Microsoft 365 Security Administration">Exam MS-500: Microsoft 365 Security Administration</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600" title="Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-720" title="Exam MS-720: Microsoft Teams Voice Engineer">Exam MS-720: Microsoft Teams Voice Engineer</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a></li>
@@ -350,7 +344,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-700" title="Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions">Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions</a><span  style="color: green;"> (will be updated on 11/1/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-700" title="Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions">Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions</a><span  style="color: green;"> (was updated on 11/1/2022)</span>
   </li>
 </ul>
 
@@ -359,7 +353,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a><span  style="color: green;"> (will be updated on 11/1/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a><span  style="color: green;"> (was updated on 11/1/2022)</span>
   </li>
 </ul>
 
@@ -404,7 +398,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a><span  style="color: green;"> (will be updated on 11/1/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a><span  style="color: green;"> (was updated on 11/1/2022)</span>
   </li>
 </ul>
 
@@ -413,13 +407,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure</a><span  style="color: green;"> (will be updated on 11/2/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure</a><span  style="color: green;"> (was updated on 11/2/2022)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services</a><span  style="color: green;"> (will be updated on 11/2/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services</a><span  style="color: green;"> (was updated on 11/2/2022)</span>
   </li>
 </ul>
 
@@ -632,13 +626,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100" title="Exam MD-100: Windows Client">Exam MD-100: Windows Client</a><span  style="color: green;"> (will be updated on 11/2/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100" title="Exam MD-100: Windows Client">Exam MD-100: Windows Client</a><span  style="color: green;"> (was updated on 11/2/2022)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101" title="Exam MD-101: Managing Modern Desktops">Exam MD-101: Managing Modern Desktops</a><span  style="color: green;"> (will be updated on 11/2/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101" title="Exam MD-101: Managing Modern Desktops">Exam MD-101: Managing Modern Desktops</a><span  style="color: green;"> (was updated on 11/2/2022)</span>
   </li>
 </ul>
 
@@ -712,7 +706,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-210" title="Exam MO-210: Microsoft Excel (Microsoft 365 Apps)">Exam MO-210: Microsoft Excel (Microsoft 365 Apps)</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-210" title="Exam MO-210: Microsoft Excel (Microsoft 365 Apps)">Exam MO-210: Microsoft Excel (Microsoft 365 Apps)</a>
   </li>
 </ul>
 
@@ -723,13 +717,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100" title="Exam MS-100: Microsoft 365 Identity and Services">Exam MS-100: Microsoft 365 Identity and Services</a><span  style="color: green;"> (will be updated on 11/2/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100" title="Exam MS-100: Microsoft 365 Identity and Services">Exam MS-100: Microsoft 365 Identity and Services</a><span  style="color: green;"> (was updated on 11/2/2022)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101" title="Exam MS-101: Microsoft 365 Mobility and Security">Exam MS-101: Microsoft 365 Mobility and Security</a><span  style="color: green;"> (will be updated on 11/2/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101" title="Exam MS-101: Microsoft 365 Mobility and Security">Exam MS-101: Microsoft 365 Mobility and Security</a><span  style="color: green;"> (was updated on 11/2/2022)</span>
   </li>
 </ul>
 
@@ -747,7 +741,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-203" title="Exam MS-203: Microsoft 365 Messaging">Exam MS-203: Microsoft 365 Messaging</a><span  style="color: green;"> (will be updated on 10/31/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-203" title="Exam MS-203: Microsoft 365 Messaging">Exam MS-203: Microsoft 365 Messaging</a><span  style="color: green;"> (was updated on 10/31/2022)</span>
   </li>
 </ul>
 
@@ -756,7 +750,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500" title="Exam MS-500: Microsoft 365 Security Administration">Exam MS-500: Microsoft 365 Security Administration</a><span  style="color: green;"> (will be updated on 11/4/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500" title="Exam MS-500: Microsoft 365 Security Administration">Exam MS-500: Microsoft 365 Security Administration</a><span  style="color: green;"> (was updated on 11/4/2022)</span>
   </li>
 </ul>
 
@@ -765,7 +759,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700" title="Exam MS-700: Managing Microsoft Teams">Exam MS-700: Managing Microsoft Teams</a><span  style="color: green;"> (will be updated on 10/31/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700" title="Exam MS-700: Managing Microsoft Teams">Exam MS-700: Managing Microsoft Teams</a><span  style="color: green;"> (was updated on 10/31/2022)</span>
   </li>
 </ul>
 
@@ -774,7 +768,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600" title="Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a><span  style="color: green;"> (will be updated on 10/31/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600" title="Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a><span  style="color: green;"> (was updated on 11/4/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -792,7 +786,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-720" title="Exam MS-720: Microsoft Teams Voice Engineer">Exam MS-720: Microsoft Teams Voice Engineer</a><span  style="color: green;"> (will be updated on 11/4/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-720" title="Exam MS-720: Microsoft Teams Voice Engineer">Exam MS-720: Microsoft Teams Voice Engineer</a><span  style="color: green;"> (was updated on 11/4/2022)</span>
   </li>
 </ul>
 
@@ -877,7 +871,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a><span  style="color: green;"> (will be updated on 11/4/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a><span  style="color: green;"> (was updated on 11/4/2022)</span>
   </li>
 </ul>
 
@@ -886,7 +880,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300" title="Exam SC-300: Microsoft Identity and Access Administrator">Exam SC-300: Microsoft Identity and Access Administrator</a><span  style="color: green;"> (will be updated on 10/31/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300" title="Exam SC-300: Microsoft Identity and Access Administrator">Exam SC-300: Microsoft Identity and Access Administrator</a><span  style="color: green;"> (was updated on 10/31/2022)</span>
   </li>
 </ul>
 
@@ -895,7 +889,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400" title="Exam SC-400: Microsoft Information Protection Administrator">Exam SC-400: Microsoft Information Protection Administrator</a><span  style="color: green;"> (will be updated on 10/31/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400" title="Exam SC-400: Microsoft Information Protection Administrator">Exam SC-400: Microsoft Information Protection Administrator</a><span  style="color: green;"> (was updated on 10/31/2022)</span>
   </li>
 </ul>
 
@@ -904,7 +898,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (will be updated on 11/4/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (was updated on 11/4/2022)</span>
   </li>
 </ul>
 
@@ -913,7 +907,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a><span  style="color: green;"> (will be updated on 11/4/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a><span  style="color: green;"> (was updated on 11/4/2022)</span>
   </li>
 </ul>
 
