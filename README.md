@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 11/6/2022, with 1 change since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last checked on 11/6/2022, and had no changes.</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 10/18/2022:
@@ -82,7 +82,7 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a></li>
 </ul>
 
-### Will be updated on 11/8/2022:
+### Was updated on 11/8/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant</a></li>
 </ul>
@@ -606,7 +606,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant</a><span  style="color: green;"> (will be updated on 11/8/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant</a><span  style="color: green;"> (was updated on 11/8/2022)</span>
   </li>
 </ul>
 
@@ -768,7 +768,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600" title="Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a><span  style="color: green;"> (was updated on 11/4/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600" title="Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services">Exam MS-600: Building Applications and Solutions with Microsoft 365 Core Services</a><span  style="color: green;"> (was updated on 11/4/2022)</span>
   </li>
 </ul>
 
