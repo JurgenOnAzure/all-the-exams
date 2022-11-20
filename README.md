@@ -9,23 +9,9 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last checked on 11/6/2022, and had no changes.</i>
+<i id="updatenotice">This list was last updated on 11/20/2022, with 2 changes since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
-### Was updated on 10/18/2022:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-720" title="Exam AZ-720: Troubleshooting Microsoft Azure Connectivity">Exam AZ-720: Troubleshooting Microsoft Azure Connectivity</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100" title="Exam DP-100: Designing and Implementing a Data Science Solution on Azure">Exam DP-100: Designing and Implementing a Data Science Solution on Azure</a></li>
-</ul>
-
-### Was updated on 10/19/2022:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-260" title="Exam MB-260: Microsoft Customer Data Platform Specialist">Exam MB-260: Microsoft Customer Data Platform Specialist</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-220" title="Exam MS-220: Troubleshooting Microsoft Exchange Online">Exam MS-220: Troubleshooting Microsoft Exchange Online</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-740" title="Exam MS-740: Troubleshooting Microsoft Teams">Exam MS-740: Troubleshooting Microsoft Teams</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a></li>
-</ul>
-
 ### Was updated on 10/25/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102" title="Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a></li>
@@ -85,6 +71,12 @@ Thanks!
 ### Was updated on 11/8/2022:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant</a></li>
+</ul>
+
+### Will be updated on 12/20/2022:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-920" title="Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)">Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-500" title="Exam PL-500: Microsoft Power Automate RPA Developer">Exam PL-500: Microsoft Power Automate RPA Developer</a></li>
 </ul>
 
 ## Sections
@@ -548,15 +540,6 @@ Thanks!
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/certifications/d365-fundamentals-finance-and-operations-apps-erp/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Fundamentals (ERP)</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-920" title="Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)">Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)</a><span  style="color: green;"> (was updated on 9/26/2022)</span>
-  </li>
-</ul>
-
-
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-finance-and-operations-apps-developer-associate/" data-linktype="relative-path">Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate</a>:
 
 <ul>
@@ -607,6 +590,15 @@ Thanks!
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant</a><span  style="color: green;"> (was updated on 11/8/2022)</span>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/certifications/d365-fundamentals-finance-and-operations-apps-erp/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Fundamentals (ERP)</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-920" title="Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)">Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)</a><span  style="color: green;"> (will be updated on 12/20/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -847,20 +839,20 @@ Thanks!
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/power-automate-rpa-developer-associate/" data-linktype="relative-path">Microsoft Certified: Power Automate RPA Developer Associate</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-500" title="Exam PL-500: Microsoft Power Automate RPA Developer (beta)">Exam PL-500: Microsoft Power Automate RPA Developer (beta)</a>
-  </li>
-</ul>
-
-
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/power-bi-data-analyst-associate/" data-linktype="relative-path">Microsoft Certified: Power BI Data Analyst Associate</a>:
 
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-300" title="Exam PL-300: Microsoft Power BI Data Analyst">Exam PL-300: Microsoft Power BI Data Analyst</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/certifications/power-automate-rpa-developer-associate/" data-linktype="relative-path">Microsoft Certified: Power Automate RPA Developer Associate</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-500" title="Exam PL-500: Microsoft Power Automate RPA Developer">Exam PL-500: Microsoft Power Automate RPA Developer</a><span  style="color: green;"> (will be updated on 12/20/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
