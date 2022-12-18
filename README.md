@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 12/11/2022, with 1 change since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 12/18/2022, with 1 change since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
 ### Will be updated on 12/20/2022:
@@ -24,11 +24,6 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-500" title="Exam MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer">Exam MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a></li>
-</ul>
-
-### Will be updated on 1/31/2023:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-300" title="Exam PL-300: Microsoft Power BI Data Analyst">Exam PL-300: Microsoft Power BI Data Analyst</a></li>
 </ul>
 
 ## Sections
@@ -795,7 +790,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-300" title="Exam PL-300: Microsoft Power BI Data Analyst">Exam PL-300: Microsoft Power BI Data Analyst</a><span  style="color: green;"> (will be updated on 1/31/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-300" title="Exam PL-300: Microsoft Power BI Data Analyst">Exam PL-300: Microsoft Power BI Data Analyst</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
