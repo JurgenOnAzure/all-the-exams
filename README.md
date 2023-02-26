@@ -9,22 +9,9 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 2/19/2023, with 5 changes since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 2/26/2023, with 8 changes since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
-### Was updated on 1/20/2023:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204" title="Exam AZ-204: Developing Solutions for Microsoft Azure">Exam AZ-204: Developing Solutions for Microsoft Azure</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-720" title="Exam AZ-720: Troubleshooting Microsoft Azure Connectivity">Exam AZ-720: Troubleshooting Microsoft Azure Connectivity</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-740" title="Exam MS-740: Troubleshooting Microsoft Teams">Exam MS-740: Troubleshooting Microsoft Teams</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a></li>
-</ul>
-
-### Was updated on 1/23/2023:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-260" title="Exam MB-260: Microsoft Customer Data Platform Specialist">Exam MB-260: Microsoft Customer Data Platform Specialist</a></li>
-</ul>
-
 ### Was updated on 1/30/2023:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a></li>
@@ -82,6 +69,30 @@ Thanks!
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-300" title="Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations">Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-100" title="Exam PL-100: Microsoft Power Platform App Maker">Exam PL-100: Microsoft Power Platform App Maker</a></li>
+</ul>
+
+### Will be updated on 3/17/2023:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant</a></li>
+</ul>
+
+### Will be updated on 3/21/2023:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310" title="Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant">Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant</a></li>
+</ul>
+
+### Will be updated on 3/23/2023:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant">Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant</a></li>
+</ul>
+
+### Will be updated on 3/24/2023:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800" title="Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant">Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600" title="Exam PL-600: Microsoft Power Platform Solution Architect">Exam PL-600: Microsoft Power Platform Solution Architect</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a></li>
 </ul>
 
 ## Sections
@@ -377,7 +388,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-720" title="Exam AZ-720: Troubleshooting Microsoft Azure Connectivity">Exam AZ-720: Troubleshooting Microsoft Azure Connectivity</a><span  style="color: green;"> (was updated on 1/20/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-720" title="Exam AZ-720: Troubleshooting Microsoft Azure Connectivity">Exam AZ-720: Troubleshooting Microsoft Azure Connectivity</a><span  style="color: green;"> (was updated on 1/20/2023)</span>
   </li>
 </ul>
 
@@ -457,7 +468,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100" title="Exam DP-100: Designing and Implementing a Data Science Solution on Azure">Exam DP-100: Designing and Implementing a Data Science Solution on Azure</a><span  style="color: green;"> (will be updated on 3/14/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100" title="Exam DP-100: Designing and Implementing a Data Science Solution on Azure">Exam DP-100: Designing and Implementing a Data Science Solution on Azure</a><span  style="color: green;"> (will be updated on 3/14/2023)</span>
   </li>
 </ul>
 
@@ -473,15 +484,6 @@ Thanks!
 
 ## <span id="groupmb">MB exams</span>
 
-### <a href="https://docs.microsoft.com/en-us/certifications/d365-business-central-functional-consultant-associate/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800" title="Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant">Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant</a><span  style="color: green;"> (was updated on 9/26/2022)</span>
-  </li>
-</ul>
-
-
 ### <a href="https://docs.microsoft.com/en-us/certifications/d365-functional-consultant-commerce/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate</a>:
 
 <ul>
@@ -496,24 +498,6 @@ Thanks!
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant">Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant</a><span  style="color: green;"> (was updated on 9/23/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/certifications/d365-functional-consultant-field-service/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant">Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant</a><span  style="color: green;"> (was updated on 9/23/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/certifications/d365-functional-consultant-financials/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310" title="Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant">Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant</a><span  style="color: green;"> (was updated on 9/23/2022)</span>
   </li>
 </ul>
 
@@ -554,6 +538,15 @@ Thanks!
 </ul>
 
 
+### <a href="https://learn.microsoft.com/en-us/certifications/d365-business-central-functional-consultant-associate/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800" title="Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant">Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant</a><span  style="color: green;"> (will be updated on 3/24/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
+
+
 ### <a href="https://learn.microsoft.com/en-us/certifications/d365-finance-and-operations-apps-developer-associate/" data-linktype="relative-path">Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate</a>:
 
 <ul>
@@ -563,11 +556,29 @@ Thanks!
 </ul>
 
 
+### <a href="https://learn.microsoft.com/en-us/certifications/d365-functional-consultant-field-service/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant">Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant</a><span  style="color: green;"> (will be updated on 3/23/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/certifications/d365-functional-consultant-financials/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310" title="Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant">Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant</a><span  style="color: green;"> (will be updated on 3/21/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
+
+
 ### <a href="https://learn.microsoft.com/en-us/certifications/d365-functional-consultant-manufacturing/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-300" title="Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations">Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations</a><span  style="color: green;"> (will be updated on 3/15/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-300" title="Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations">Exam MB-300: Microsoft Dynamics 365: Core Finance and Operations</a><span  style="color: green;"> (will be updated on 3/15/2023)</span>
   </li>
 </ul>
 
@@ -576,7 +587,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant</a><span  style="color: green;"> (was updated on 11/8/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Marketing Functional Consultant</a><span  style="color: green;"> (will be updated on 3/23/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -585,7 +596,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant</a><span  style="color: green;"> (will be updated on 3/17/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -594,7 +605,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a><span  style="color: green;"> (was updated on 12/27/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a><span  style="color: green;"> (will be updated on 3/24/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -844,15 +855,6 @@ Thanks!
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/certifications/power-platform-solution-architect-expert/" data-linktype="relative-path">Microsoft Certified: Power Platform Solution Architect Expert</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600" title="Exam PL-600: Microsoft Power Platform Solution Architect">Exam PL-600: Microsoft Power Platform Solution Architect</a><span  style="color: green;"> (was updated on 9/26/2022)</span>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/certifications/power-automate-rpa-developer-associate/" data-linktype="relative-path">Microsoft Certified: Power Automate RPA Developer Associate</a>:
 
 <ul>
@@ -875,7 +877,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-100" title="Exam PL-100: Microsoft Power Platform App Maker">Exam PL-100: Microsoft Power Platform App Maker</a><span  style="color: green;"> (will be updated on 3/15/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-100" title="Exam PL-100: Microsoft Power Platform App Maker">Exam PL-100: Microsoft Power Platform App Maker</a><span  style="color: green;"> (will be updated on 3/15/2023)</span>
   </li>
 </ul>
 
@@ -884,7 +886,16 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a><span  style="color: green;"> (was updated on 12/27/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a><span  style="color: green;"> (will be updated on 3/24/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/certifications/power-platform-solution-architect-expert/" data-linktype="relative-path">Microsoft Certified: Power Platform Solution Architect Expert</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600" title="Exam PL-600: Microsoft Power Platform Solution Architect">Exam PL-600: Microsoft Power Platform Solution Architect</a><span  style="color: green;"> (will be updated on 3/24/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
