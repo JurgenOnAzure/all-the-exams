@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 3/5/2023, with 40 changes since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 3/6/2023, with 55 changes since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 2/6/2023:
@@ -67,7 +67,7 @@ Thanks!
 
 ## <span id="group62">62 exams</span>
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/microsoft-certified-educator/" data-linktype="relative-path">Microsoft Certified Educator</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/microsoft-certified-educator/" data-linktype="relative-path">Microsoft Certified Educator</a>:
 
 <ul>
   <li>
@@ -78,24 +78,6 @@ Thanks!
 
 ## <span id="group77">77 exams</span>
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-access-2013/" data-linktype="relative-path">Microsoft Office Specialist: Access 2013</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-424" title="Exam 77-424: Microsoft Access 2013">Exam 77-424: Microsoft Access 2013</a>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-access-2016/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Access 2016</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-730" title="Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills">Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills</a>
-  </li>
-</ul>
-
-
 ### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-excel-2013/" data-linktype="relative-path">Microsoft Office Specialist: Excel 2013</a>:
 
 <ul>
@@ -105,7 +87,25 @@ Thanks!
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-excel-2013-expert/" data-linktype="relative-path">Microsoft Office Specialist: Excel 2013 Expert</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-access-2013/" data-linktype="relative-path">Microsoft Office Specialist: Access 2013</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-424" title="Exam 77-424: Microsoft Access 2013">Exam 77-424: Microsoft Access 2013</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-access-2016/" data-linktype="relative-path">Microsoft Office Specialist: Access (Office 2016)</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-730" title="Exam 77-730: Microsoft Access (Office 2016)">Exam 77-730: Microsoft Access (Office 2016)</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-excel-2013-expert/" data-linktype="relative-path">Microsoft Office Specialist: Excel 2013 Expert</a>:
 
 <ul>
   <li>
@@ -120,25 +120,25 @@ Thanks!
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-excel-2016/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Excel 2016</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-excel-2016/" data-linktype="relative-path">Microsoft Office Specialist: Excel (Office 2016)</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-727" title="Exam 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation">Exam 77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-727" title="Exam 77-727: Microsoft Excel (Office 2016)">Exam 77-727: Microsoft Excel (Office 2016)</a>
   </li>
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-excel-2016-expert/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Excel 2016 Expert</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-excel-2016-expert/" data-linktype="relative-path">Microsoft Office Specialist: Excel Expert (Office 2016)</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-728" title="Exam 77-728: Excel 2016 Expert: Interpreting Data for Insights">Exam 77-728: Excel 2016 Expert: Interpreting Data for Insights</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-728" title="Exam 77-728: Microsoft Excel Expert (Office 2016)">Exam 77-728: Microsoft Excel Expert (Office 2016)</a>
   </li>
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-onenote-2013/" data-linktype="relative-path">Microsoft Office Specialist: OneNote 2013</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-onenote-2013/" data-linktype="relative-path">Microsoft Office Specialist: OneNote 2013</a>:
 
 <ul>
   <li>
@@ -147,7 +147,7 @@ Thanks!
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-outlook-2013/" data-linktype="relative-path">Microsoft Office Specialist: Outlook 2013</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-outlook-2013/" data-linktype="relative-path">Microsoft Office Specialist: Outlook 2013</a>:
 
 <ul>
   <li>
@@ -156,16 +156,16 @@ Thanks!
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-outlook-2016/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Outlook 2016</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-outlook-2016/" data-linktype="relative-path">Microsoft Office Specialist: Outlook (Office 2016)</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-731" title="Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills">Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-731" title="Exam 77-731: Microsoft Outlook (Office 2016)">Exam 77-731: Microsoft Outlook (Office 2016)</a>
   </li>
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-powerpoint-2013/" data-linktype="relative-path">Microsoft Office Specialist: PowerPoint 2013</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-powerpoint-2013/" data-linktype="relative-path">Microsoft Office Specialist: PowerPoint 2013</a>:
 
 <ul>
   <li>
@@ -174,16 +174,16 @@ Thanks!
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-powerpoint-2016/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft PowerPoint 2016</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-powerpoint-2016/" data-linktype="relative-path">Microsoft Office Specialist: PowerPoint (Office 2016)</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-729" title="Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills">Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-729" title="Exam 77-729: Microsoft PowerPoint (Office 2016)">Exam 77-729: Microsoft PowerPoint (Office 2016)</a>
   </li>
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-word-2013/" data-linktype="relative-path">Microsoft Office Specialist: Word 2013</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-word-2013/" data-linktype="relative-path">Microsoft Office Specialist: Word 2013</a>:
 
 <ul>
   <li>
@@ -192,7 +192,7 @@ Thanks!
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-word-2013-expert/" data-linktype="relative-path">Microsoft Office Specialist: Word 2013 Expert</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-word-2013-expert/" data-linktype="relative-path">Microsoft Office Specialist: Word 2013 Expert</a>:
 
 <ul>
   <li>
@@ -207,20 +207,20 @@ Thanks!
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-word-2016/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Word 2016</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-word-2016/" data-linktype="relative-path">Microsoft Office Specialist: Word (Office 2016)</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-725" title="Exam 77-725: Word 2016: Core Document Creation, Collaboration, and Communication">Exam 77-725: Word 2016: Core Document Creation, Collaboration, and Communication</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-725" title="Exam 77-725: Microsoft Word (Office 2016)">Exam 77-725: Microsoft Word (Office 2016)</a>
   </li>
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-word-2016-expert/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Word 2016 Expert</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-word-2016-expert/" data-linktype="relative-path">Microsoft Office Specialist: Word Expert (Office 2016)</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-726" title="Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication">Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-726" title="Exam 77-726: Microsoft Word Expert (Office 2016)">Exam 77-726: Microsoft Word Expert (Office 2016)</a>
   </li>
 </ul>
 
@@ -236,20 +236,20 @@ Thanks!
 
 ## <span id="groupai">AI exams</span>
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/" data-linktype="relative-path">Microsoft Certified: Azure AI Fundamentals</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a><span  style="color: green;"> (was updated on 4/29/2022)</span>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/" data-linktype="relative-path">Microsoft Certified: Azure AI Engineer Associate</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102" title="Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a><span  style="color: green;"> (was updated on 2/2/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102" title="Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a><span  style="color: green;"> (was updated on 2/2/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/" data-linktype="relative-path">Microsoft Certified: Azure AI Fundamentals</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a><span  style="color: green;"> (was updated on 4/29/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -260,7 +260,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" title="Exam AZ-104: Microsoft Azure Administrator">Exam AZ-104: Microsoft Azure Administrator</a><span  style="color: green;"> (was updated on 10/27/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" title="Exam AZ-104: Microsoft Azure Administrator">Exam AZ-104: Microsoft Azure Administrator</a><span  style="color: green;"> (was updated on 10/27/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -269,7 +269,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204" title="Exam AZ-204: Developing Solutions for Microsoft Azure">Exam AZ-204: Developing Solutions for Microsoft Azure</a><span  style="color: green;"> (was updated on 1/20/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204" title="Exam AZ-204: Developing Solutions for Microsoft Azure">Exam AZ-204: Developing Solutions for Microsoft Azure</a><span  style="color: green;"> (was updated on 1/20/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -278,7 +278,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900" title="Exam AZ-900: Microsoft Azure Fundamentals">Exam AZ-900: Microsoft Azure Fundamentals</a><span  style="color: green;"> (was updated on 10/28/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-900" title="Exam AZ-900: Microsoft Azure Fundamentals">Exam AZ-900: Microsoft Azure Fundamentals</a><span  style="color: green;"> (was updated on 10/28/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -287,7 +287,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a><span  style="color: green;"> (was updated on 2/2/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a><span  style="color: green;"> (was updated on 2/2/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -296,7 +296,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-305" title="Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions">Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions</a><span  style="color: green;"> (was updated on 10/28/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-305" title="Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions">Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions</a><span  style="color: green;"> (was updated on 10/28/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -312,20 +312,20 @@ Thanks!
 
 ## <span id="groupdp">DP exams</span>
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/" data-linktype="relative-path">Microsoft Certified: Azure Data Fundamentals</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a><span  style="color: green;"> (was updated on 8/4/2022)</span>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/certifications/azure-data-engineer/" data-linktype="relative-path">Microsoft Certified: Azure Data Engineer Associate</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203" title="Exam DP-203: Data Engineering on Microsoft Azure">Exam DP-203: Data Engineering on Microsoft Azure</a><span  style="color: green;"> (was updated on 2/6/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203" title="Exam DP-203: Data Engineering on Microsoft Azure">Exam DP-203: Data Engineering on Microsoft Azure</a><span  style="color: green;"> (was updated on 2/6/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/" data-linktype="relative-path">Microsoft Certified: Azure Data Fundamentals</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a><span  style="color: green;"> (was updated on 8/4/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -334,36 +334,18 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100" title="Exam DP-100: Designing and Implementing a Data Science Solution on Azure">Exam DP-100: Designing and Implementing a Data Science Solution on Azure</a><span  style="color: green;"> (will be updated on 3/14/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100" title="Exam DP-100: Designing and Implementing a Data Science Solution on Azure">Exam DP-100: Designing and Implementing a Data Science Solution on Azure</a><span  style="color: green;"> (will be updated on 3/14/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 
 ## <span id="groupmb">MB exams</span>
 
-### <a href="https://docs.microsoft.com/en-us/certifications/d365-functional-consultant-commerce/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-340" title="Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant">Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant</a><span  style="color: green;"> (was updated on 9/19/2022)</span>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/d365-functional-consultant-manufacturing/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-320" title="Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing">Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing</a><span  style="color: green;"> (was updated on 10/16/2020)</span>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/certifications/d365-business-central-functional-consultant-associate/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800" title="Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant">Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant</a><span  style="color: green;"> (will be updated on 3/24/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800" title="Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant">Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant</a><span  style="color: green;"> (will be updated on 3/24/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -377,11 +359,20 @@ Thanks!
 </ul>
 
 
+### <a href="https://learn.microsoft.com/en-us/certifications/d365-functional-consultant-commerce/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-340" title="Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant">Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant</a><span  style="color: green;"> (was updated on 9/19/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
+
+
 ### <a href="https://learn.microsoft.com/en-us/certifications/d365-functional-consultant-financials/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310" title="Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant">Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant</a><span  style="color: green;"> (will be updated on 3/21/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310" title="Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant">Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant</a><span  style="color: green;"> (will be updated on 3/21/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -394,12 +385,18 @@ Thanks!
   </li>
 </ul>
 
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-320" title="Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing">Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing</a><span  style="color: green;"> (was updated on 10/16/2020)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
+
 
 ### <a href="https://learn.microsoft.com/en-us/certifications/d365-fundamentals-customer-engagement-apps-crm/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Fundamentals (CRM)</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a><span  style="color: green;"> (will be updated on 3/24/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a><span  style="color: green;"> (will be updated on 3/24/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -408,7 +405,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-920" title="Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)">Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)</a><span  style="color: green;"> (was updated on 12/20/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-920" title="Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)">Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)</a><span  style="color: green;"> (was updated on 12/20/2022)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -424,65 +421,20 @@ Thanks!
 
 ## <span id="groupmo">MO exams</span>
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-access-expert-2019/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Access Expert (Access and Access 2019)</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-access-expert-2019/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Access Expert (Office 2019)</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-500" title="Exam MO-500: Microsoft Access Expert (Access and Access 2019)">Exam MO-500: Microsoft Access Expert (Access and Access 2019)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-500" title="Exam MO-500: Microsoft Access Expert (Office 2019)">Exam MO-500: Microsoft Access Expert (Office 2019)</a>
   </li>
 </ul>
 
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-excel-2019/" data-linktype="relative-path">Microsoft Office Specialist: Excel Associate (Excel and Excel 2019)</a>:
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-excel-2019/" data-linktype="relative-path">Microsoft Office Specialist: Excel Associate (Office 2019)</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-200" title="Exam MO-200: Microsoft Excel (Excel and Excel 2019)">Exam MO-200: Microsoft Excel (Excel and Excel 2019)</a>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-excel-expert-2019/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Excel Expert (Excel and Excel 2019)</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-201" title="Exam MO-201: Microsoft Excel Expert (Excel and Excel 2019)">Exam MO-201: Microsoft Excel Expert (Excel and Excel 2019)</a>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-outlook-2019/" data-linktype="relative-path">Microsoft Office Specialist: Outlook Associate (Outlook and Outlook 2019)</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-400" title="Exam MO-400: Microsoft Outlook (Outlook and Outlook 2019)">Exam MO-400: Microsoft Outlook (Outlook and Outlook 2019)</a>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-powerpoint-2019/" data-linktype="relative-path">Microsoft Office Specialist: PowerPoint Associate (PowerPoint and PowerPoint 2019)</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-300" title="Exam MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)">Exam MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)</a>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-word-2019/" data-linktype="relative-path">Microsoft Office Specialist: Word Associate (Word and Word 2019)</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-100" title="Exam MO-100: Microsoft Word (Word and Word 2019)">Exam MO-100: Microsoft Word (Word and Word 2019)</a>
-  </li>
-</ul>
-
-
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-word-expert-2019/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Word Expert (Word and Word 2019)</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-101" title="Exam MO-101: Microsoft Word Expert (Word and Word 2019)">Exam MO-101: Microsoft Word Expert (Word and Word 2019)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-200" title="Exam MO-200: Microsoft Excel (Office 2019)">Exam MO-200: Microsoft Excel (Office 2019)</a>
   </li>
 </ul>
 
@@ -496,6 +448,33 @@ Thanks!
 </ul>
 
 
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-excel-expert-2019/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Excel Expert (Office 2019)</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-201" title="Exam MO-201: Microsoft Excel Expert (Office 2019)">Exam MO-201: Microsoft Excel Expert (Office 2019)</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-outlook-2019/" data-linktype="relative-path">Microsoft Office Specialist: Outlook Associate (Office 2019)</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-400" title="Exam MO-400: Microsoft Outlook (Office 2019)">Exam MO-400: Microsoft Outlook (Office 2019)</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-powerpoint-2019/" data-linktype="relative-path">Microsoft Office Specialist: PowerPoint Associate (Office 2019)</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-300" title="Exam MO-300: Microsoft PowerPoint (Office 2019)">Exam MO-300: Microsoft PowerPoint (Office 2019)</a>
+  </li>
+</ul>
+
+
 ### <a href="https://learn.microsoft.com/en-us/certifications/mos-powerpoint-associate-m365-apps/" data-linktype="relative-path">Microsoft Office Specialist: PowerPoint Associate (Microsoft 365 Apps)</a>:
 
 <ul>
@@ -505,11 +484,29 @@ Thanks!
 </ul>
 
 
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-word-2019/" data-linktype="relative-path">Microsoft Office Specialist: Word Associate (Office 2019)</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-100" title="Exam MO-100: Microsoft Word (Office 2019)">Exam MO-100: Microsoft Word (Office 2019)</a>
+  </li>
+</ul>
+
+
 ### <a href="https://learn.microsoft.com/en-us/certifications/mos-word-associate-m365-apps/" data-linktype="relative-path">Microsoft Office Specialist: Word Associate (Microsoft 365 Apps)</a>:
 
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-110" title="Exam MO-110: Microsoft Word (Microsoft 365 Apps)">Exam MO-110: Microsoft Word (Microsoft 365 Apps)</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-word-expert-2019/" data-linktype="relative-path">Microsoft Office Specialist: Microsoft Word Expert (Office 2019)</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-101" title="Exam MO-101: Microsoft Word Expert (Office 2019)">Exam MO-101: Microsoft Word Expert (Office 2019)</a>
   </li>
 </ul>
 
@@ -538,7 +535,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a><span  style="color: green;"> (was updated on 1/20/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a><span  style="color: green;"> (was updated on 1/20/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -549,7 +546,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-300" title="Exam PL-300: Microsoft Power BI Data Analyst">Exam PL-300: Microsoft Power BI Data Analyst</a><span  style="color: green;"> (was updated on 1/31/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-300" title="Exam PL-300: Microsoft Power BI Data Analyst">Exam PL-300: Microsoft Power BI Data Analyst</a>
   </li>
 </ul>
 
@@ -558,7 +555,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a><span  style="color: green;"> (will be updated on 3/24/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a><span  style="color: green;"> (will be updated on 3/24/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -569,7 +566,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (was updated on 2/7/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (was updated on 2/7/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -1108,7 +1105,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant">Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant</a><span  style="color: red;"> (WAS RETIRED ON 2/28/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-240" title="Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant">Exam MB-240: Microsoft Dynamics 365 Field Service Functional Consultant</a><span  style="color: red;"> (WAS RETIRED ON 2/28/2023)</span>
   </li>
 </ul>
 
@@ -1174,7 +1171,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100" title="Exam MD-100: Windows Client">Exam MD-100: Windows Client</a><span  style="color: red;"> (WAS RETIRED ON 2/28/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100" title="Exam MD-100: Windows Client">Exam MD-100: Windows Client</a><span  style="color: red;"> (WAS RETIRED ON 2/28/2023)</span>
   </li>
 </ul>
 
@@ -1336,13 +1333,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-260" title="Exam MB-260: Microsoft Customer Data Platform Specialist">Exam MB-260: Microsoft Customer Data Platform Specialist</a><span  style="color: red;"> (WAS RETIRED ON 2/28/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-260" title="Exam MB-260: Microsoft Customer Data Platform Specialist">Exam MB-260: Microsoft Customer Data Platform Specialist</a><span  style="color: red;"> (WAS RETIRED ON 2/28/2023)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-720" title="Exam MS-720: Microsoft Teams Voice Engineer">Exam MS-720: Microsoft Teams Voice Engineer</a><span  style="color: red;"> (WAS RETIRED ON 2/28/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-720" title="Exam MS-720: Microsoft Teams Voice Engineer">Exam MS-720: Microsoft Teams Voice Engineer</a><span  style="color: red;"> (WAS RETIRED ON 2/28/2023)</span>
   </li>
 </ul>
 
