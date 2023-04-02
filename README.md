@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last checked on 3/6/2023, and had no changes.</i>
+<i id="updatenotice">This list was last updated on 4/2/2023, with 1 change since last time, indicated by (*).</i>
 
 ## Sections
 
@@ -601,6 +601,15 @@ Thanks!
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-201" title="Exam MO-201: Microsoft Excel Expert (Office 2019)">Exam MO-201: Microsoft Excel Expert (Office 2019)</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-excel-expert-m365-apps/" data-linktype="relative-path">Microsoft Office Specialist: Excel Expert (Microsoft 365 Apps)</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-211" title="Exam MO-211: Microsoft Excel Expert (Microsoft 365 Apps)">Exam MO-211: Microsoft Excel Expert (Microsoft 365 Apps)</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
