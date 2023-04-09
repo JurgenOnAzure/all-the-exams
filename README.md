@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 4/2/2023, with 1 change since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last checked on 4/2/2023, and had no changes.</i>
 
 ## Sections
 
@@ -609,7 +609,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-211" title="Exam MO-211: Microsoft Excel Expert (Microsoft 365 Apps)">Exam MO-211: Microsoft Excel Expert (Microsoft 365 Apps)</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-211" title="Exam MO-211: Microsoft Excel Expert (Microsoft 365 Apps)">Exam MO-211: Microsoft Excel Expert (Microsoft 365 Apps)</a>
   </li>
 </ul>
 
