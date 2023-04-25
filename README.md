@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last checked on 4/25/2023, and had no changes.</i>
+<i id="updatenotice">This list was last checked on 4/25/2023.</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 3/28/2023:
