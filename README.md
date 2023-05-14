@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 5/7/2023, with 3 changes since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last checked on 5/7/2023, and had no changes.</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 4/18/2023:
@@ -624,7 +624,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-102" title="Exam MD-102: Endpoint Administrator (beta)">Exam MD-102: Endpoint Administrator (beta)</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-102" title="Exam MD-102: Endpoint Administrator (beta)">Exam MD-102: Endpoint Administrator (beta)</a>
   </li>
 </ul>
 
@@ -757,7 +757,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-102" title="Exam MS-102: Microsoft 365 Administrator (beta)">Exam MS-102: Microsoft 365 Administrator (beta)</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-102" title="Exam MS-102: Microsoft 365 Administrator (beta)">Exam MS-102: Microsoft 365 Administrator (beta)</a>
   </li>
 </ul>
 
@@ -923,7 +923,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400" title="Exam SC-400: Microsoft Information Protection Administrator">Exam SC-400: Microsoft Information Protection Administrator</a><span  style="color: green;"> (will be updated on 6/1/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400" title="Exam SC-400: Microsoft Information Protection Administrator">Exam SC-400: Microsoft Information Protection Administrator</a><span  style="color: green;"> (will be updated on 6/1/2023)</span>
   </li>
 </ul>
 
