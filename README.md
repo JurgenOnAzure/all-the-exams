@@ -9,22 +9,9 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last checked on 5/7/2023, and had no changes.</i>
+<i id="updatenotice">This list was last updated on 5/21/2023, with 1 change since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
-### Was updated on 4/18/2023:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-720" title="Exam AZ-720: Troubleshooting Microsoft Azure Connectivity">Exam AZ-720: Troubleshooting Microsoft Azure Connectivity</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-220" title="Exam MS-220: Troubleshooting Microsoft Exchange Online">Exam MS-220: Troubleshooting Microsoft Exchange Online</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-740" title="Exam MS-740: Troubleshooting Microsoft Teams">Exam MS-740: Troubleshooting Microsoft Teams</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a></li>
-</ul>
-
-### Was updated on 4/19/2023:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-260" title="Exam MB-260: Microsoft Customer Data Platform Specialist">Exam MB-260: Microsoft Customer Data Platform Specialist</a></li>
-</ul>
-
 ### Was updated on 4/27/2023:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" title="Exam AZ-104: Microsoft Azure Administrator">Exam AZ-104: Microsoft Azure Administrator</a></li>
@@ -74,6 +61,11 @@ Thanks!
 ### Will be updated on 6/1/2023:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-400" title="Exam SC-400: Microsoft Information Protection Administrator">Exam SC-400: Microsoft Information Protection Administrator</a></li>
+</ul>
+
+### Will be updated on 6/20/2023:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a></li>
 </ul>
 
 ## Sections
@@ -583,7 +575,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a><span  style="color: green;"> (was updated on 3/24/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a><span  style="color: green;"> (will be updated on 6/20/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
