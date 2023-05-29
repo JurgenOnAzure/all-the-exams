@@ -9,14 +9,9 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 5/28/2023, with 3 changes since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 5/29/2023, with 23 changes since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
-### Was updated on 4/28/2023:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-204" title="Exam AZ-204: Developing Solutions for Microsoft Azure">Exam AZ-204: Developing Solutions for Microsoft Azure</a></li>
-</ul>
-
 ### Was updated on 5/1/2023:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700" title="Exam MS-700: Managing Microsoft Teams">Exam MS-700: Managing Microsoft Teams</a></li>
@@ -72,6 +67,20 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-500" title="Exam PL-500: Microsoft Power Automate RPA Developer">Exam PL-500: Microsoft Power Automate RPA Developer</a></li>
 </ul>
 
+### Will be retired on 7/13/2023:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-418" title="Exam 77-418: Microsoft Word 2013">Exam 77-418: Microsoft Word 2013</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-420" title="Exam 77-420: Microsoft Excel 2013">Exam 77-420: Microsoft Excel 2013</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-421" title="Exam 77-421: Microsoft OneNote 2013">Exam 77-421: Microsoft OneNote 2013</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-422" title="Exam 77-422: Microsoft PowerPoint 2013">Exam 77-422: Microsoft PowerPoint 2013</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-423" title="Exam 77-423: Microsoft Outlook 2013">Exam 77-423: Microsoft Outlook 2013</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-424" title="Exam 77-424: Microsoft Access 2013">Exam 77-424: Microsoft Access 2013</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-425" title="Exam 77-425: Microsoft Word 2013 Expert Part One">Exam 77-425: Microsoft Word 2013 Expert Part One</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-426" title="Exam 77-426: Microsoft Word 2013 Expert Part Two">Exam 77-426: Microsoft Word 2013 Expert Part Two</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-427" title="Exam 77-427: Microsoft Excel 2013 Expert Part One">Exam 77-427: Microsoft Excel 2013 Expert Part One</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-428" title="Exam 77-428: Microsoft Excel 2013 Expert Part Two">Exam 77-428: Microsoft Excel 2013 Expert Part Two</a></li>
+</ul>
+
 ## Sections
 
 <ul>
@@ -102,20 +111,11 @@ Thanks!
 
 ## <span id="group77">77 exams</span>
 
-### <a href="https://docs.microsoft.com/en-us/learn/certifications/mos-excel-2013/" data-linktype="relative-path">Microsoft Office Specialist: Excel 2013</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-420" title="Exam 77-420: Microsoft Excel 2013">Exam 77-420: Microsoft Excel 2013</a>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/certifications/mos-access-2013/" data-linktype="relative-path">Microsoft Office Specialist: Access 2013</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-424" title="Exam 77-424: Microsoft Access 2013">Exam 77-424: Microsoft Access 2013</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-424" title="Exam 77-424: Microsoft Access 2013">Exam 77-424: Microsoft Access 2013</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -129,17 +129,26 @@ Thanks!
 </ul>
 
 
+### <a href="https://learn.microsoft.com/en-us/certifications/mos-excel-2013/" data-linktype="relative-path">Microsoft Office Specialist: Excel 2013</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-420" title="Exam 77-420: Microsoft Excel 2013">Exam 77-420: Microsoft Excel 2013</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
+
+
 ### <a href="https://learn.microsoft.com/en-us/certifications/mos-excel-2013-expert/" data-linktype="relative-path">Microsoft Office Specialist: Excel 2013 Expert</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-427" title="Exam 77-427: Microsoft Excel 2013 Expert Part One">Exam 77-427: Microsoft Excel 2013 Expert Part One</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-427" title="Exam 77-427: Microsoft Excel 2013 Expert Part One">Exam 77-427: Microsoft Excel 2013 Expert Part One</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-428" title="Exam 77-428: Microsoft Excel 2013 Expert Part Two">Exam 77-428: Microsoft Excel 2013 Expert Part Two</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-428" title="Exam 77-428: Microsoft Excel 2013 Expert Part Two">Exam 77-428: Microsoft Excel 2013 Expert Part Two</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -166,7 +175,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-421" title="Exam 77-421: Microsoft OneNote 2013">Exam 77-421: Microsoft OneNote 2013</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-421" title="Exam 77-421: Microsoft OneNote 2013">Exam 77-421: Microsoft OneNote 2013</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -175,7 +184,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-423" title="Exam 77-423: Microsoft Outlook 2013">Exam 77-423: Microsoft Outlook 2013</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-423" title="Exam 77-423: Microsoft Outlook 2013">Exam 77-423: Microsoft Outlook 2013</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -193,7 +202,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-422" title="Exam 77-422: Microsoft PowerPoint 2013">Exam 77-422: Microsoft PowerPoint 2013</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-422" title="Exam 77-422: Microsoft PowerPoint 2013">Exam 77-422: Microsoft PowerPoint 2013</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -211,7 +220,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-418" title="Exam 77-418: Microsoft Word 2013">Exam 77-418: Microsoft Word 2013</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-418" title="Exam 77-418: Microsoft Word 2013">Exam 77-418: Microsoft Word 2013</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -220,13 +229,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-425" title="Exam 77-425: Microsoft Word 2013 Expert Part One">Exam 77-425: Microsoft Word 2013 Expert Part One</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-425" title="Exam 77-425: Microsoft Word 2013 Expert Part One">Exam 77-425: Microsoft Word 2013 Expert Part One</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-426" title="Exam 77-426: Microsoft Word 2013 Expert Part Two">Exam 77-426: Microsoft Word 2013 Expert Part Two</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-426" title="Exam 77-426: Microsoft Word 2013 Expert Part Two">Exam 77-426: Microsoft Word 2013 Expert Part Two</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -320,7 +329,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a><span  style="color: green;"> (was updated on 1/30/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-220" title="Exam AZ-220: Microsoft Azure IoT Developer">Exam AZ-220: Microsoft Azure IoT Developer</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -356,7 +365,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-600" title="Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub">Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a><span  style="color: green;"> (was updated on 10/28/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-600" title="Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub">Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -365,7 +374,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-720" title="Exam AZ-720: Troubleshooting Microsoft Azure Connectivity">Exam AZ-720: Troubleshooting Microsoft Azure Connectivity</a><span  style="color: green;"> (was updated on 4/18/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-720" title="Exam AZ-720: Troubleshooting Microsoft Azure Connectivity">Exam AZ-720: Troubleshooting Microsoft Azure Connectivity</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -501,7 +510,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-340" title="Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant">Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant</a><span  style="color: green;"> (was updated on 9/19/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-340" title="Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant">Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -543,7 +552,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-320" title="Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing">Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing</a><span  style="color: green;"> (was updated on 10/16/2020)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-320" title="Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing">Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -588,7 +597,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-920" title="Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)">Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)</a><span  style="color: green;"> (will be updated on 6/22/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-920" title="Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)">Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)</a><span  style="color: green;"> (will be updated on 6/22/2023)</span>
   </li>
 </ul>
 
@@ -608,13 +617,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100" title="Exam MD-100: Windows Client">Exam MD-100: Windows Client</a><span  style="color: green;"> (was updated on 2/3/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-100" title="Exam MD-100: Windows Client">Exam MD-100: Windows Client</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101" title="Exam MD-101: Managing Modern Desktops">Exam MD-101: Managing Modern Desktops</a><span  style="color: green;"> (was updated on 2/3/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-101" title="Exam MD-101: Managing Modern Desktops">Exam MD-101: Managing Modern Desktops</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -741,13 +750,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100" title="Exam MS-100: Microsoft 365 Identity and Services">Exam MS-100: Microsoft 365 Identity and Services</a><span  style="color: green;"> (was updated on 2/3/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-100" title="Exam MS-100: Microsoft 365 Identity and Services">Exam MS-100: Microsoft 365 Identity and Services</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101" title="Exam MS-101: Microsoft 365 Mobility and Security">Exam MS-101: Microsoft 365 Mobility and Security</a><span  style="color: green;"> (was updated on 11/2/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-101" title="Exam MS-101: Microsoft 365 Mobility and Security">Exam MS-101: Microsoft 365 Mobility and Security</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -762,7 +771,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-220" title="Exam MS-220: Troubleshooting Microsoft Exchange Online">Exam MS-220: Troubleshooting Microsoft Exchange Online</a><span  style="color: green;"> (was updated on 4/18/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-220" title="Exam MS-220: Troubleshooting Microsoft Exchange Online">Exam MS-220: Troubleshooting Microsoft Exchange Online</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -780,7 +789,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500" title="Exam MS-500: Microsoft 365 Security Administration">Exam MS-500: Microsoft 365 Security Administration</a><span  style="color: green;"> (was updated on 11/4/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500" title="Exam MS-500: Microsoft 365 Security Administration">Exam MS-500: Microsoft 365 Security Administration</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -807,7 +816,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-740" title="Exam MS-740: Troubleshooting Microsoft Teams">Exam MS-740: Troubleshooting Microsoft Teams</a><span  style="color: green;"> (was updated on 4/18/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-740" title="Exam MS-740: Troubleshooting Microsoft Teams">Exam MS-740: Troubleshooting Microsoft Teams</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -816,7 +825,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-720" title="Exam MS-720: Microsoft Teams Voice Engineer">Exam MS-720: Microsoft Teams Voice Engineer</a><span  style="color: green;"> (was updated on 11/4/2022)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-720" title="Exam MS-720: Microsoft Teams Voice Engineer">Exam MS-720: Microsoft Teams Voice Engineer</a> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -836,7 +845,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-500" title="Exam PL-500: Microsoft Power Automate RPA Developer">Exam PL-500: Microsoft Power Automate RPA Developer</a><span  style="color: green;"> (will be updated on 6/27/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-500" title="Exam PL-500: Microsoft Power Automate RPA Developer">Exam PL-500: Microsoft Power Automate RPA Developer</a><span  style="color: green;"> (will be updated on 6/27/2023)</span>
   </li>
 </ul>
 
@@ -881,7 +890,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a><span  style="color: green;"> (will be updated on 6/22/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a><span  style="color: green;"> (will be updated on 6/22/2023)</span>
   </li>
 </ul>
 
