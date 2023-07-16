@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 7/9/2023, with 7 changes since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last checked on 7/9/2023, and had no changes.</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 6/20/2023:
@@ -28,23 +28,9 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-500" title="Exam PL-500: Microsoft Power Automate RPA Developer">Exam PL-500: Microsoft Power Automate RPA Developer</a></li>
 </ul>
 
-### Will be updated on 7/11/2023:
+### Was updated on 7/11/2023:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400" title="Exam PL-400: Microsoft Power Platform Developer">Exam PL-400: Microsoft Power Platform Developer</a></li>
-</ul>
-
-### Will be retired on 7/13/2023:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-418" title="Exam 77-418: Microsoft Word 2013">Exam 77-418: Microsoft Word 2013</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-420" title="Exam 77-420: Microsoft Excel 2013">Exam 77-420: Microsoft Excel 2013</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-421" title="Exam 77-421: Microsoft OneNote 2013">Exam 77-421: Microsoft OneNote 2013</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-422" title="Exam 77-422: Microsoft PowerPoint 2013">Exam 77-422: Microsoft PowerPoint 2013</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-423" title="Exam 77-423: Microsoft Outlook 2013">Exam 77-423: Microsoft Outlook 2013</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-424" title="Exam 77-424: Microsoft Access 2013">Exam 77-424: Microsoft Access 2013</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-425" title="Exam 77-425: Microsoft Word 2013 Expert Part One">Exam 77-425: Microsoft Word 2013 Expert Part One</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-426" title="Exam 77-426: Microsoft Word 2013 Expert Part Two">Exam 77-426: Microsoft Word 2013 Expert Part Two</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-427" title="Exam 77-427: Microsoft Excel 2013 Expert Part One">Exam 77-427: Microsoft Excel 2013 Expert Part One</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-428" title="Exam 77-428: Microsoft Excel 2013 Expert Part Two">Exam 77-428: Microsoft Excel 2013 Expert Part Two</a></li>
 </ul>
 
 ### Will be updated on 7/28/2023:
@@ -99,44 +85,11 @@ Thanks!
 
 ## <span id="group77">77 exams</span>
 
-### <a href="https://learn.microsoft.com/en-us/certifications/mos-access-2013/" data-linktype="relative-path">Microsoft Office Specialist: Access 2013</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-424" title="Exam 77-424: Microsoft Access 2013">Exam 77-424: Microsoft Access 2013</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/certifications/mos-access-2016/" data-linktype="relative-path">Microsoft Office Specialist: Access (Office 2016)</a>:
 
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-730" title="Exam 77-730: Microsoft Access (Office 2016)">Exam 77-730: Microsoft Access (Office 2016)</a>
-  </li>
-</ul>
-
-
-### <a href="https://learn.microsoft.com/en-us/certifications/mos-excel-2013/" data-linktype="relative-path">Microsoft Office Specialist: Excel 2013</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-420" title="Exam 77-420: Microsoft Excel 2013">Exam 77-420: Microsoft Excel 2013</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span>
-  </li>
-</ul>
-
-
-### <a href="https://learn.microsoft.com/en-us/certifications/mos-excel-2013-expert/" data-linktype="relative-path">Microsoft Office Specialist: Excel 2013 Expert</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-427" title="Exam 77-427: Microsoft Excel 2013 Expert Part One">Exam 77-427: Microsoft Excel 2013 Expert Part One</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span>
-  </li>
-</ul>
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-428" title="Exam 77-428: Microsoft Excel 2013 Expert Part Two">Exam 77-428: Microsoft Excel 2013 Expert Part Two</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span>
   </li>
 </ul>
 
@@ -159,24 +112,6 @@ Thanks!
 </ul>
 
 
-### <a href="https://learn.microsoft.com/en-us/certifications/mos-onenote-2013/" data-linktype="relative-path">Microsoft Office Specialist: OneNote 2013</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-421" title="Exam 77-421: Microsoft OneNote 2013">Exam 77-421: Microsoft OneNote 2013</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span>
-  </li>
-</ul>
-
-
-### <a href="https://learn.microsoft.com/en-us/certifications/mos-outlook-2013/" data-linktype="relative-path">Microsoft Office Specialist: Outlook 2013</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-423" title="Exam 77-423: Microsoft Outlook 2013">Exam 77-423: Microsoft Outlook 2013</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/certifications/mos-outlook-2016/" data-linktype="relative-path">Microsoft Office Specialist: Outlook (Office 2016)</a>:
 
 <ul>
@@ -186,44 +121,11 @@ Thanks!
 </ul>
 
 
-### <a href="https://learn.microsoft.com/en-us/certifications/mos-powerpoint-2013/" data-linktype="relative-path">Microsoft Office Specialist: PowerPoint 2013</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-422" title="Exam 77-422: Microsoft PowerPoint 2013">Exam 77-422: Microsoft PowerPoint 2013</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/certifications/mos-powerpoint-2016/" data-linktype="relative-path">Microsoft Office Specialist: PowerPoint (Office 2016)</a>:
 
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-729" title="Exam 77-729: Microsoft PowerPoint (Office 2016)">Exam 77-729: Microsoft PowerPoint (Office 2016)</a>
-  </li>
-</ul>
-
-
-### <a href="https://learn.microsoft.com/en-us/certifications/mos-word-2013/" data-linktype="relative-path">Microsoft Office Specialist: Word 2013</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-418" title="Exam 77-418: Microsoft Word 2013">Exam 77-418: Microsoft Word 2013</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span>
-  </li>
-</ul>
-
-
-### <a href="https://learn.microsoft.com/en-us/certifications/mos-word-2013-expert/" data-linktype="relative-path">Microsoft Office Specialist: Word 2013 Expert</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-425" title="Exam 77-425: Microsoft Word 2013 Expert Part One">Exam 77-425: Microsoft Word 2013 Expert Part One</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span>
-  </li>
-</ul>
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-426" title="Exam 77-426: Microsoft Word 2013 Expert Part Two">Exam 77-426: Microsoft Word 2013 Expert Part Two</a><span  style="color: red;"> (WILL BE RETIRED ON 7/13/2023)</span>
   </li>
 </ul>
 
@@ -270,7 +172,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a><span  style="color: green;"> (will be updated on 8/4/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a><span  style="color: green;"> (will be updated on 8/4/2023)</span>
   </li>
 </ul>
 
@@ -344,7 +246,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-305" title="Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions">Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions</a><span  style="color: green;"> (will be updated on 8/7/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-305" title="Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions">Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions</a><span  style="color: green;"> (will be updated on 8/7/2023)</span>
   </li>
 </ul>
 
@@ -433,7 +335,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a><span  style="color: green;"> (will be updated on 8/4/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a><span  style="color: green;"> (will be updated on 8/4/2023)</span>
   </li>
 </ul>
 
@@ -845,7 +747,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400" title="Exam PL-400: Microsoft Power Platform Developer">Exam PL-400: Microsoft Power Platform Developer</a><span  style="color: green;"> (will be updated on 7/11/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400" title="Exam PL-400: Microsoft Power Platform Developer">Exam PL-400: Microsoft Power Platform Developer</a><span  style="color: green;"> (was updated on 7/11/2023)</span>
   </li>
 </ul>
 
@@ -910,7 +812,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (will be updated on 8/7/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (will be updated on 8/7/2023)</span>
   </li>
 </ul>
 
@@ -1170,6 +1072,66 @@ Thanks!
 
 <ul>
   <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-418" title="Exam 77-418: Microsoft Word 2013">Exam 77-418: Microsoft Word 2013</a><span  style="color: red;"> (WAS RETIRED ON 7/13/2023)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-420" title="Exam 77-420: Microsoft Excel 2013">Exam 77-420: Microsoft Excel 2013</a><span  style="color: red;"> (WAS RETIRED ON 7/13/2023)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-421" title="Exam 77-421: Microsoft OneNote 2013">Exam 77-421: Microsoft OneNote 2013</a><span  style="color: red;"> (WAS RETIRED ON 7/13/2023)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-422" title="Exam 77-422: Microsoft PowerPoint 2013">Exam 77-422: Microsoft PowerPoint 2013</a><span  style="color: red;"> (WAS RETIRED ON 7/13/2023)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-423" title="Exam 77-423: Microsoft Outlook 2013">Exam 77-423: Microsoft Outlook 2013</a><span  style="color: red;"> (WAS RETIRED ON 7/13/2023)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-424" title="Exam 77-424: Microsoft Access 2013">Exam 77-424: Microsoft Access 2013</a><span  style="color: red;"> (WAS RETIRED ON 7/13/2023)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-425" title="Exam 77-425: Microsoft Word 2013 Expert Part One">Exam 77-425: Microsoft Word 2013 Expert Part One</a><span  style="color: red;"> (WAS RETIRED ON 7/13/2023)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-426" title="Exam 77-426: Microsoft Word 2013 Expert Part Two">Exam 77-426: Microsoft Word 2013 Expert Part Two</a><span  style="color: red;"> (WAS RETIRED ON 7/13/2023)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-427" title="Exam 77-427: Microsoft Excel 2013 Expert Part One">Exam 77-427: Microsoft Excel 2013 Expert Part One</a><span  style="color: red;"> (WAS RETIRED ON 7/13/2023)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-428" title="Exam 77-428: Microsoft Excel 2013 Expert Part Two">Exam 77-428: Microsoft Excel 2013 Expert Part Two</a><span  style="color: red;"> (WAS RETIRED ON 7/13/2023)</span>
+  </li>
+</ul>
+
+<ul>
+  <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-601" title="Exam 77-601: MOS: Using Microsoft Office Word 2007">Exam 77-601: MOS: Using Microsoft Office Word 2007</a><span  style="color: red;"> (IS RETIRED)</span>
   </li>
 </ul>
@@ -1410,13 +1372,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-320" title="Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing">Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-320" title="Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing">Exam MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2023)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-340" title="Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant">Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-340" title="Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant">Exam MB-340: Microsoft Dynamics 365 Commerce Functional Consultant</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2023)</span>
   </li>
 </ul>
 
@@ -1500,7 +1462,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500" title="Exam MS-500: Microsoft 365 Security Administration">Exam MS-500: Microsoft 365 Security Administration</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500" title="Exam MS-500: Microsoft 365 Security Administration">Exam MS-500: Microsoft 365 Security Administration</a><span  style="color: red;"> (WAS RETIRED ON 6/30/2023)</span>
   </li>
 </ul>
 
