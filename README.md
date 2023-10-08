@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 10/1/2023, with 11 changes since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 10/8/2023, with 11 changes since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 9/19/2023:
@@ -89,6 +89,25 @@ Thanks!
 ### Will be updated on 11/1/2023:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-102" title="Exam MD-102: Endpoint Administrator">Exam MD-102: Endpoint Administrator</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-102" title="Exam MS-102: Microsoft 365 Administrator">Exam MS-102: Microsoft 365 Administrator</a></li>
+</ul>
+
+### Will be updated on 11/2/2023:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203" title="Exam DP-203: Data Engineering on Microsoft Azure">Exam DP-203: Data Engineering on Microsoft Azure</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-420" title="Exam DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB">Exam DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-500" title="Exam DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI">Exam DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a></li>
+</ul>
+
+### Will be updated on 11/3/2023:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-721" title="Exam MS-721: Collaboration Communications Systems Engineer">Exam MS-721: Collaboration Communications Systems Engineer</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a></li>
 </ul>
 
 ## Sections
@@ -195,20 +214,20 @@ Thanks!
 
 ## <span id="groupai">AI exams</span>
 
-### <a href="https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/" data-linktype="relative-path">Microsoft Certified: Azure AI Fundamentals</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a><span  style="color: green;"> (was updated on 8/4/2023)</span>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/" data-linktype="relative-path">Microsoft Certified: Azure AI Engineer Associate</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102" title="Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a><span  style="color: green;"> (will be updated on 10/31/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102" title="Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a><span  style="color: green;"> (will be updated on 10/31/2023)</span>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/" data-linktype="relative-path">Microsoft Certified: Azure AI Fundamentals</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900" title="Exam AI-900: Microsoft Azure AI Fundamentals">Exam AI-900: Microsoft Azure AI Fundamentals</a><span  style="color: green;"> (will be updated on 11/2/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -255,7 +274,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" title="Exam AZ-104: Microsoft Azure Administrator">Exam AZ-104: Microsoft Azure Administrator</a><span  style="color: green;"> (will be updated on 10/26/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-104" title="Exam AZ-104: Microsoft Azure Administrator">Exam AZ-104: Microsoft Azure Administrator</a><span  style="color: green;"> (will be updated on 10/26/2023)</span>
   </li>
 </ul>
 
@@ -273,7 +292,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a><span  style="color: green;"> (will be updated on 10/26/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-120" title="Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads">Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads</a><span  style="color: green;"> (will be updated on 10/26/2023)</span>
   </li>
 </ul>
 
@@ -282,7 +301,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-700" title="Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions">Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions</a><span  style="color: green;"> (will be updated on 10/31/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-700" title="Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions">Exam AZ-700: Designing and Implementing Microsoft Azure Networking Solutions</a><span  style="color: green;"> (will be updated on 10/31/2023)</span>
   </li>
 </ul>
 
@@ -291,7 +310,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a><span  style="color: green;"> (will be updated on 10/31/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500" title="Exam AZ-500: Microsoft Azure Security Technologies">Exam AZ-500: Microsoft Azure Security Technologies</a><span  style="color: green;"> (will be updated on 10/31/2023)</span>
   </li>
 </ul>
 
@@ -300,7 +319,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-140" title="Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop">Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop</a><span  style="color: green;"> (will be updated on 10/26/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-140" title="Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop">Exam AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop</a><span  style="color: green;"> (will be updated on 10/26/2023)</span>
   </li>
 </ul>
 
@@ -309,7 +328,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a><span  style="color: green;"> (will be updated on 10/31/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a><span  style="color: green;"> (will be updated on 10/31/2023)</span>
   </li>
 </ul>
 
@@ -318,21 +337,12 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure</a><span  style="color: green;"> (will be updated on 11/1/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure</a><span  style="color: green;"> (will be updated on 11/1/2023)</span>
   </li>
 </ul>
 
 
 ## <span id="groupdp">DP exams</span>
-
-### <a href="https://learn.microsoft.com/en-us/certifications/azure-cosmos-db-developer-specialty/" data-linktype="relative-path">Microsoft Certified: Azure Cosmos DB Developer Specialty</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-420" title="Exam DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB">Exam DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB</a><span  style="color: green;"> (was updated on 5/4/2023)</span>
-  </li>
-</ul>
-
 
 ### <a href="https://learn.microsoft.com/en-us/certifications/azure-database-administrator-associate/" data-linktype="relative-path">Microsoft Certified: Azure Database Administrator Associate</a>:
 
@@ -343,29 +353,29 @@ Thanks!
 </ul>
 
 
-### <a href="https://learn.microsoft.com/en-us/certifications/azure-data-engineer/" data-linktype="relative-path">Microsoft Certified: Azure Data Engineer Associate</a>:
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-cosmos-db-developer-specialty/" data-linktype="relative-path">Microsoft Certified: Azure Cosmos DB Developer Specialty</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203" title="Exam DP-203: Data Engineering on Microsoft Azure">Exam DP-203: Data Engineering on Microsoft Azure</a><span  style="color: green;"> (was updated on 8/24/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-420" title="Exam DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB">Exam DP-420: Designing and Implementing Cloud-Native Applications Using Microsoft Azure Cosmos DB</a><span  style="color: green;"> (will be updated on 11/2/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 
-### <a href="https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/" data-linktype="relative-path">Microsoft Certified: Azure Data Fundamentals</a>:
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/" data-linktype="relative-path">Microsoft Certified: Azure Data Engineer Associate</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a><span  style="color: green;"> (was updated on 8/4/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-203" title="Exam DP-203: Data Engineering on Microsoft Azure">Exam DP-203: Data Engineering on Microsoft Azure</a><span  style="color: green;"> (will be updated on 11/2/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
 
-### <a href="https://learn.microsoft.com/en-us/certifications/azure-enterprise-data-analyst-associate/" data-linktype="relative-path">Microsoft Certified: Azure Enterprise Data Analyst Associate</a>:
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/" data-linktype="relative-path">Microsoft Certified: Azure Data Fundamentals</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-500" title="Exam DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI">Exam DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI</a><span  style="color: green;"> (was updated on 8/24/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-900" title="Exam DP-900: Microsoft Azure Data Fundamentals">Exam DP-900: Microsoft Azure Data Fundamentals</a><span  style="color: green;"> (will be updated on 11/2/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -375,6 +385,15 @@ Thanks!
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100" title="Exam DP-100: Designing and Implementing a Data Science Solution on Azure">Exam DP-100: Designing and Implementing a Data Science Solution on Azure</a><span  style="color: green;"> (will be updated on 10/18/2023)</span>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-enterprise-data-analyst-associate/" data-linktype="relative-path">Microsoft Certified: Azure Enterprise Data Analyst Associate</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-500" title="Exam DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI">Exam DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI</a><span  style="color: green;"> (will be updated on 11/2/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -506,11 +525,11 @@ Thanks!
 
 ## <span id="groupmd">MD exams</span>
 
-### <a href="https://learn.microsoft.com/en-us/certifications/modern-desktop/" data-linktype="relative-path">Microsoft 365 Certified: Modern Desktop Administrator Associate</a>:
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/m365-endpoint-administrator/" data-linktype="relative-path">Microsoft 365 Certified: Endpoint Administrator Associate</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-102" title="Exam MD-102: Endpoint Administrator (beta)">Exam MD-102: Endpoint Administrator (beta)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/md-102" title="Exam MD-102: Endpoint Administrator">Exam MD-102: Endpoint Administrator</a><span  style="color: green;"> (will be updated on 11/1/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -627,24 +646,6 @@ Thanks!
 
 ## <span id="groupms">MS exams</span>
 
-### <a href="https://learn.microsoft.com/en-us/certifications/m365-collaboration-communications-systems-engineer/" data-linktype="relative-path">Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-721" title="Exam MS-721: Collaboration Communications Systems Engineer (beta)">Exam MS-721: Collaboration Communications Systems Engineer (beta)</a>
-  </li>
-</ul>
-
-
-### <a href="https://learn.microsoft.com/en-us/certifications/m365-enterprise-administrator/" data-linktype="relative-path">Microsoft 365 Certified: Enterprise Administrator Expert</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-102" title="Exam MS-102: Microsoft 365 Administrator (beta)">Exam MS-102: Microsoft 365 Administrator (beta)</a>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/certifications/m365-exchange-online-support-engineer-specialty/" data-linktype="relative-path">Microsoft 365 Certified: Exchange Online Support Engineer Specialty</a>:
 
 <ul>
@@ -672,6 +673,24 @@ Thanks!
 </ul>
 
 
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/m365-administrator-expert/" data-linktype="relative-path">Microsoft 365 Certified: Administrator Expert</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-102" title="Exam MS-102: Microsoft 365 Administrator">Exam MS-102: Microsoft 365 Administrator</a><span  style="color: green;"> (will be updated on 11/1/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/m365-collaboration-communications-systems-engineer/" data-linktype="relative-path">Microsoft 365 Certified: Collaboration Communications Systems Engineer Associate</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-721" title="Exam MS-721: Collaboration Communications Systems Engineer">Exam MS-721: Collaboration Communications Systems Engineer</a><span  style="color: green;"> (will be updated on 11/3/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
+
+
 ### <a href="https://learn.microsoft.com/en-us/credentials/certifications/m365-messaging-administrator/" data-linktype="relative-path">Microsoft 365 Certified: Messaging Administrator Associate</a>:
 
 <ul>
@@ -685,7 +704,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700" title="Exam MS-700: Managing Microsoft Teams">Exam MS-700: Managing Microsoft Teams</a><span  style="color: green;"> (will be updated on 10/30/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-700" title="Exam MS-700: Managing Microsoft Teams">Exam MS-700: Managing Microsoft Teams</a><span  style="color: green;"> (will be updated on 10/30/2023)</span>
   </li>
 </ul>
 
@@ -759,21 +778,12 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-300" title="Exam PL-300: Microsoft Power BI Data Analyst">Exam PL-300: Microsoft Power BI Data Analyst</a><span  style="color: green;"> (will be updated on 10/27/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-300" title="Exam PL-300: Microsoft Power BI Data Analyst">Exam PL-300: Microsoft Power BI Data Analyst</a><span  style="color: green;"> (will be updated on 10/27/2023)</span>
   </li>
 </ul>
 
 
 ## <span id="groupsc">SC exams</span>
-
-### <a href="https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/" data-linktype="relative-path">Microsoft Certified: Cybersecurity Architect Expert</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a><span  style="color: green;"> (was updated on 8/25/2023)</span>
-  </li>
-</ul>
-
 
 ### <a href="https://learn.microsoft.com/en-us/certifications/information-protection-administrator/" data-linktype="relative-path">Microsoft Certified: Information Protection Administrator Associate</a>:
 
@@ -784,20 +794,11 @@ Thanks!
 </ul>
 
 
-### <a href="https://learn.microsoft.com/en-us/certifications/security-compliance-and-identity-fundamentals/" data-linktype="relative-path">Microsoft Certified: Security, Compliance, and Identity Fundamentals</a>:
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/cybersecurity-architect-expert/" data-linktype="relative-path">Microsoft Certified: Cybersecurity Architect Expert</a>:
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (was updated on 8/7/2023)</span>
-  </li>
-</ul>
-
-
-### <a href="https://learn.microsoft.com/en-us/certifications/security-operations-analyst/" data-linktype="relative-path">Microsoft Certified: Security Operations Analyst Associate</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a><span  style="color: green;"> (was updated on 8/25/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a><span  style="color: green;"> (will be updated on 11/3/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -806,7 +807,25 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300" title="Exam SC-300: Microsoft Identity and Access Administrator">Exam SC-300: Microsoft Identity and Access Administrator</a><span  style="color: green;"> (will be updated on 10/30/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300" title="Exam SC-300: Microsoft Identity and Access Administrator">Exam SC-300: Microsoft Identity and Access Administrator</a><span  style="color: green;"> (will be updated on 10/30/2023)</span>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/" data-linktype="relative-path">Microsoft Certified: Security, Compliance, and Identity Fundamentals</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-900" title="Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals">Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals</a><span  style="color: green;"> (will be updated on 11/3/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/" data-linktype="relative-path">Microsoft Certified: Security Operations Analyst Associate</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a><span  style="color: green;"> (will be updated on 11/3/2023)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
