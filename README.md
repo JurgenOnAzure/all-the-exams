@@ -12,11 +12,6 @@ Thanks!
 <i id="updatenotice">This list was last checked on 1/7/2024, and had no changes.</i>
 
 ## Recent and upcoming exam changes
-### Was updated on 12/19/2023:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-920" title="Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)">Exam MB-920: Microsoft Dynamics 365 Fundamentals (ERP)</a></li>
-</ul>
-
 ### Was updated on 12/27/2023:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-500" title="Exam MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer">Exam MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer</a></li>
@@ -30,7 +25,7 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a></li>
 </ul>
 
-### Will be updated on 1/19/2024:
+### Was updated on 1/19/2024:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-100" title="Exam PL-100: Microsoft Power Platform App Maker">Exam PL-100: Microsoft Power Platform App Maker</a></li>
 </ul>
@@ -741,7 +736,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-100" title="Exam PL-100: Microsoft Power Platform App Maker">Exam PL-100: Microsoft Power Platform App Maker</a><span  style="color: green;"> (will be updated on 1/19/2024)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-100" title="Exam PL-100: Microsoft Power Platform App Maker">Exam PL-100: Microsoft Power Platform App Maker</a><span  style="color: green;"> (was updated on 1/19/2024)</span>
   </li>
 </ul>
 
