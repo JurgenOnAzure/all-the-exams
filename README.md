@@ -12,6 +12,11 @@ Thanks!
 <i id="updatenotice">This list was last checked on 2/4/2024, and had no changes.</i>
 
 ## Recent and upcoming exam changes
+### Will be updated on 3/4/2024:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a></li>
+</ul>
+
 ### Was updated on 1/19/2024:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-100" title="Exam PL-100: Microsoft Power Platform App Maker">Exam PL-100: Microsoft Power Platform App Maker</a></li>
@@ -71,11 +76,6 @@ Thanks!
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ai-102" title="Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution">Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300" title="Exam DP-300: Administering Microsoft Azure SQL Solutions">Exam DP-300: Administering Microsoft Azure SQL Solutions</a></li>
-</ul>
-
-### Will be updated on 3/4/2024:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200" title="Exam SC-200: Microsoft Security Operations Analyst">Exam SC-200: Microsoft Security Operations Analyst</a></li>
 </ul>
 
 ## Sections
