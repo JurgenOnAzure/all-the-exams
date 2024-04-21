@@ -12,16 +12,6 @@ Thanks!
 <i id="updatenotice">This list was last checked on 4/7/2024, and had no changes.</i>
 
 ## Recent and upcoming exam changes
-### Will be updated on 4/15/2024:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a></li>
-</ul>
-
-### Will be updated on 4/19/2024:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" title="Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant</a></li>
-</ul>
-
 ### Will be updated on 4/23/2024:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-300" title="Exam PL-300: Microsoft Power BI Data Analyst">Exam PL-300: Microsoft Power BI Data Analyst</a></li>
@@ -43,17 +33,6 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a></li>
 </ul>
 
-### Was updated on 3/18/2024:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant">Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a></li>
-</ul>
-
-### Was updated on 3/20/2024:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant</a></li>
-</ul>
-
 ### Was updated on 3/26/2024:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-910" title="Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)">Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)</a></li>
@@ -72,6 +51,16 @@ Thanks!
 ### Was updated on 4/8/2024:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900" title="Exam PL-900: Microsoft Power Platform Fundamentals">Exam PL-900: Microsoft Power Platform Fundamentals</a></li>
+</ul>
+
+### Was updated on 4/15/2024:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a></li>
+</ul>
+
+### Was updated on 4/19/2024:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" title="Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant</a></li>
 </ul>
 
 ## Sections
@@ -434,7 +423,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" title="Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant</a><span  style="color: green;"> (will be updated on 4/19/2024)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" title="Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant</a><span  style="color: green;"> (was updated on 4/19/2024)</span>
   </li>
 </ul>
 
@@ -638,7 +627,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a><span  style="color: green;"> (will be updated on 4/15/2024)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a><span  style="color: green;"> (was updated on 4/15/2024)</span>
   </li>
 </ul>
 
