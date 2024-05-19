@@ -12,11 +12,6 @@ Thanks!
 <i id="updatenotice">This list was last checked on 4/7/2024, and had no changes.</i>
 
 ## Recent and upcoming exam changes
-### Was updated on 4/15/2024:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-900" title="Exam MS-900: Microsoft 365 Fundamentals">Exam MS-900: Microsoft 365 Fundamentals</a></li>
-</ul>
-
 ### Was updated on 4/19/2024:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" title="Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant</a></li>
