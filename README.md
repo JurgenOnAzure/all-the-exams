@@ -41,7 +41,6 @@ Thanks!
   <li><a href="#groupai" title="AI exams">AI exams</a></li>
   <li><a href="#groupaz" title="AZ exams">AZ exams</a></li>
   <li><a href="#groupdp" title="DP exams">DP exams</a></li>
-  <li><a href="#groupdu" title="DU exams">DU exams</a></li>
   <li><a href="#groupmb" title="MB exams">MB exams</a></li>
   <li><a href="#groupmd" title="MD exams">MD exams</a></li>
   <li><a href="#groupmo" title="MO exams">MO exams</a></li>
@@ -310,26 +309,6 @@ Thanks!
 </ul>
 
 
-### No associated certificate:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-600" title="404 - Page not found">404 - Page not found</a>
-  </li>
-</ul>
-
-
-## <span id="groupdu">DU exams</span>
-
-### No associated certificate:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/du-mmy" title="404 - Page not found">404 - Page not found</a>
-  </li>
-</ul>
-
-
 ## <span id="groupmb">MB exams</span>
 
 ### <a href="https://learn.microsoft.com/en-us/credentials/certifications/d365-customer-insights-data-specialty/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Customer Insights (Data) Specialty</a>:
@@ -436,15 +415,6 @@ Thanks!
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-335" title="Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert">Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert</a>
-  </li>
-</ul>
-
-
-### No associated certificate:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-820" title="404 - Page not found">404 - Page not found</a>
   </li>
 </ul>
 
@@ -557,15 +527,6 @@ Thanks!
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-101" title="Exam MO-101: Microsoft Word Expert (Office 2019)">Exam MO-101: Microsoft Word Expert (Office 2019)</a>
-  </li>
-</ul>
-
-
-### No associated certificate:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mo-111" title="404 - Page not found">404 - Page not found</a>
   </li>
 </ul>
 
