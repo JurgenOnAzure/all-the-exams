@@ -9,18 +9,13 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last checked on 5/21/2024, and had no changes.</i>
+<i id="updatenotice">This list was last updated on 5/26/2024, with 2 changes since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
-### Was updated on 4/23/2024:
+### Will be updated on 7/12/2024:
 <ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-300" title="Exam PL-300: Microsoft Power BI Data Analyst">Exam PL-300: Microsoft Power BI Data Analyst</a></li>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a></li>
-</ul>
-
-### Was updated on 4/25/2024:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-335" title="Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert">Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert</a></li>
 </ul>
 
 ### Was updated on 4/26/2024:
@@ -387,7 +382,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant</a><span  style="color: green;"> (was updated on 3/17/2023)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-330" title="Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant">Exam MB-330: Microsoft Dynamics 365 Supply Chain Management Functional Consultant</a><span  style="color: green;"> (will be updated on 7/12/2024)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -414,7 +409,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-335" title="Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert">Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-335" title="Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert">Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert</a><span  style="color: green;"> (will be updated on 7/12/2024)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
