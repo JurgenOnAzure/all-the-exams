@@ -18,11 +18,6 @@ Thanks!
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-335" title="Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert">Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert</a></li>
 </ul>
 
-### Was updated on 5/3/2024:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a></li>
-</ul>
-
 ## Sections
 
 <ul>
