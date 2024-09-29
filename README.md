@@ -9,14 +9,9 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 9/22/2024, with 1 change since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last checked on 9/22/2024, and had no changes.</i>
 
 ## Recent and upcoming exam changes
-### Will be updated on 9/23/2024:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600" title="Exam PL-600: Microsoft Power Platform Solution Architect">Exam PL-600: Microsoft Power Platform Solution Architect</a></li>
-</ul>
-
 ### Will be updated on 9/30/2024:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant">Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant</a></li>
@@ -31,6 +26,11 @@ Thanks!
 ### Was updated on 9/17/2024:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a></li>
+</ul>
+
+### Was updated on 9/23/2024:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600" title="Exam PL-600: Microsoft Power Platform Solution Architect">Exam PL-600: Microsoft Power Platform Solution Architect</a></li>
 </ul>
 
 ## Sections
@@ -215,7 +215,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-305" title="Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions">Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions</a><span  style="color: green;"> (will be updated on 10/18/2024)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-305" title="Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions">Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions</a><span  style="color: green;"> (will be updated on 10/18/2024)</span>
   </li>
 </ul>
 
@@ -629,7 +629,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600" title="Exam PL-600: Microsoft Power Platform Solution Architect">Exam PL-600: Microsoft Power Platform Solution Architect</a><span  style="color: green;"> (will be updated on 9/23/2024)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600" title="Exam PL-600: Microsoft Power Platform Solution Architect">Exam PL-600: Microsoft Power Platform Solution Architect</a><span  style="color: green;"> (was updated on 9/23/2024)</span>
   </li>
 </ul>
 
