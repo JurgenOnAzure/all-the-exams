@@ -12,11 +12,6 @@ Thanks!
 <i id="updatenotice">This list was last checked on 9/22/2024, and had no changes.</i>
 
 ## Recent and upcoming exam changes
-### Was updated on 9/23/2024:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-600" title="Exam PL-600: Microsoft Power Platform Solution Architect">Exam PL-600: Microsoft Power Platform Solution Architect</a></li>
-</ul>
-
 ### Was updated on 9/30/2024:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant">Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant</a></li>
