@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last checked on 9/22/2024, and had no changes.</i>
+<i id="updatenotice">This list was last updated on 11/10/2024, with 1 change since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
 ### Was updated on 10/18/2024:
@@ -56,20 +56,20 @@ Thanks!
 </ul>
 
 
-### <a href="https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-2016/" data-linktype="relative-path">Microsoft Office Specialist: Excel (Office 2016)</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-727" title="Exam 77-727: Microsoft Excel (Office 2016)">Exam 77-727: Microsoft Excel (Office 2016)</a>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-2016-expert/" data-linktype="relative-path">Microsoft Office Specialist: Excel Expert (Office 2016)</a>:
 
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-728" title="Exam 77-728: Microsoft Excel Expert (Office 2016)">Exam 77-728: Microsoft Excel Expert (Office 2016)</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-2016/" data-linktype="relative-path">Microsoft Office Specialist: Excel (Office 2016)</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-727" title="Exam 77-727: Microsoft Excel (Office 2016)">Exam 77-727: Microsoft Excel (Office 2016)</a>
   </li>
 </ul>
 
@@ -92,20 +92,20 @@ Thanks!
 </ul>
 
 
-### <a href="https://learn.microsoft.com/en-us/credentials/certifications/mos-word-2016/" data-linktype="relative-path">Microsoft Office Specialist: Word (Office 2016)</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-725" title="Exam 77-725: Microsoft Word (Office 2016)">Exam 77-725: Microsoft Word (Office 2016)</a>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/credentials/certifications/mos-word-2016-expert/" data-linktype="relative-path">Microsoft Office Specialist: Word Expert (Office 2016)</a>:
 
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-726" title="Exam 77-726: Microsoft Word Expert (Office 2016)">Exam 77-726: Microsoft Word Expert (Office 2016)</a>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/mos-word-2016/" data-linktype="relative-path">Microsoft Office Specialist: Word (Office 2016)</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/77-725" title="Exam 77-725: Microsoft Word (Office 2016)">Exam 77-725: Microsoft Word (Office 2016)</a>
   </li>
 </ul>
 
@@ -248,15 +248,6 @@ Thanks!
 </ul>
 
 
-### <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/" data-linktype="relative-path">Microsoft Certified: Azure Database Administrator Associate</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300" title="Exam DP-300: Administering Microsoft Azure SQL Solutions">Exam DP-300: Administering Microsoft Azure SQL Solutions</a><span  style="color: green;"> (was updated on 2/7/2024)</span>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/" data-linktype="relative-path">Microsoft Certified: Azure Data Engineer Associate</a>:
 
 <ul>
@@ -280,6 +271,15 @@ Thanks!
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-100" title="Exam DP-100: Designing and Implementing a Data Science Solution on Azure">Exam DP-100: Designing and Implementing a Data Science Solution on Azure</a><span  style="color: green;"> (was updated on 10/18/2023)</span>
+  </li>
+</ul>
+
+
+### <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/" data-linktype="relative-path">Microsoft Certified: Azure Database Administrator Associate</a>:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/dp-300" title="Exam DP-300: Administering Microsoft Azure SQL Solutions">Exam DP-300: Administering Microsoft Azure SQL Solutions</a><span  style="color: green;"> (was updated on 2/7/2024)</span>
   </li>
 </ul>
 
@@ -326,7 +326,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a><span  style="color: green;"> (was updated on 9/17/2024)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a><span  style="color: green;"> (was updated on 9/23/2024)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
