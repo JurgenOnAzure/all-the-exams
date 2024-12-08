@@ -9,7 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 12/1/2024, with 1 change since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 12/1/2024, with 2 changes since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
 ### Will be updated on 12/19/2024:
@@ -309,15 +309,6 @@ Thanks!
 </ul>
 
 
-### <a href="https://learn.microsoft.com/en-us/credentials/certifications/d365-customer-insights-journeys-functional-consultant/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Customer Insights (Journeys) Functional Consultant Associate</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant</a>
-  </li>
-</ul>
-
-
 ### <a href="https://learn.microsoft.com/en-us/credentials/certifications/d365-finance-and-operations-apps-developer-associate/" data-linktype="relative-path">Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate</a>:
 
 <ul>
@@ -359,15 +350,6 @@ Thanks!
 <ul>
   <li>
     <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-310" title="Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant">Exam MB-310: Microsoft Dynamics 365 Finance Functional Consultant</a><span  style="color: green;"> (was updated on 3/29/2024)</span>
-  </li>
-</ul>
-
-
-### <a href="https://learn.microsoft.com/en-us/credentials/certifications/d365-functional-consultant-sales-v3/" data-linktype="relative-path">Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate</a>:
-
-<ul>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" title="Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant</a>
   </li>
 </ul>
 
@@ -600,7 +582,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a><span  style="color: green;"> (will be updated on 12/26/2024)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a><span  style="color: green;"> (will be updated on 12/26/2024)</span>
   </li>
 </ul>
 
@@ -673,6 +655,18 @@ Thanks!
 ## <span id="groupRetired">RETIRED exams</span>
 
 ### These are older exams that are not active anymore:
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-210" title="Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant">Exam MB-210: Microsoft Dynamics 365 Sales Functional Consultant</a><span  style="color: red;"> (WAS RETIRED ON 11/30/2024)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-220" title="Exam MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant">Exam MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant</a><span  style="color: red;"> (WAS RETIRED ON 11/30/2024)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+  </li>
+</ul>
 
 <ul>
   <li>
