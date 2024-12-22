@@ -12,14 +12,14 @@ Thanks!
 <i id="updatenotice">This list was last checked on 12/1/2024, and had no changes.</i>
 
 ## Recent and upcoming exam changes
-### Will be updated on 12/19/2024:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-335" title="Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert">Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert</a></li>
-</ul>
-
 ### Will be updated on 12/26/2024:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200" title="Exam PL-200: Microsoft Power Platform Functional Consultant">Exam PL-200: Microsoft Power Platform Functional Consultant</a></li>
+</ul>
+
+### Was updated on 12/19/2024:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-335" title="Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert">Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert</a></li>
 </ul>
 
 ## Sections
@@ -385,7 +385,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-335" title="Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert">Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert</a><span  style="color: green;"> (will be updated on 12/19/2024)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-335" title="Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert">Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert</a><span  style="color: green;"> (was updated on 12/19/2024)</span>
   </li>
 </ul>
 
