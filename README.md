@@ -9,16 +9,21 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last checked on 5/25/2025, and had no changes.</i>
+<i id="updatenotice">This list was last updated on 6/22/2025, with 1 change since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
-### Will be updated on 6/17/2025:
+### Will be updated on 7/22/2025:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a></li>
+</ul>
+
+### Was updated on 6/17/2025:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure</a></li>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services</a></li>
 </ul>
 
-### Will be updated on 6/20/2025:
+### Was updated on 6/20/2025:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-335" title="Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert">Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert</a></li>
 </ul>
@@ -232,13 +237,13 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure</a><span  style="color: green;"> (will be updated on 6/17/2025)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure</a><span  style="color: green;"> (was updated on 6/17/2025)</span>
   </li>
 </ul>
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services</a><span  style="color: green;"> (will be updated on 6/17/2025)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services</a><span  style="color: green;"> (was updated on 6/17/2025)</span>
   </li>
 </ul>
 
@@ -386,7 +391,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-335" title="Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert">Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert</a><span  style="color: green;"> (will be updated on 6/20/2025)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-335" title="Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert">Exam MB-335: Microsoft Dynamics 365 Supply Chain Management Functional Consultant Expert</a><span  style="color: green;"> (was updated on 6/20/2025)</span>
   </li>
 </ul>
 
@@ -612,7 +617,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a><span  style="color: green;"> (was updated on 4/21/2025)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a><span  style="color: green;"> (will be updated on 7/22/2025)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
