@@ -11,12 +11,6 @@ Thanks!
 
 <i id="updatenotice">This list was last checked on 6/22/2025, and had no changes.</i>
 
-## Recent and upcoming exam changes
-### Was updated on 7/22/2025:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a></li>
-</ul>
-
 ## Sections
 
 <ul>
