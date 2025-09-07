@@ -9,7 +9,13 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last checked on 6/22/2025, and had no changes.</i>
+<i id="updatenotice">This list was last updated on 9/7/2025, with 1 change since last time, indicated by (*).</i>
+
+## Recent and upcoming exam changes
+### Will be updated on 10/3/2025:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant">Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant</a></li>
+</ul>
 
 ## Sections
 
@@ -320,7 +326,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant">Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant</a><span  style="color: green;"> (was updated on 3/18/2025)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant">Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant</a><span  style="color: green;"> (will be updated on 10/3/2025)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
