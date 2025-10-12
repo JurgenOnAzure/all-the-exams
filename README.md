@@ -9,22 +9,32 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 10/5/2025, with 1 change since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 10/12/2025, with 2 changes since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
-### Will be updated on 10/6/2025:
+### Will be updated on 11/7/2025:
 <ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a></li>
 </ul>
 
-### Will be updated on 10/9/2025:
+### Will be updated on 11/10/2025:
 <ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-102" title="Exam MS-102: Microsoft 365 Administrator">Exam MS-102: Microsoft 365 Administrator</a></li>
 </ul>
 
 ### Was updated on 10/3/2025:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant">Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant</a></li>
+</ul>
+
+### Was updated on 10/6/2025:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services</a></li>
+</ul>
+
+### Was updated on 10/9/2025:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a></li>
 </ul>
 
 ## Sections
@@ -242,7 +252,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services</a><span  style="color: green;"> (will be updated on 10/6/2025)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services</a><span  style="color: green;"> (was updated on 10/6/2025)</span>
   </li>
 </ul>
 
@@ -327,7 +337,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a><span  style="color: green;"> (will be updated on 10/9/2025)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a><span  style="color: green;"> (was updated on 10/9/2025)</span>
   </li>
 </ul>
 
@@ -513,7 +523,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-102" title="Exam MS-102: Microsoft 365 Administrator">Exam MS-102: Microsoft 365 Administrator</a><span  style="color: green;"> (was updated on 4/25/2025)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-102" title="Exam MS-102: Microsoft 365 Administrator">Exam MS-102: Microsoft 365 Administrator</a><span  style="color: green;"> (will be updated on 11/10/2025)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -616,7 +626,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a><span  style="color: green;"> (was updated on 7/22/2025)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a><span  style="color: green;"> (will be updated on 11/7/2025)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
