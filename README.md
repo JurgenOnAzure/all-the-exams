@@ -12,29 +12,14 @@ Thanks!
 <i id="updatenotice">This list was last checked on 10/12/2025, and had no changes.</i>
 
 ## Recent and upcoming exam changes
-### Will be updated on 11/7/2025:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a></li>
-</ul>
-
 ### Will be updated on 11/10/2025:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-102" title="Exam MS-102: Microsoft 365 Administrator">Exam MS-102: Microsoft 365 Administrator</a></li>
 </ul>
 
-### Was updated on 10/3/2025:
+### Was updated on 11/7/2025:
 <ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-230" title="Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant">Exam MB-230: Microsoft Dynamics 365 Customer Service Functional Consultant</a></li>
-</ul>
-
-### Was updated on 10/6/2025:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-801" title="Exam AZ-801: Configuring Windows Server Hybrid Advanced Services">Exam AZ-801: Configuring Windows Server Hybrid Advanced Services</a></li>
-</ul>
-
-### Was updated on 10/9/2025:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/mb-700" title="Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect">Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect</a></li>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a></li>
 </ul>
 
 ## Sections
@@ -626,7 +611,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a><span  style="color: green;"> (will be updated on 11/7/2025)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a><span  style="color: green;"> (was updated on 11/7/2025)</span>
   </li>
 </ul>
 
