@@ -11,17 +11,6 @@ Thanks!
 
 <i id="updatenotice">This list was last checked on 1/18/2026, and had no changes.</i>
 
-## Recent and upcoming exam changes
-### Was updated on 1/21/2026:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-800" title="Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure">Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure</a></li>
-</ul>
-
-### Was updated on 1/22/2026:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a></li>
-</ul>
-
 ## Sections
 
 <ul>
