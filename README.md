@@ -9,12 +9,27 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last updated on 3/22/2026, with 1 change since last time, indicated by (*).</i>
+<i id="updatenotice">This list was last updated on 3/29/2026, with 3 changes since last time, indicated by (*).</i>
 
 ## Recent and upcoming exam changes
 ### Will be updated on 4/17/2026:
 <ul>
 <li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-305" title="Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions">Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions</a></li>
+</ul>
+
+### Will be updated on 4/24/2026:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a></li>
+</ul>
+
+### Will be updated on 4/27/2026:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a></li>
+</ul>
+
+### Will be updated on 4/28/2026:
+<ul>
+<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-102" title="Exam MS-102: Microsoft 365 Administrator">Exam MS-102: Microsoft 365 Administrator</a></li>
 </ul>
 
 ## Sections
@@ -199,7 +214,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-305" title="Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions">Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions</a><span  style="color: green;"> (will be updated on 4/17/2026)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-305" title="Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions">Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions</a><span  style="color: green;"> (will be updated on 4/17/2026)</span>
   </li>
 </ul>
 
@@ -217,7 +232,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a><span  style="color: green;"> (was updated on 7/26/2024)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a><span  style="color: green;"> (will be updated on 4/24/2026)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -503,7 +518,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-102" title="Exam MS-102: Microsoft 365 Administrator">Exam MS-102: Microsoft 365 Administrator</a><span  style="color: green;"> (was updated on 11/10/2025)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/ms-102" title="Exam MS-102: Microsoft 365 Administrator">Exam MS-102: Microsoft 365 Administrator</a><span  style="color: green;"> (will be updated on 4/28/2026)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
@@ -606,7 +621,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a><span  style="color: green;"> (was updated on 1/22/2026)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a><span  style="color: green;"> (will be updated on 4/27/2026)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
