@@ -11,17 +11,6 @@ Thanks!
 
 <i id="updatenotice">This list was last checked on 8/16/2026, and had no changes.</i>
 
-## Recent and upcoming exam changes
-### Was updated on 7/27/2026:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a></li>
-</ul>
-
-### Was updated on 7/28/2026:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a></li>
-</ul>
-
 ## Sections
 
 <ul>
