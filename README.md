@@ -9,13 +9,7 @@ Also, check out my blog at https://jurgenonazure.com, if you like.
 
 Thanks!
 
-<i id="updatenotice">This list was last checked on 10/18/2026, and had no changes.</i>
-
-## Recent and upcoming exam changes
-### Was updated on 10/21/2026:
-<ul>
-<li><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/sc-100" title="Exam SC-100: Microsoft Cybersecurity Architect">Exam SC-100: Microsoft Cybersecurity Architect</a></li>
-</ul>
+<i id="updatenotice">This list was last updated on 11/22/2026, with 1 change since last time, indicated by (*).</i>
 
 ## Sections
 
@@ -217,7 +211,7 @@ Thanks!
 
 <ul>
   <li>
-    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a><span  style="color: green;"> (was updated on 7/27/2026)</span>
+    <a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-400" title="Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions">Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions</a><span  style="color: red;"> (WILL BE RETIRED ON 2/1/2027)</span> <a href="#updatenotice" title="This was added or has changed since the last list update.">(*)</a>
   </li>
 </ul>
 
